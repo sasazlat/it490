@@ -3,7 +3,7 @@
     $('#pr').show();
     $("button#prosledi").on('click', function (e)
     {
-        
+
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             $.ajax({
                 data: {
@@ -42,7 +42,7 @@
                     $('#tabelaPrograma').show();
                     $("#kontrolnaTabela").show();
                     $("#tabelaObaveznih").show();
-                   
+
                     calculatePriznati();
                     createKonacna();
 
@@ -71,7 +71,7 @@
                             return "ФМ";
                         }
                     });
-                    
+
 
                 });
         }
@@ -79,7 +79,7 @@
             alert("Проверите да ли сте унели број ЕСП бодова или изабрали Програм УМ");
         }
         e.preventDefault();
-             
+
     });
 
     //matematicki roracuni i ispunjavanje tabela
@@ -122,19 +122,15 @@
         var tableData = new Array();
         $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
         {
-            //$('input[type="checkbox"]').prop('checked', 'false')
-            //$("input:not(:checkbox)")
-            //if ($(this).find($('input:checkbox:not(:checked)'))) {
             var tr = $(this).closest('tr');
-                tableData[row] = {
-                    'id': $(tr).find('td:eq(0)').text()
-                    , 'sifra': $(tr).find('td:eq(1)').text()
-                    , 'punoIme': $(tr).find('td:eq(2)').text()
-                    , 'espb': $(tr).find('td:eq(3)').text()
-                    , 'semestar': $(tr).find('td:eq(4)').text()
-                }
-                console.log(tableData[row]);
-            //}
+            tableData[row] = {
+                'id': $(tr).find('td:eq(0)').text()
+                , 'sifra': $(tr).find('td:eq(1)').text()
+                , 'punoIme': $(tr).find('td:eq(2)').text()
+                , 'espb': $(tr).find('td:eq(3)').text()
+                , 'semestar': $(tr).find('td:eq(4)').text()
+            }
+
         });
         // first row will be empty - so remove
         //tableData.shift();
