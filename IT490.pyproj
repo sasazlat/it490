@@ -51,6 +51,7 @@
     <Content Include="IT490\templates\index.html" />
     <Content Include="IT490\templates\layout.html" />
     <Content Include="MOCK_DATA.json" />
+    <Content Include="Procfile" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
