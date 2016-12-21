@@ -1,0 +1,416 @@
+﻿{% extends 'layout.html' %}
+
+
+{% block title %}
+{{super()}}
+    Index Page
+{% endblock title %}
+
+{% block head %}
+{{super()}}
+<link href="../static/css/bootstrap.css" rel="stylesheet" />
+{#<script src="../static/scripts/newlista.js"></script>#}
+<style>
+    td > input[type='text'], html > body input[type='email'] {
+        width: 99%; /*this will set the width of the textbox equal to its container td*/
+    }
+
+    caption {
+        display: table-caption;
+        text-align: center;
+    }
+</style>
+{% endblock head %}
+
+{% block content %}
+{{super()}}
+
+{#
+<div id="pr" class="row" style="display:none">
+    <div class="col-md-8 col-sm-12">
+        <table id="prijava" class="table table-bordered table-striped table-hover table-responsive">
+            <caption>Школска 2016-17</caption>
+            <tbody>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+                        Име и презиме кандидата
+                    </td>
+                    <td>
+                        <input type="text" id="ime" placeholder="Upisite ime i prezime" />
+                    </td>
+                    <td>
+                        Telefon
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+                        е-маил адреса:
+                    </td>
+                    <td>
+                        <input type="email" id="email" placeholder="Upisite email" />
+                    </td>
+                    <td>
+                        <input type="text" id="telefon" placeholder="Upisite telefon" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+                        Претходна ВШУ:
+                    </td>
+                    <td colspan="2">
+                        <input type="text" id="vsu" placeholder="Prethodna VSU" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+                        Претходни  студ. програм
+                    </td>
+                    <td>
+                        <input type="text" id="psp" placeholder="Studijski program" />
+                    </td>
+                    <td>
+                        Diploma
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+                        Број стечених ЕСПБ:
+                    </td>
+                    <td>
+                        <input type="text" id="steceniESPB" placeholder="ESPB" required />
+                    </td>
+                    <td>
+                        <select id="diploma" name="diploma" class="form-control">
+                            <option value="0">Diploma?</option>
+                            <option value="1">Da</option>
+                            <option value="2">Ne</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        6
+                    </td>
+                    <td>
+                        Програм УМ (за упис)
+                    </td>
+                    <td colspan="2">
+                        <select id="upisPrograma" name="upisPrograma" class="form-control" required>
+                            <option value="none">izaberite program UM</option>
+                            <option value="fit">FIT</option>
+                            <option value="fdu">FDU</option>
+                            <option value="fm">FM</option>
+                        </select>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button id="prosledi" type="submit" value="Prosledi">Prosledi</button>
+    </div>
+</div>
+#}
+{#
+<div id="tabelaPrograma" class="row" style="display: none;">
+    <table id="target_table_id" class="table table-bordered table-striped table-hover table-responsive">
+        <caption>НАЈБИТНИЈИ ПРЕДМЕТИ СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+        <thead>
+            <tr>
+                <th>ИД</th>
+                <th>Шифра</th>
+                <th>Назив предмета</th>
+                <th>ЕСПБ</th>
+                <th>Сем</th>
+                <th>Признат број  ЕСПБ</th>
+                <th>ЕСПБ додатих предмета</th>
+                <th>признат или Т3 или  Т4</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+        <tfoot>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th>Ukupno ESPB</th>
+                <th id="sum5"></th>
+                <th id="sum6"></th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+#}
+{#<div id="kontrolnaTabela" class="row" style="display:none">
+    <div class="col-md-8">
+        <table id="kontrolna" class="table table-bordered table-striped table-hover table-responsive">
+            <caption>ЗАВРШНА ТАБЕЛА СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+            <tbody>
+                <tr>
+                    <td>Збир ЕСПБ пренетих предмета (без признатих):</td>
+                    <td id="0"></td>
+                </tr>
+                <tr>
+                    <td>Збир ЕСПБ  признатих  битних предмета (Т1)</td>
+                    <td id="1"></td>
+                </tr>
+                <tr>
+                    <td>Збир ЕСПБ битних предмета-као диференцијалне (Т1: диф.испити Т3)</td>
+                    <td id="2"></td>
+                </tr>
+                <tr>
+                    <td>Збир ЕСПБ битних предмета које студент мора да студира (из Т 1 у Т4)</td>
+                    <td id="3"></td>
+                </tr>
+                <tr>
+                    <td>Збир  ЕСПБ признатих, битних, осталих обавезних и диференцијалних предмета:</td>
+                    <td id="4"></td>
+                </tr>
+                <tr>
+                    <td>Број ЕСПБ који недостаје:</td>
+                    <td id="5"></td>
+                </tr>
+                <tr>
+                    <td>Недостајући број  ЕСПБ који треба да обезбеде изборни предмети из Т3:</td>
+                    <td id="6"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>#}
+{#<div id="tabelaObaveznih" class="row" style="display: none;">
+    <table id="obavezni" class="table table-bordered table-striped table-hover table-responsive">
+        <caption>ОБАВЕЗНИ ПРЕДМЕТИ СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+        <thead>
+            <tr>
+                <th>ИД</th>
+                <th>Шифра</th>
+                <th>Назив предмета</th>
+                <th>ЕСПБ</th>
+                <th>Сем</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>#}
+<div class="container">
+    <div class="page-header">
+        <h1>
+            <span class="pull-right label label-default"><span class="fakultet"></span></span>
+
+        </h1>
+    </div>
+    <div class="row">
+        <div class="col-md-10">
+            <div class="panel with-nav-tabs panel-default">
+                <div id="tabs" class="panel-heading">
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#pr" data-toggle="tab">Провера бодова</a></li>
+                        <li id="tabelaPrograma" style="display:none"><a href="#tp" data-toggle="tab">Најбитнији предмети</a></li>
+                        <li id="kontrolnaTabela" style="display:none"><a href="#kt" data-toggle="tab">Прорачун бодова</a></li>
+                        <li id="tabelaObaveznih" style="display:none"><a href="#to" data-toggle="tab">Обавезни предмети</a></li>
+                    </ul>
+                </div>
+                <div class="panel-body">
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="pr" style="display:none">
+                            <table id="prijava" class="table table-bordered table-striped table-hover table-responsive">
+                                <caption>Школска 2016-17</caption>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            1
+                                        </td>
+                                        <td>
+                                            Име и презиме кандидата
+                                        </td>
+                                        <td>
+                                            <input type="text" id="ime" placeholder="Upisite ime i prezime" />
+                                        </td>
+                                        <td>
+                                            Telefon
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            2
+                                        </td>
+                                        <td>
+                                            е-маил адреса:
+                                        </td>
+                                        <td>
+                                            <input type="email" id="email" placeholder="Upisite email" />
+                                        </td>
+                                        <td>
+                                            <input type="text" id="telefon" placeholder="Upisite telefon" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            3
+                                        </td>
+                                        <td>
+                                            Претходна ВШУ:
+                                        </td>
+                                        <td colspan="2">
+                                            <input type="text" id="vsu" placeholder="Prethodna VSU" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            4
+                                        </td>
+                                        <td>
+                                            Претходни  студ. програм
+                                        </td>
+                                        <td>
+                                            <input type="text" id="psp" placeholder="Studijski program" />
+                                        </td>
+                                        <td>
+                                            Diploma
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            5
+                                        </td>
+                                        <td>
+                                            Број стечених ЕСПБ:
+                                        </td>
+                                        <td>
+                                            <input type="text" id="steceniESPB" placeholder="ESPB" required />
+                                        </td>
+
+                                        <td>
+                                            <select id="diploma" name="diploma" class="form-control">
+                                                <option value="0">Diploma?</option>
+                                                <option value="1">Da</option>
+                                                <option value="2">Ne</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            6
+                                        </td>
+                                        <td>
+                                            Програм УМ (за упис)
+                                        </td>
+                                        <td colspan="2">
+                                            <select id="upisPrograma" name="upisPrograma" class="form-control" required>
+                                                <option value="none">izaberite program UM</option>
+                                                <option value="fit">FIT</option>
+                                                <option value="fdu">FDU</option>
+                                                <option value="fm">FM</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <button id="prosledi" type="submit" value="Prosledi">Prosledi</button>
+                        </div>
+                        <div class="tab-pane fade" id="tp">
+                            <table id="target_table_id" class="table table-bordered table-striped table-hover table-responsive">
+                                <caption>НАЈБИТНИЈИ ПРЕДМЕТИ СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+                                <thead>
+                                    <tr>
+                                        <th>ИД</th>
+                                        <th>Шифра</th>
+                                        <th>Назив предмета</th>
+                                        <th>ЕСПБ</th>
+                                        <th>Сем</th>
+                                        <th>Признат број  ЕСПБ</th>
+                                        <th>ЕСПБ додатих предмета</th>
+                                        <th>признат или Т3 или  Т4</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th></th>
+                                        <th></th>
+                                        <th></th>
+                                        <th></th>
+                                        <th>Ukupno ESPB</th>
+                                        <th id="sum5"></th>
+                                        <th id="sum6"></th>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                        <div class="tab-pane fade" id="kt">
+                            <table id="kontrolna" class="table table-bordered table-striped table-hover table-responsive">
+                                <caption>ЗАВРШНА ТАБЕЛА СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+                                <tbody>
+                                    <tr>
+                                        <td>Збир ЕСПБ пренетих предмета (без признатих):</td>
+                                        <td id="0"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Збир ЕСПБ  признатих  битних предмета (Т1)</td>
+                                        <td id="1"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Збир ЕСПБ битних предмета-као диференцијалне (Т1: диф.испити Т3)</td>
+                                        <td id="2"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Збир ЕСПБ битних предмета које студент мора да студира (из Т 1 у Т4)</td>
+                                        <td id="3"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Збир  ЕСПБ признатих, битних, осталих обавезних и диференцијалних предмета:</td>
+                                        <td id="4"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Број ЕСПБ који недостаје:</td>
+                                        <td id="5"></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Недостајући број  ЕСПБ који треба да обезбеде изборни предмети из Т3:</td>
+                                        <td id="6"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="tab-pane fade" id="to">
+                            <table id="obavezni" class="table table-bordered table-striped table-hover table-responsive">
+                                <caption>ОБАВЕЗНИ ПРЕДМЕТИ СТУДИЈСКОГ ПРОГРАМА <span class="fakultet"></span></caption>
+                                <thead>
+                                    <tr>
+                                        <th>ИД</th>
+                                        <th>Шифра</th>
+                                        <th>Назив предмета</th>
+                                        <th>ЕСПБ</th>
+                                        <th>Сем</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                            </table>
+                        </div>
+                        {#<div class="tab-pane fade" id="tab5default">Default 5</div>#}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="../static/scripts/processprijave.js"></script>
+{% endblock content %}

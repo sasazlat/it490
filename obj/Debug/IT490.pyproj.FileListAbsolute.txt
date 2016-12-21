@@ -1,0 +1,13 @@
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\bin\Microsoft.PythonTools.WebRole.dll
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\attach_server.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\visualstudio_py_debugger.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\visualstudio_py_repl.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\visualstudio_py_util.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\__init__.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\__main__.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\bin\AzureSetup.cfg
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\bin\wfastcgi.py
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\web.config
+D:\sasazlat\Dropbox\TeamFolder\flask\PythonApplication1\IT490\obj\Debug\web.debug.config

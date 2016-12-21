@@ -1,0 +1,8002 @@
+[
+    {
+        "id": 1,
+        "sifra": 1012,
+        "punoIme": "Walker and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 2,
+        "sifra": 1033,
+        "punoIme": "Tremblay-Treutel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 3,
+        "sifra": 1583,
+        "punoIme": "Shanahan-Sawayn",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 4,
+        "sifra": 1321,
+        "punoIme": "Fadel and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 5,
+        "sifra": 1460,
+        "punoIme": "Block-Kuphal",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 6,
+        "sifra": 1346,
+        "punoIme": "Weimann, Funk and McDermott",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 7,
+        "sifra": 1516,
+        "punoIme": "O'Conner-Sanford",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 8,
+        "sifra": 1257,
+        "punoIme": "Huel LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 9,
+        "sifra": 1050,
+        "punoIme": "Larson Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 10,
+        "sifra": 1586,
+        "punoIme": "Reinger-Kozey",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 11,
+        "sifra": 1793,
+        "punoIme": "Kulas, Mayert and Cole",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 12,
+        "sifra": 1189,
+        "punoIme": "Blanda, Lockman and Thiel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 13,
+        "sifra": 1503,
+        "punoIme": "Kerluke, Pfannerstill and Schimmel",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 14,
+        "sifra": 1184,
+        "punoIme": "O'Conner and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 15,
+        "sifra": 1670,
+        "punoIme": "Howe Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 16,
+        "sifra": 1759,
+        "punoIme": "Haley and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 17,
+        "sifra": 1760,
+        "punoIme": "Rath-Gerlach",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 18,
+        "sifra": 1517,
+        "punoIme": "Keebler and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 19,
+        "sifra": 1334,
+        "punoIme": "Torphy-Balistreri",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 20,
+        "sifra": 1769,
+        "punoIme": "Koelpin-Monahan",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 21,
+        "sifra": 1077,
+        "punoIme": "Considine-Heller",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 22,
+        "sifra": 1226,
+        "punoIme": "Kulas Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 23,
+        "sifra": 1186,
+        "punoIme": "Klein, Johnson and Corwin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 24,
+        "sifra": 1471,
+        "punoIme": "Walter-Herman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 25,
+        "sifra": 1188,
+        "punoIme": "Koepp, Nolan and Pfannerstill",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 26,
+        "sifra": 1734,
+        "punoIme": "Walker, Schuppe and Stracke",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 27,
+        "sifra": 1783,
+        "punoIme": "Franecki, Hintz and Thiel",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 28,
+        "sifra": 1146,
+        "punoIme": "Schulist, Barrows and Ankunding",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 29,
+        "sifra": 1284,
+        "punoIme": "Weber-Bogan",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 30,
+        "sifra": 1697,
+        "punoIme": "Bauch, Gleichner and Durgan",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 31,
+        "sifra": 1536,
+        "punoIme": "Halvorson-Considine",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 32,
+        "sifra": 1190,
+        "punoIme": "Casper and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 33,
+        "sifra": 1025,
+        "punoIme": "Langworth-Wolff",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 34,
+        "sifra": 1113,
+        "punoIme": "Macejkovic-Mueller",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 35,
+        "sifra": 1000,
+        "punoIme": "West Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 36,
+        "sifra": 1154,
+        "punoIme": "Durgan-Littel",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 37,
+        "sifra": 1013,
+        "punoIme": "Collier, Pacocha and Donnelly",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 38,
+        "sifra": 1708,
+        "punoIme": "Metz, Daugherty and Trantow",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 39,
+        "sifra": 1282,
+        "punoIme": "Runolfsson-Reichel",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 40,
+        "sifra": 1257,
+        "punoIme": "Jacobi, Brakus and Fay",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 41,
+        "sifra": 1451,
+        "punoIme": "Kozey and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 42,
+        "sifra": 1224,
+        "punoIme": "Jerde, Carter and Harris",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 43,
+        "sifra": 1247,
+        "punoIme": "Marquardt and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 44,
+        "sifra": 1546,
+        "punoIme": "Nader, Nitzsche and Purdy",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 45,
+        "sifra": 1395,
+        "punoIme": "Collier Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 46,
+        "sifra": 1332,
+        "punoIme": "Stanton, Davis and Goldner",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 47,
+        "sifra": 1769,
+        "punoIme": "Harvey and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 48,
+        "sifra": 1405,
+        "punoIme": "Herman, Schimmel and Gutmann",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 49,
+        "sifra": 1605,
+        "punoIme": "Lemke, Denesik and Kiehn",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 50,
+        "sifra": 1288,
+        "punoIme": "Brekke LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 51,
+        "sifra": 1054,
+        "punoIme": "Jenkins LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 52,
+        "sifra": 1564,
+        "punoIme": "Wiegand, Thompson and Boyer",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 53,
+        "sifra": 1520,
+        "punoIme": "Glover-Veum",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 54,
+        "sifra": 1722,
+        "punoIme": "Adams, Bins and Cartwright",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 55,
+        "sifra": 1060,
+        "punoIme": "Green and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 56,
+        "sifra": 1265,
+        "punoIme": "Anderson-O'Conner",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 57,
+        "sifra": 1666,
+        "punoIme": "Emmerich, Dicki and Abbott",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 58,
+        "sifra": 1610,
+        "punoIme": "Cartwright Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 59,
+        "sifra": 1410,
+        "punoIme": "Hilpert-Littel",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 60,
+        "sifra": 1059,
+        "punoIme": "Medhurst Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 61,
+        "sifra": 1323,
+        "punoIme": "Connelly, Runte and Murazik",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 62,
+        "sifra": 1528,
+        "punoIme": "Collins, O'Connell and Grady",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 63,
+        "sifra": 1047,
+        "punoIme": "Brakus Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 64,
+        "sifra": 1577,
+        "punoIme": "Wiza, Schmeler and Kling",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 65,
+        "sifra": 1793,
+        "punoIme": "Kulas-Bayer",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 66,
+        "sifra": 1224,
+        "punoIme": "Jacobs Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 67,
+        "sifra": 1572,
+        "punoIme": "Koelpin-O'Connell",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 68,
+        "sifra": 1495,
+        "punoIme": "Reichert-Botsford",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 69,
+        "sifra": 1107,
+        "punoIme": "Aufderhar-Greenfelder",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 70,
+        "sifra": 1101,
+        "punoIme": "Hagenes-Weissnat",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 71,
+        "sifra": 1433,
+        "punoIme": "Beahan, Eichmann and Will",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 72,
+        "sifra": 1529,
+        "punoIme": "Wilderman LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 73,
+        "sifra": 1215,
+        "punoIme": "Hessel, Tromp and Auer",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 74,
+        "sifra": 1043,
+        "punoIme": "Sporer-Ankunding",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 75,
+        "sifra": 1324,
+        "punoIme": "Fay LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 76,
+        "sifra": 1355,
+        "punoIme": "Schoen LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 77,
+        "sifra": 1475,
+        "punoIme": "Hartmann Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 78,
+        "sifra": 1401,
+        "punoIme": "Bailey, Hegmann and Buckridge",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 79,
+        "sifra": 1432,
+        "punoIme": "Spencer Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 80,
+        "sifra": 1168,
+        "punoIme": "Berge, Stiedemann and Blanda",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 81,
+        "sifra": 1599,
+        "punoIme": "Heller, Schiller and Mante",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 82,
+        "sifra": 1758,
+        "punoIme": "Konopelski, Little and Powlowski",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 83,
+        "sifra": 1128,
+        "punoIme": "Torp Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 84,
+        "sifra": 1463,
+        "punoIme": "Becker LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 85,
+        "sifra": 1554,
+        "punoIme": "Batz LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 86,
+        "sifra": 1191,
+        "punoIme": "Mosciski-Dooley",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 87,
+        "sifra": 1107,
+        "punoIme": "Leffler, Schuppe and Bradtke",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 88,
+        "sifra": 1146,
+        "punoIme": "Strosin and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 89,
+        "sifra": 1716,
+        "punoIme": "McDermott, Terry and Runolfsson",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 90,
+        "sifra": 1603,
+        "punoIme": "Ankunding-Jaskolski",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 91,
+        "sifra": 1579,
+        "punoIme": "Leffler Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 92,
+        "sifra": 1180,
+        "punoIme": "Vandervort Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 93,
+        "sifra": 1456,
+        "punoIme": "Wuckert, Morar and Lehner",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 94,
+        "sifra": 1005,
+        "punoIme": "Brekke and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 95,
+        "sifra": 1060,
+        "punoIme": "Jast-Wisoky",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 96,
+        "sifra": 1025,
+        "punoIme": "Cummings Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 97,
+        "sifra": 1470,
+        "punoIme": "Renner LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 98,
+        "sifra": 1365,
+        "punoIme": "Prosacco LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 99,
+        "sifra": 1582,
+        "punoIme": "Wisoky Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 100,
+        "sifra": 1056,
+        "punoIme": "Armstrong-McGlynn",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 101,
+        "sifra": 1521,
+        "punoIme": "Treutel-Renner",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 102,
+        "sifra": 1182,
+        "punoIme": "Schneider, Green and Mann",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 103,
+        "sifra": 1173,
+        "punoIme": "Jacobi, Rohan and Bayer",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 104,
+        "sifra": 1068,
+        "punoIme": "Heathcote-Jast",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 105,
+        "sifra": 1731,
+        "punoIme": "Fadel, Willms and Green",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 106,
+        "sifra": 1671,
+        "punoIme": "Schulist-Nicolas",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 107,
+        "sifra": 1259,
+        "punoIme": "Dare-Kris",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 108,
+        "sifra": 1623,
+        "punoIme": "Reinger, Mitchell and Reinger",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 109,
+        "sifra": 1451,
+        "punoIme": "Fay, Hilll and Hermann",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 110,
+        "sifra": 1132,
+        "punoIme": "Schinner-Rosenbaum",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 111,
+        "sifra": 1177,
+        "punoIme": "Funk Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 112,
+        "sifra": 1167,
+        "punoIme": "Cronin Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 113,
+        "sifra": 1007,
+        "punoIme": "Stamm Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 114,
+        "sifra": 1556,
+        "punoIme": "Satterfield-Brekke",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 115,
+        "sifra": 1650,
+        "punoIme": "Rosenbaum, Mills and Bergnaum",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 116,
+        "sifra": 1224,
+        "punoIme": "Glover Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 117,
+        "sifra": 1784,
+        "punoIme": "Dibbert LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 118,
+        "sifra": 1198,
+        "punoIme": "Dach, Pouros and Weimann",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 119,
+        "sifra": 1418,
+        "punoIme": "Feeney Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 120,
+        "sifra": 1718,
+        "punoIme": "Russel, Bartoletti and Gibson",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 121,
+        "sifra": 1499,
+        "punoIme": "King, Schaden and Hudson",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 122,
+        "sifra": 1695,
+        "punoIme": "Kris-Hettinger",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 123,
+        "sifra": 1537,
+        "punoIme": "Balistreri, Hansen and Prosacco",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 124,
+        "sifra": 1089,
+        "punoIme": "Kertzmann-Bailey",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 125,
+        "sifra": 1242,
+        "punoIme": "Rutherford LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 126,
+        "sifra": 1787,
+        "punoIme": "Fritsch, Walker and Glover",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 127,
+        "sifra": 1461,
+        "punoIme": "Orn-Kreiger",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 128,
+        "sifra": 1575,
+        "punoIme": "Schumm, Hoeger and Haley",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 129,
+        "sifra": 1341,
+        "punoIme": "Keeling Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 130,
+        "sifra": 1216,
+        "punoIme": "Senger, Wisozk and Hoeger",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 131,
+        "sifra": 1451,
+        "punoIme": "Heathcote, Kuhn and Goldner",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 132,
+        "sifra": 1696,
+        "punoIme": "Mohr-Kohler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 133,
+        "sifra": 1130,
+        "punoIme": "Jenkins, Goldner and Runte",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 134,
+        "sifra": 1653,
+        "punoIme": "Dibbert, Hilpert and Fay",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 135,
+        "sifra": 1389,
+        "punoIme": "Kuhlman, Homenick and Haag",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 136,
+        "sifra": 1338,
+        "punoIme": "Kihn, Cummings and Russel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 137,
+        "sifra": 1115,
+        "punoIme": "Goodwin, Brown and Heidenreich",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 138,
+        "sifra": 1728,
+        "punoIme": "Simonis, Christiansen and Reichert",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 139,
+        "sifra": 1400,
+        "punoIme": "Runolfsson, Okuneva and Crooks",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 140,
+        "sifra": 1610,
+        "punoIme": "Kunde-Erdman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 141,
+        "sifra": 1454,
+        "punoIme": "Christiansen-Legros",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 142,
+        "sifra": 1517,
+        "punoIme": "Gerlach Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 143,
+        "sifra": 1719,
+        "punoIme": "Schaefer, Strosin and Satterfield",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 144,
+        "sifra": 1672,
+        "punoIme": "Brakus, Reynolds and Corwin",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 145,
+        "sifra": 1552,
+        "punoIme": "Hilll-Goodwin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 146,
+        "sifra": 1679,
+        "punoIme": "Jacobson, Spinka and Langosh",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 147,
+        "sifra": 1676,
+        "punoIme": "Dooley, Parisian and Mayer",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 148,
+        "sifra": 1288,
+        "punoIme": "Botsford-Rogahn",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 149,
+        "sifra": 1537,
+        "punoIme": "Marks-Durgan",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 150,
+        "sifra": 1126,
+        "punoIme": "O'Connell Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 151,
+        "sifra": 1078,
+        "punoIme": "Kunde Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 152,
+        "sifra": 1390,
+        "punoIme": "Trantow Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 153,
+        "sifra": 1776,
+        "punoIme": "Hills and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 154,
+        "sifra": 1446,
+        "punoIme": "Kiehn-Koss",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 155,
+        "sifra": 1458,
+        "punoIme": "Dach, Kassulke and Stark",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 156,
+        "sifra": 1024,
+        "punoIme": "Bergnaum-Bartoletti",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 157,
+        "sifra": 1033,
+        "punoIme": "Braun-Koepp",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 158,
+        "sifra": 1537,
+        "punoIme": "Senger, Osinski and Pagac",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 159,
+        "sifra": 1007,
+        "punoIme": "Reichert, Collins and Sauer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 160,
+        "sifra": 1580,
+        "punoIme": "Prohaska-Reinger",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 161,
+        "sifra": 1057,
+        "punoIme": "Klein, Walker and Ruecker",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 162,
+        "sifra": 1597,
+        "punoIme": "Witting, Erdman and Dach",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 163,
+        "sifra": 1766,
+        "punoIme": "Weissnat-Krajcik",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 164,
+        "sifra": 1780,
+        "punoIme": "Mayer-Bogan",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 165,
+        "sifra": 1434,
+        "punoIme": "Upton-Breitenberg",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 166,
+        "sifra": 1724,
+        "punoIme": "Romaguera, Koss and Rutherford",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 167,
+        "sifra": 1196,
+        "punoIme": "Feeney Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 168,
+        "sifra": 1480,
+        "punoIme": "Hintz-Bashirian",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 169,
+        "sifra": 1209,
+        "punoIme": "Hackett, O'Keefe and Muller",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 170,
+        "sifra": 1779,
+        "punoIme": "Funk, Dare and Sanford",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 171,
+        "sifra": 1701,
+        "punoIme": "Dare Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 172,
+        "sifra": 1576,
+        "punoIme": "Johns, Predovic and Jacobson",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 173,
+        "sifra": 1014,
+        "punoIme": "Frami, Ruecker and Rau",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 174,
+        "sifra": 1551,
+        "punoIme": "Jacobi and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 175,
+        "sifra": 1088,
+        "punoIme": "Goodwin-Kessler",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 176,
+        "sifra": 1528,
+        "punoIme": "Wiegand, Tillman and Beier",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 177,
+        "sifra": 1639,
+        "punoIme": "Veum-Dare",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 178,
+        "sifra": 1422,
+        "punoIme": "Mante Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 179,
+        "sifra": 1539,
+        "punoIme": "Krajcik Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 180,
+        "sifra": 1611,
+        "punoIme": "Ondricka, Olson and Ritchie",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 181,
+        "sifra": 1050,
+        "punoIme": "Johnson-Lueilwitz",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 182,
+        "sifra": 1025,
+        "punoIme": "Boehm and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 183,
+        "sifra": 1519,
+        "punoIme": "Murray, Kuhlman and Wunsch",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 184,
+        "sifra": 1647,
+        "punoIme": "Shields and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 185,
+        "sifra": 1056,
+        "punoIme": "Thompson-Legros",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 186,
+        "sifra": 1661,
+        "punoIme": "Dach, Steuber and Von",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 187,
+        "sifra": 1311,
+        "punoIme": "Aufderhar, Lakin and McDermott",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 188,
+        "sifra": 1272,
+        "punoIme": "Grimes Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 189,
+        "sifra": 1297,
+        "punoIme": "Kessler Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 190,
+        "sifra": 1445,
+        "punoIme": "Barrows-Tremblay",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 191,
+        "sifra": 1283,
+        "punoIme": "Marquardt, Wolf and Blick",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 192,
+        "sifra": 1029,
+        "punoIme": "McDermott, Berge and Roberts",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 193,
+        "sifra": 1048,
+        "punoIme": "Runolfsson, Senger and Schaefer",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 194,
+        "sifra": 1424,
+        "punoIme": "Brown, Boehm and Ritchie",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 195,
+        "sifra": 1695,
+        "punoIme": "Sporer Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 196,
+        "sifra": 1699,
+        "punoIme": "Lowe, O'Keefe and Willms",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 197,
+        "sifra": 1507,
+        "punoIme": "Hand, Gusikowski and Morar",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 198,
+        "sifra": 1053,
+        "punoIme": "Abbott Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 199,
+        "sifra": 1479,
+        "punoIme": "Larkin, Harris and Lehner",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 200,
+        "sifra": 1449,
+        "punoIme": "Langworth and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 201,
+        "sifra": 1619,
+        "punoIme": "Stanton Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 202,
+        "sifra": 1005,
+        "punoIme": "Wunsch, Osinski and Kris",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 203,
+        "sifra": 1131,
+        "punoIme": "Haag Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 204,
+        "sifra": 1752,
+        "punoIme": "Goodwin-Cruickshank",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 205,
+        "sifra": 1557,
+        "punoIme": "Jenkins Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 206,
+        "sifra": 1075,
+        "punoIme": "Cummings, Wiegand and Nicolas",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 207,
+        "sifra": 1274,
+        "punoIme": "Hartmann-Bauch",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 208,
+        "sifra": 1107,
+        "punoIme": "Mayert-Swift",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 209,
+        "sifra": 1767,
+        "punoIme": "Sporer-Fritsch",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 210,
+        "sifra": 1262,
+        "punoIme": "Metz-Carroll",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 211,
+        "sifra": 1585,
+        "punoIme": "Casper, Ledner and Hartmann",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 212,
+        "sifra": 1376,
+        "punoIme": "Will, Pollich and Armstrong",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 213,
+        "sifra": 1192,
+        "punoIme": "Rippin Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 214,
+        "sifra": 1138,
+        "punoIme": "Smitham and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 215,
+        "sifra": 1216,
+        "punoIme": "Pollich and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 216,
+        "sifra": 1028,
+        "punoIme": "Altenwerth Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 217,
+        "sifra": 1289,
+        "punoIme": "Miller Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 218,
+        "sifra": 1010,
+        "punoIme": "Bradtke-Kilback",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 219,
+        "sifra": 1002,
+        "punoIme": "Cassin Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 220,
+        "sifra": 1751,
+        "punoIme": "Casper, Wunsch and Stamm",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 221,
+        "sifra": 1204,
+        "punoIme": "Moen, Treutel and Jacobi",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 222,
+        "sifra": 1771,
+        "punoIme": "Walker-Fahey",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 223,
+        "sifra": 1438,
+        "punoIme": "Bode, Willms and Dickens",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 224,
+        "sifra": 1205,
+        "punoIme": "Lesch Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 225,
+        "sifra": 1473,
+        "punoIme": "Terry Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 226,
+        "sifra": 1293,
+        "punoIme": "Koch Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 227,
+        "sifra": 1158,
+        "punoIme": "Corwin-Klocko",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 228,
+        "sifra": 1336,
+        "punoIme": "Shanahan, Hegmann and Dooley",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 229,
+        "sifra": 1233,
+        "punoIme": "Schiller and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 230,
+        "sifra": 1757,
+        "punoIme": "Adams-Emmerich",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 231,
+        "sifra": 1745,
+        "punoIme": "Turcotte-Rice",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 232,
+        "sifra": 1129,
+        "punoIme": "Koch and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 233,
+        "sifra": 1258,
+        "punoIme": "DuBuque LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 234,
+        "sifra": 1030,
+        "punoIme": "Stanton, Haag and Schultz",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 235,
+        "sifra": 1233,
+        "punoIme": "Balistreri-O'Kon",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 236,
+        "sifra": 1149,
+        "punoIme": "Abshire, Heller and Kirlin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 237,
+        "sifra": 1786,
+        "punoIme": "Veum LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 238,
+        "sifra": 1380,
+        "punoIme": "Hodkiewicz and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 239,
+        "sifra": 1349,
+        "punoIme": "Shanahan Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 240,
+        "sifra": 1578,
+        "punoIme": "Dach-Schmidt",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 241,
+        "sifra": 1284,
+        "punoIme": "Oberbrunner Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 242,
+        "sifra": 1383,
+        "punoIme": "Paucek, Lang and Beier",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 243,
+        "sifra": 1334,
+        "punoIme": "Mertz Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 244,
+        "sifra": 1076,
+        "punoIme": "Abshire, Mayert and Kuphal",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 245,
+        "sifra": 1511,
+        "punoIme": "Trantow and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 246,
+        "sifra": 1288,
+        "punoIme": "Weissnat, Kassulke and Graham",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 247,
+        "sifra": 1720,
+        "punoIme": "Ward-Waters",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 248,
+        "sifra": 1431,
+        "punoIme": "Kuhn-Cummings",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 249,
+        "sifra": 1526,
+        "punoIme": "Ondricka-Morar",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 250,
+        "sifra": 1314,
+        "punoIme": "Dare-Shanahan",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 251,
+        "sifra": 1449,
+        "punoIme": "Goodwin-Crist",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 252,
+        "sifra": 1053,
+        "punoIme": "O'Connell Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 253,
+        "sifra": 1523,
+        "punoIme": "Hagenes-Herman",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 254,
+        "sifra": 1173,
+        "punoIme": "Feest, Boyle and Reichel",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 255,
+        "sifra": 1130,
+        "punoIme": "Wolf Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 256,
+        "sifra": 1082,
+        "punoIme": "Labadie LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 257,
+        "sifra": 1783,
+        "punoIme": "Dickens-Fay",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 258,
+        "sifra": 1442,
+        "punoIme": "Wilderman-Bogisich",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 259,
+        "sifra": 1681,
+        "punoIme": "Zieme and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 260,
+        "sifra": 1438,
+        "punoIme": "Gibson Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 261,
+        "sifra": 1147,
+        "punoIme": "Reichel, Bergnaum and Wolf",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 262,
+        "sifra": 1209,
+        "punoIme": "Powlowski, Gulgowski and Armstrong",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 263,
+        "sifra": 1553,
+        "punoIme": "Price LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 264,
+        "sifra": 1517,
+        "punoIme": "Sipes, Kovacek and Schuster",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 265,
+        "sifra": 1594,
+        "punoIme": "Schowalter LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 266,
+        "sifra": 1414,
+        "punoIme": "Reilly, Thiel and Carroll",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 267,
+        "sifra": 1589,
+        "punoIme": "Gorczany-Oberbrunner",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 268,
+        "sifra": 1628,
+        "punoIme": "Reilly-Bergnaum",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 269,
+        "sifra": 1343,
+        "punoIme": "Homenick, Waters and Smitham",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 270,
+        "sifra": 1450,
+        "punoIme": "Dickens, Haag and Conroy",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 271,
+        "sifra": 1401,
+        "punoIme": "Bins, Waelchi and Zulauf",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 272,
+        "sifra": 1248,
+        "punoIme": "Windler Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 273,
+        "sifra": 1219,
+        "punoIme": "Johnston Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 274,
+        "sifra": 1360,
+        "punoIme": "Kling, Anderson and Zieme",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 275,
+        "sifra": 1399,
+        "punoIme": "Cremin-Dickens",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 276,
+        "sifra": 1232,
+        "punoIme": "Parker-Schmidt",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 277,
+        "sifra": 1364,
+        "punoIme": "Murray, Huel and Kuhic",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 278,
+        "sifra": 1635,
+        "punoIme": "Reichert-Crooks",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 279,
+        "sifra": 1394,
+        "punoIme": "Torp, Nolan and Anderson",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 280,
+        "sifra": 1768,
+        "punoIme": "Steuber-Braun",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 281,
+        "sifra": 1023,
+        "punoIme": "Fisher-Zemlak",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 282,
+        "sifra": 1398,
+        "punoIme": "Effertz Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 283,
+        "sifra": 1123,
+        "punoIme": "Stanton-Parisian",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 284,
+        "sifra": 1392,
+        "punoIme": "King, Kulas and Flatley",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 285,
+        "sifra": 1676,
+        "punoIme": "Willms, Feest and Jacobs",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 286,
+        "sifra": 1160,
+        "punoIme": "Heller-O'Keefe",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 287,
+        "sifra": 1783,
+        "punoIme": "Grimes and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 288,
+        "sifra": 1176,
+        "punoIme": "Johnston-Considine",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 289,
+        "sifra": 1183,
+        "punoIme": "Collins Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 290,
+        "sifra": 1569,
+        "punoIme": "Runolfsson and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 291,
+        "sifra": 1387,
+        "punoIme": "Conroy Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 292,
+        "sifra": 1464,
+        "punoIme": "Fay-Jacobi",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 293,
+        "sifra": 1150,
+        "punoIme": "Pfeffer-Bruen",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 294,
+        "sifra": 1620,
+        "punoIme": "Mayert LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 295,
+        "sifra": 1738,
+        "punoIme": "Roberts-Christiansen",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 296,
+        "sifra": 1533,
+        "punoIme": "Jerde-Quigley",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 297,
+        "sifra": 1035,
+        "punoIme": "Bauch-Hirthe",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 298,
+        "sifra": 1116,
+        "punoIme": "Bode LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 299,
+        "sifra": 1624,
+        "punoIme": "Kirlin-McLaughlin",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 300,
+        "sifra": 1524,
+        "punoIme": "Renner Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 301,
+        "sifra": 1211,
+        "punoIme": "Dach-Torphy",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 302,
+        "sifra": 1319,
+        "punoIme": "Jenkins Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 303,
+        "sifra": 1228,
+        "punoIme": "Collier-Price",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 304,
+        "sifra": 1007,
+        "punoIme": "Jaskolski-Bashirian",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 305,
+        "sifra": 1439,
+        "punoIme": "Haag and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 306,
+        "sifra": 1044,
+        "punoIme": "Hammes-Walker",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 307,
+        "sifra": 1790,
+        "punoIme": "Schoen Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 308,
+        "sifra": 1537,
+        "punoIme": "Beahan-Leffler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 309,
+        "sifra": 1313,
+        "punoIme": "Windler-Jacobi",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 310,
+        "sifra": 1196,
+        "punoIme": "Weber Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 311,
+        "sifra": 1044,
+        "punoIme": "Hodkiewicz, Buckridge and Rodriguez",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 312,
+        "sifra": 1214,
+        "punoIme": "Kihn LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 313,
+        "sifra": 1451,
+        "punoIme": "Kuhlman, Johns and Gleason",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 314,
+        "sifra": 1598,
+        "punoIme": "Emmerich-Schuster",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 315,
+        "sifra": 1183,
+        "punoIme": "Stanton-Huel",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 316,
+        "sifra": 1683,
+        "punoIme": "Hartmann, Borer and Rippin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 317,
+        "sifra": 1385,
+        "punoIme": "Casper, Strosin and Runte",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 318,
+        "sifra": 1474,
+        "punoIme": "Gusikowski and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 319,
+        "sifra": 1438,
+        "punoIme": "McLaughlin-Mante",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 320,
+        "sifra": 1453,
+        "punoIme": "O'Hara-White",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 321,
+        "sifra": 1525,
+        "punoIme": "Greenfelder, Goldner and Powlowski",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 322,
+        "sifra": 1564,
+        "punoIme": "Cummerata Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 323,
+        "sifra": 1237,
+        "punoIme": "Hayes-Johnston",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 324,
+        "sifra": 1689,
+        "punoIme": "Hermann LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 325,
+        "sifra": 1342,
+        "punoIme": "Haag and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 326,
+        "sifra": 1491,
+        "punoIme": "Friesen-Schuppe",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 327,
+        "sifra": 1215,
+        "punoIme": "Murray-Pagac",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 328,
+        "sifra": 1226,
+        "punoIme": "Kirlin LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 329,
+        "sifra": 1388,
+        "punoIme": "Huels-Gislason",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 330,
+        "sifra": 1479,
+        "punoIme": "Fritsch Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 331,
+        "sifra": 1739,
+        "punoIme": "Herman-King",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 332,
+        "sifra": 1235,
+        "punoIme": "Romaguera, Schmidt and Hirthe",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 333,
+        "sifra": 1505,
+        "punoIme": "Rath Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 334,
+        "sifra": 1255,
+        "punoIme": "Gorczany, Kirlin and Bailey",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 335,
+        "sifra": 1520,
+        "punoIme": "Kutch-Thompson",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 336,
+        "sifra": 1424,
+        "punoIme": "Rau, Stroman and Gislason",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 337,
+        "sifra": 1514,
+        "punoIme": "Langosh-Kuhlman",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 338,
+        "sifra": 1561,
+        "punoIme": "Witting Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 339,
+        "sifra": 1208,
+        "punoIme": "Abshire-Schimmel",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 340,
+        "sifra": 1541,
+        "punoIme": "Weber, Becker and Rippin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 341,
+        "sifra": 1090,
+        "punoIme": "Christiansen, Kuhic and McLaughlin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 342,
+        "sifra": 1047,
+        "punoIme": "Bechtelar LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 343,
+        "sifra": 1301,
+        "punoIme": "Schoen LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 344,
+        "sifra": 1771,
+        "punoIme": "Ferry LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 345,
+        "sifra": 1152,
+        "punoIme": "Connelly, McLaughlin and Boyle",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 346,
+        "sifra": 1127,
+        "punoIme": "Turner Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 347,
+        "sifra": 1026,
+        "punoIme": "O'Hara-Kutch",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 348,
+        "sifra": 1145,
+        "punoIme": "Orn, Kling and Wiegand",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 349,
+        "sifra": 1336,
+        "punoIme": "Davis Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 350,
+        "sifra": 1572,
+        "punoIme": "Dach, Schultz and Gusikowski",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 351,
+        "sifra": 1633,
+        "punoIme": "Purdy, Rempel and Bashirian",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 352,
+        "sifra": 1193,
+        "punoIme": "Jacobson Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 353,
+        "sifra": 1770,
+        "punoIme": "Moore Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 354,
+        "sifra": 1506,
+        "punoIme": "Purdy Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 355,
+        "sifra": 1471,
+        "punoIme": "King and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 356,
+        "sifra": 1406,
+        "punoIme": "Bartoletti-Robel",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 357,
+        "sifra": 1320,
+        "punoIme": "Runte-Kohler",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 358,
+        "sifra": 1728,
+        "punoIme": "Leffler-Schaden",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 359,
+        "sifra": 1605,
+        "punoIme": "Daugherty, Batz and Monahan",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 360,
+        "sifra": 1417,
+        "punoIme": "Tromp-Carroll",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 361,
+        "sifra": 1667,
+        "punoIme": "Brekke-Nitzsche",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 362,
+        "sifra": 1683,
+        "punoIme": "Gerlach, Ruecker and Cole",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 363,
+        "sifra": 1653,
+        "punoIme": "Hilpert, O'Hara and Russel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 364,
+        "sifra": 1080,
+        "punoIme": "Muller, Ritchie and Mosciski",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 365,
+        "sifra": 1666,
+        "punoIme": "Rempel-Breitenberg",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 366,
+        "sifra": 1316,
+        "punoIme": "Grady-McKenzie",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 367,
+        "sifra": 1008,
+        "punoIme": "Murray, Herzog and Cruickshank",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 368,
+        "sifra": 1342,
+        "punoIme": "Nikolaus LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 369,
+        "sifra": 1023,
+        "punoIme": "Swift-Labadie",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 370,
+        "sifra": 1213,
+        "punoIme": "Gislason Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 371,
+        "sifra": 1122,
+        "punoIme": "Quigley-Waelchi",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 372,
+        "sifra": 1556,
+        "punoIme": "Greenholt, Kilback and Feil",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 373,
+        "sifra": 1650,
+        "punoIme": "Williamson-Moen",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 374,
+        "sifra": 1285,
+        "punoIme": "Ortiz-Beatty",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 375,
+        "sifra": 1386,
+        "punoIme": "Ankunding LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 376,
+        "sifra": 1055,
+        "punoIme": "Legros, Adams and Ratke",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 377,
+        "sifra": 1382,
+        "punoIme": "Wunsch-Breitenberg",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 378,
+        "sifra": 1324,
+        "punoIme": "Hilpert and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 379,
+        "sifra": 1798,
+        "punoIme": "Ferry, Nicolas and Runolfsdottir",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 380,
+        "sifra": 1283,
+        "punoIme": "Kassulke Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 381,
+        "sifra": 1675,
+        "punoIme": "Mitchell-Mohr",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 382,
+        "sifra": 1418,
+        "punoIme": "Wunsch-Goyette",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 383,
+        "sifra": 1043,
+        "punoIme": "Dicki, Weimann and Zemlak",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 384,
+        "sifra": 1277,
+        "punoIme": "Hoeger-Kiehn",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 385,
+        "sifra": 1164,
+        "punoIme": "Marquardt-Franecki",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 386,
+        "sifra": 1371,
+        "punoIme": "Grimes-Smith",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 387,
+        "sifra": 1553,
+        "punoIme": "Abshire, Hermann and Terry",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 388,
+        "sifra": 1634,
+        "punoIme": "Reinger-Littel",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 389,
+        "sifra": 1239,
+        "punoIme": "Greenholt LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 390,
+        "sifra": 1545,
+        "punoIme": "Bins-Fisher",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 391,
+        "sifra": 1525,
+        "punoIme": "Willms Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 392,
+        "sifra": 1411,
+        "punoIme": "Jenkins, Kuvalis and Mante",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 393,
+        "sifra": 1302,
+        "punoIme": "Gusikowski-Zieme",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 394,
+        "sifra": 1565,
+        "punoIme": "Bruen, Gerhold and West",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 395,
+        "sifra": 1296,
+        "punoIme": "Simonis LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 396,
+        "sifra": 1059,
+        "punoIme": "Turcotte, Muller and Torphy",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 397,
+        "sifra": 1494,
+        "punoIme": "Swaniawski-Jacobi",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 398,
+        "sifra": 1382,
+        "punoIme": "Cassin, Prohaska and Murphy",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 399,
+        "sifra": 1211,
+        "punoIme": "Schuster-Moen",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 400,
+        "sifra": 1227,
+        "punoIme": "Ward, Dach and Weber",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 401,
+        "sifra": 1673,
+        "punoIme": "Vandervort, Haley and Adams",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 402,
+        "sifra": 1409,
+        "punoIme": "Dare-Goodwin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 403,
+        "sifra": 1264,
+        "punoIme": "Donnelly-Morar",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 404,
+        "sifra": 1640,
+        "punoIme": "Bahringer, Kuhic and Roberts",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 405,
+        "sifra": 1366,
+        "punoIme": "Fahey, Hammes and Bauch",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 406,
+        "sifra": 1109,
+        "punoIme": "Cummerata Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 407,
+        "sifra": 1398,
+        "punoIme": "Tremblay Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 408,
+        "sifra": 1726,
+        "punoIme": "Koss-Blick",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 409,
+        "sifra": 1641,
+        "punoIme": "Rippin Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 410,
+        "sifra": 1264,
+        "punoIme": "Conroy-Hessel",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 411,
+        "sifra": 1411,
+        "punoIme": "Sipes, Watsica and Grady",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 412,
+        "sifra": 1415,
+        "punoIme": "Effertz-Cassin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 413,
+        "sifra": 1528,
+        "punoIme": "Cronin, Jerde and Moen",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 414,
+        "sifra": 1116,
+        "punoIme": "Sawayn Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 415,
+        "sifra": 1578,
+        "punoIme": "Haag and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 416,
+        "sifra": 1498,
+        "punoIme": "Ritchie LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 417,
+        "sifra": 1759,
+        "punoIme": "Parisian Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 418,
+        "sifra": 1646,
+        "punoIme": "Cassin-Sanford",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 419,
+        "sifra": 1665,
+        "punoIme": "Rath Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 420,
+        "sifra": 1479,
+        "punoIme": "Hermiston, Roberts and Daugherty",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 421,
+        "sifra": 1526,
+        "punoIme": "Buckridge Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 422,
+        "sifra": 1021,
+        "punoIme": "Farrell Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 423,
+        "sifra": 1180,
+        "punoIme": "Pagac LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 424,
+        "sifra": 1285,
+        "punoIme": "Mosciski-Gusikowski",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 425,
+        "sifra": 1764,
+        "punoIme": "Mills, Hills and Herman",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 426,
+        "sifra": 1599,
+        "punoIme": "Green, Barrows and McDermott",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 427,
+        "sifra": 1262,
+        "punoIme": "Sauer, Von and Rodriguez",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 428,
+        "sifra": 1340,
+        "punoIme": "Schmeler, Lakin and Hessel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 429,
+        "sifra": 1618,
+        "punoIme": "Bayer-Willms",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 430,
+        "sifra": 1714,
+        "punoIme": "Goldner-Yundt",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 431,
+        "sifra": 1756,
+        "punoIme": "Kshlerin-Beahan",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 432,
+        "sifra": 1765,
+        "punoIme": "Carroll-Morar",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 433,
+        "sifra": 1750,
+        "punoIme": "Conn-Schmeler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 434,
+        "sifra": 1436,
+        "punoIme": "Blanda-Considine",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 435,
+        "sifra": 1340,
+        "punoIme": "Ebert, Abernathy and Wunsch",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 436,
+        "sifra": 1259,
+        "punoIme": "Collier, Bins and Bogan",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 437,
+        "sifra": 1501,
+        "punoIme": "Ankunding-Kohler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 438,
+        "sifra": 1004,
+        "punoIme": "Wiza-Douglas",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 439,
+        "sifra": 1057,
+        "punoIme": "Friesen, Adams and Gerhold",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 440,
+        "sifra": 1332,
+        "punoIme": "Senger-Rodriguez",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 441,
+        "sifra": 1213,
+        "punoIme": "Kshlerin, Dare and Hand",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 442,
+        "sifra": 1125,
+        "punoIme": "Kovacek-Homenick",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 443,
+        "sifra": 1636,
+        "punoIme": "Sauer-Batz",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 444,
+        "sifra": 1759,
+        "punoIme": "Heathcote, Trantow and Ebert",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 445,
+        "sifra": 1215,
+        "punoIme": "Durgan, Hand and Keeling",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 446,
+        "sifra": 1512,
+        "punoIme": "Pfannerstill-Homenick",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 447,
+        "sifra": 1361,
+        "punoIme": "Thompson-Ziemann",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 448,
+        "sifra": 1713,
+        "punoIme": "Sauer, Homenick and Schuppe",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 449,
+        "sifra": 1762,
+        "punoIme": "Tillman-Runolfsson",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 450,
+        "sifra": 1235,
+        "punoIme": "Zulauf, Greenholt and Anderson",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 451,
+        "sifra": 1045,
+        "punoIme": "Kilback-Luettgen",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 452,
+        "sifra": 1543,
+        "punoIme": "Hammes, Runolfsdottir and Koss",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 453,
+        "sifra": 1434,
+        "punoIme": "Lind, Abernathy and Mann",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 454,
+        "sifra": 1215,
+        "punoIme": "Olson LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 455,
+        "sifra": 1666,
+        "punoIme": "Herzog LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 456,
+        "sifra": 1604,
+        "punoIme": "Hayes and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 457,
+        "sifra": 1027,
+        "punoIme": "Rippin, Cremin and Ortiz",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 458,
+        "sifra": 1043,
+        "punoIme": "Goldner-Gusikowski",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 459,
+        "sifra": 1118,
+        "punoIme": "Spencer Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 460,
+        "sifra": 1650,
+        "punoIme": "O'Keefe Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 461,
+        "sifra": 1094,
+        "punoIme": "Wuckert-Stokes",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 462,
+        "sifra": 1556,
+        "punoIme": "Effertz-McDermott",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 463,
+        "sifra": 1246,
+        "punoIme": "Herman LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 464,
+        "sifra": 1452,
+        "punoIme": "Mitchell, Miller and Streich",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 465,
+        "sifra": 1442,
+        "punoIme": "Weber-Kulas",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 466,
+        "sifra": 1704,
+        "punoIme": "Auer, Farrell and Wyman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 467,
+        "sifra": 1347,
+        "punoIme": "Botsford and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 468,
+        "sifra": 1716,
+        "punoIme": "Murray-Yost",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 469,
+        "sifra": 1123,
+        "punoIme": "Hagenes-Quitzon",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 470,
+        "sifra": 1709,
+        "punoIme": "Armstrong-Auer",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 471,
+        "sifra": 1199,
+        "punoIme": "Mayer, Parker and Ruecker",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 472,
+        "sifra": 1060,
+        "punoIme": "Lebsack-Koelpin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 473,
+        "sifra": 1292,
+        "punoIme": "Lynch Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 474,
+        "sifra": 1387,
+        "punoIme": "Frami LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 475,
+        "sifra": 1500,
+        "punoIme": "Shields, Altenwerth and Gutmann",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 476,
+        "sifra": 1080,
+        "punoIme": "Raynor, Padberg and Heathcote",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 477,
+        "sifra": 1443,
+        "punoIme": "Connelly-Doyle",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 478,
+        "sifra": 1253,
+        "punoIme": "Schuster Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 479,
+        "sifra": 1304,
+        "punoIme": "Hamill, Leffler and Kemmer",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 480,
+        "sifra": 1395,
+        "punoIme": "Champlin-Ledner",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 481,
+        "sifra": 1476,
+        "punoIme": "Barton, Cormier and Stoltenberg",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 482,
+        "sifra": 1784,
+        "punoIme": "Thiel Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 483,
+        "sifra": 1089,
+        "punoIme": "Klein Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 484,
+        "sifra": 1135,
+        "punoIme": "Ziemann-Botsford",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 485,
+        "sifra": 1529,
+        "punoIme": "Larson-Murray",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 486,
+        "sifra": 1514,
+        "punoIme": "Christiansen Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 487,
+        "sifra": 1645,
+        "punoIme": "Walker Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 488,
+        "sifra": 1332,
+        "punoIme": "Harris LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 489,
+        "sifra": 1729,
+        "punoIme": "Thiel-Breitenberg",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 490,
+        "sifra": 1186,
+        "punoIme": "Block-Stehr",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 491,
+        "sifra": 1783,
+        "punoIme": "Ebert-Borer",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 492,
+        "sifra": 1384,
+        "punoIme": "Gibson Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 493,
+        "sifra": 1214,
+        "punoIme": "Jacobs Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 494,
+        "sifra": 1277,
+        "punoIme": "Mosciski, Ward and Koepp",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 495,
+        "sifra": 1323,
+        "punoIme": "Keebler Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 496,
+        "sifra": 1332,
+        "punoIme": "Pfannerstill-Dare",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 497,
+        "sifra": 1047,
+        "punoIme": "Hoppe-Smith",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 498,
+        "sifra": 1437,
+        "punoIme": "Leannon, Ledner and Hickle",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 499,
+        "sifra": 1002,
+        "punoIme": "Friesen, Stehr and Hilpert",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 500,
+        "sifra": 1537,
+        "punoIme": "Schimmel, Gorczany and Kessler",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 501,
+        "sifra": 1690,
+        "punoIme": "Marvin, Corwin and Runolfsson",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 502,
+        "sifra": 1676,
+        "punoIme": "Hansen-Sipes",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 503,
+        "sifra": 1456,
+        "punoIme": "Beahan, Gaylord and Nolan",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 504,
+        "sifra": 1139,
+        "punoIme": "King, Sporer and Rice",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 505,
+        "sifra": 1701,
+        "punoIme": "Russel Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 506,
+        "sifra": 1678,
+        "punoIme": "Schultz and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 507,
+        "sifra": 1168,
+        "punoIme": "Ritchie-Predovic",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 508,
+        "sifra": 1444,
+        "punoIme": "Pfannerstill-Moen",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 509,
+        "sifra": 1105,
+        "punoIme": "Reilly-Leffler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 510,
+        "sifra": 1554,
+        "punoIme": "Hauck LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 511,
+        "sifra": 1409,
+        "punoIme": "Upton-Wuckert",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 512,
+        "sifra": 1412,
+        "punoIme": "Swift-Hauck",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 513,
+        "sifra": 1611,
+        "punoIme": "Towne Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 514,
+        "sifra": 1614,
+        "punoIme": "O'Reilly, Shields and Daniel",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 515,
+        "sifra": 1463,
+        "punoIme": "Schiller-Goldner",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 516,
+        "sifra": 1414,
+        "punoIme": "Corkery-Mosciski",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 517,
+        "sifra": 1492,
+        "punoIme": "Stark-Hamill",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 518,
+        "sifra": 1146,
+        "punoIme": "Fritsch LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 519,
+        "sifra": 1610,
+        "punoIme": "Yost and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 520,
+        "sifra": 1526,
+        "punoIme": "Gutkowski Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 521,
+        "sifra": 1591,
+        "punoIme": "Ebert LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 522,
+        "sifra": 1786,
+        "punoIme": "Mueller-Abernathy",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 523,
+        "sifra": 1316,
+        "punoIme": "Jacobs-Huel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 524,
+        "sifra": 1053,
+        "punoIme": "Ward and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 525,
+        "sifra": 1321,
+        "punoIme": "Yundt, Orn and Kiehn",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 526,
+        "sifra": 1045,
+        "punoIme": "Cartwright Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 527,
+        "sifra": 1679,
+        "punoIme": "Douglas, Conn and Reinger",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 528,
+        "sifra": 1522,
+        "punoIme": "Beatty-Schuster",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 529,
+        "sifra": 1177,
+        "punoIme": "Abshire-Gislason",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 530,
+        "sifra": 1595,
+        "punoIme": "Jones, Lindgren and Stroman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 531,
+        "sifra": 1736,
+        "punoIme": "Bechtelar and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 532,
+        "sifra": 1181,
+        "punoIme": "Jast, Farrell and Dicki",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 533,
+        "sifra": 1741,
+        "punoIme": "Sawayn-Ziemann",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 534,
+        "sifra": 1289,
+        "punoIme": "Feeney-Bednar",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 535,
+        "sifra": 1586,
+        "punoIme": "Denesik LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 536,
+        "sifra": 1685,
+        "punoIme": "Okuneva LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 537,
+        "sifra": 1776,
+        "punoIme": "Kessler, Feil and Bartoletti",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 538,
+        "sifra": 1583,
+        "punoIme": "Bogan-Nienow",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 539,
+        "sifra": 1593,
+        "punoIme": "Dach and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 540,
+        "sifra": 1080,
+        "punoIme": "Turcotte-Hahn",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 541,
+        "sifra": 1072,
+        "punoIme": "Bahringer-Bechtelar",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 542,
+        "sifra": 1046,
+        "punoIme": "Roberts-Green",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 543,
+        "sifra": 1086,
+        "punoIme": "Hickle-Padberg",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 544,
+        "sifra": 1269,
+        "punoIme": "Stamm, Bosco and Simonis",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 545,
+        "sifra": 1154,
+        "punoIme": "Doyle-Auer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 546,
+        "sifra": 1219,
+        "punoIme": "Murazik LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 547,
+        "sifra": 1242,
+        "punoIme": "Mitchell-Hilll",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 548,
+        "sifra": 1595,
+        "punoIme": "Bartoletti, Swaniawski and Little",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 549,
+        "sifra": 1286,
+        "punoIme": "Hayes and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 550,
+        "sifra": 1137,
+        "punoIme": "Stark, Herzog and Sipes",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 551,
+        "sifra": 1240,
+        "punoIme": "Kerluke-Gulgowski",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 552,
+        "sifra": 1391,
+        "punoIme": "Bins, Satterfield and Lueilwitz",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 553,
+        "sifra": 1541,
+        "punoIme": "Hodkiewicz Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 554,
+        "sifra": 1728,
+        "punoIme": "Hahn, Deckow and Morar",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 555,
+        "sifra": 1394,
+        "punoIme": "Reilly-Spencer",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 556,
+        "sifra": 1153,
+        "punoIme": "Muller, Nader and Roob",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 557,
+        "sifra": 1179,
+        "punoIme": "Abernathy-Boehm",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 558,
+        "sifra": 1088,
+        "punoIme": "Bartell, Kuphal and Kunze",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 559,
+        "sifra": 1303,
+        "punoIme": "Ondricka LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 560,
+        "sifra": 1228,
+        "punoIme": "Gibson and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 561,
+        "sifra": 1131,
+        "punoIme": "Schamberger Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 562,
+        "sifra": 1174,
+        "punoIme": "Fay Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 563,
+        "sifra": 1390,
+        "punoIme": "Grant LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 564,
+        "sifra": 1154,
+        "punoIme": "Kilback-Casper",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 565,
+        "sifra": 1260,
+        "punoIme": "Runolfsson-Murphy",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 566,
+        "sifra": 1303,
+        "punoIme": "Moore, McLaughlin and Schmeler",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 567,
+        "sifra": 1081,
+        "punoIme": "Mertz-Funk",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 568,
+        "sifra": 1245,
+        "punoIme": "Shields, King and Spencer",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 569,
+        "sifra": 1721,
+        "punoIme": "Klocko-Cassin",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 570,
+        "sifra": 1342,
+        "punoIme": "Schaefer Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 571,
+        "sifra": 1772,
+        "punoIme": "Schimmel-Collier",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 572,
+        "sifra": 1323,
+        "punoIme": "Bahringer and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 573,
+        "sifra": 1616,
+        "punoIme": "O'Hara-Osinski",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 574,
+        "sifra": 1765,
+        "punoIme": "Hermann and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 575,
+        "sifra": 1784,
+        "punoIme": "Price Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 576,
+        "sifra": 1747,
+        "punoIme": "Schaden-Buckridge",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 577,
+        "sifra": 1307,
+        "punoIme": "Mayert-Witting",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 578,
+        "sifra": 1263,
+        "punoIme": "Blanda-Wuckert",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 579,
+        "sifra": 1157,
+        "punoIme": "Kuhn, Quitzon and Corwin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 580,
+        "sifra": 1194,
+        "punoIme": "Nolan, Torp and Stokes",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 581,
+        "sifra": 1727,
+        "punoIme": "Harvey-Mann",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 582,
+        "sifra": 1373,
+        "punoIme": "Bogan LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 583,
+        "sifra": 1101,
+        "punoIme": "Wyman, Marquardt and Parker",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 584,
+        "sifra": 1195,
+        "punoIme": "Rogahn-Wisozk",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 585,
+        "sifra": 1800,
+        "punoIme": "Berge, Streich and Balistreri",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 586,
+        "sifra": 1411,
+        "punoIme": "Luettgen-Reinger",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 587,
+        "sifra": 1032,
+        "punoIme": "Koelpin Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 588,
+        "sifra": 1148,
+        "punoIme": "Parker-Reynolds",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 589,
+        "sifra": 1352,
+        "punoIme": "Rutherford, Hansen and Fritsch",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 590,
+        "sifra": 1167,
+        "punoIme": "Lang, Little and Beahan",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 591,
+        "sifra": 1401,
+        "punoIme": "Becker-Emard",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 592,
+        "sifra": 1756,
+        "punoIme": "Wilkinson Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 593,
+        "sifra": 1039,
+        "punoIme": "Mayert Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 594,
+        "sifra": 1095,
+        "punoIme": "Rowe, Pollich and Hahn",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 595,
+        "sifra": 1768,
+        "punoIme": "Blick, Rice and Leffler",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 596,
+        "sifra": 1238,
+        "punoIme": "Bechtelar, Mann and Cassin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 597,
+        "sifra": 1192,
+        "punoIme": "Metz-Stroman",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 598,
+        "sifra": 1360,
+        "punoIme": "Stamm Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 599,
+        "sifra": 1127,
+        "punoIme": "Leffler-Watsica",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 600,
+        "sifra": 1338,
+        "punoIme": "Luettgen-Kreiger",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 601,
+        "sifra": 1537,
+        "punoIme": "Christiansen-Jacobson",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 602,
+        "sifra": 1467,
+        "punoIme": "Huels-Cremin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 603,
+        "sifra": 1198,
+        "punoIme": "Predovic-Carter",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 604,
+        "sifra": 1364,
+        "punoIme": "Bechtelar-Hudson",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 605,
+        "sifra": 1565,
+        "punoIme": "Kerluke-Johns",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 606,
+        "sifra": 1333,
+        "punoIme": "Prohaska, Schneider and Haag",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 607,
+        "sifra": 1188,
+        "punoIme": "Reichert and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 608,
+        "sifra": 1546,
+        "punoIme": "Okuneva, Daniel and Boyle",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 609,
+        "sifra": 1130,
+        "punoIme": "Flatley, Hilll and Maggio",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 610,
+        "sifra": 1770,
+        "punoIme": "Waelchi-Stehr",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 611,
+        "sifra": 1151,
+        "punoIme": "Mante, Schuppe and Flatley",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 612,
+        "sifra": 1677,
+        "punoIme": "Wilderman, Muller and Feest",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 613,
+        "sifra": 1224,
+        "punoIme": "Cassin LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 614,
+        "sifra": 1568,
+        "punoIme": "D'Amore, Altenwerth and Schulist",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 615,
+        "sifra": 1218,
+        "punoIme": "Schaefer Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 616,
+        "sifra": 1476,
+        "punoIme": "Little LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 617,
+        "sifra": 1249,
+        "punoIme": "Weber and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 618,
+        "sifra": 1213,
+        "punoIme": "Klein-Monahan",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 619,
+        "sifra": 1329,
+        "punoIme": "Padberg-Leuschke",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 620,
+        "sifra": 1371,
+        "punoIme": "Beahan-Price",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 621,
+        "sifra": 1632,
+        "punoIme": "Blanda-Cassin",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 622,
+        "sifra": 1007,
+        "punoIme": "Prosacco-Bashirian",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 623,
+        "sifra": 1150,
+        "punoIme": "Konopelski Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 624,
+        "sifra": 1016,
+        "punoIme": "Koelpin, O'Keefe and Buckridge",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 625,
+        "sifra": 1221,
+        "punoIme": "Lemke and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 626,
+        "sifra": 1023,
+        "punoIme": "Kozey, McKenzie and Abbott",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 627,
+        "sifra": 1490,
+        "punoIme": "O'Connell-O'Connell",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 628,
+        "sifra": 1319,
+        "punoIme": "Kub-Schuppe",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 629,
+        "sifra": 1794,
+        "punoIme": "Windler, Bruen and Frami",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 630,
+        "sifra": 1780,
+        "punoIme": "Luettgen and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 631,
+        "sifra": 1127,
+        "punoIme": "Treutel-Oberbrunner",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 632,
+        "sifra": 1182,
+        "punoIme": "Casper-Marks",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 633,
+        "sifra": 1177,
+        "punoIme": "Koch and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 634,
+        "sifra": 1408,
+        "punoIme": "Quigley Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 635,
+        "sifra": 1447,
+        "punoIme": "Skiles, Connelly and Terry",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 636,
+        "sifra": 1796,
+        "punoIme": "Lubowitz-Hills",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 637,
+        "sifra": 1013,
+        "punoIme": "Bode-Wisozk",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 638,
+        "sifra": 1331,
+        "punoIme": "Moen Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 639,
+        "sifra": 1277,
+        "punoIme": "Eichmann, Heidenreich and Sawayn",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 640,
+        "sifra": 1720,
+        "punoIme": "Watsica, Herzog and Greenholt",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 641,
+        "sifra": 1362,
+        "punoIme": "Ritchie Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 642,
+        "sifra": 1071,
+        "punoIme": "Tromp-Collier",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 643,
+        "sifra": 1685,
+        "punoIme": "Pfannerstill-Koss",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 644,
+        "sifra": 1265,
+        "punoIme": "Goodwin Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 645,
+        "sifra": 1131,
+        "punoIme": "Ward and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 646,
+        "sifra": 1609,
+        "punoIme": "Hermann, Hermiston and Nikolaus",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 647,
+        "sifra": 1663,
+        "punoIme": "Lehner, Flatley and Buckridge",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 648,
+        "sifra": 1749,
+        "punoIme": "Gislason, Hudson and Mertz",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 649,
+        "sifra": 1047,
+        "punoIme": "Waters, Kuphal and Howell",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 650,
+        "sifra": 1113,
+        "punoIme": "Littel, Smith and Prosacco",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 651,
+        "sifra": 1400,
+        "punoIme": "Doyle-Hilpert",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 652,
+        "sifra": 1208,
+        "punoIme": "Mante, Jast and O'Conner",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 653,
+        "sifra": 1213,
+        "punoIme": "Langosh-Smith",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 654,
+        "sifra": 1762,
+        "punoIme": "Reichel LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 655,
+        "sifra": 1630,
+        "punoIme": "Pollich Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 656,
+        "sifra": 1574,
+        "punoIme": "Jacobi-Mueller",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 657,
+        "sifra": 1064,
+        "punoIme": "Cremin and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 658,
+        "sifra": 1123,
+        "punoIme": "Crist-Kutch",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 659,
+        "sifra": 1328,
+        "punoIme": "Kuhic-Will",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 660,
+        "sifra": 1282,
+        "punoIme": "Rolfson, Hand and Hamill",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 661,
+        "sifra": 1091,
+        "punoIme": "Hammes, Senger and Fisher",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 662,
+        "sifra": 1402,
+        "punoIme": "Leffler-Mills",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 663,
+        "sifra": 1729,
+        "punoIme": "Ruecker, Hills and Feeney",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 664,
+        "sifra": 1233,
+        "punoIme": "Schuster and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 665,
+        "sifra": 1226,
+        "punoIme": "Walter, Borer and Gutmann",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 666,
+        "sifra": 1311,
+        "punoIme": "Bartoletti-Sipes",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 667,
+        "sifra": 1653,
+        "punoIme": "Bashirian, Fahey and Pouros",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 668,
+        "sifra": 1283,
+        "punoIme": "Fritsch, Cole and Leffler",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 669,
+        "sifra": 1710,
+        "punoIme": "Cartwright-Erdman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 670,
+        "sifra": 1017,
+        "punoIme": "Mertz, West and Nader",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 671,
+        "sifra": 1469,
+        "punoIme": "Bogan, Rowe and Padberg",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 672,
+        "sifra": 1370,
+        "punoIme": "Gusikowski, Koelpin and Braun",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 673,
+        "sifra": 1277,
+        "punoIme": "Beatty, Nitzsche and Hessel",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 674,
+        "sifra": 1634,
+        "punoIme": "Strosin, Wilderman and MacGyver",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 675,
+        "sifra": 1384,
+        "punoIme": "Walter and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 676,
+        "sifra": 1015,
+        "punoIme": "Ledner Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 677,
+        "sifra": 1207,
+        "punoIme": "Weissnat-Hammes",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 678,
+        "sifra": 1020,
+        "punoIme": "Walker, Block and Gusikowski",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 679,
+        "sifra": 1796,
+        "punoIme": "Jerde-McGlynn",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 680,
+        "sifra": 1200,
+        "punoIme": "Wisozk-Rolfson",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 681,
+        "sifra": 1074,
+        "punoIme": "Marquardt-McLaughlin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 682,
+        "sifra": 1280,
+        "punoIme": "Miller-Schoen",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 683,
+        "sifra": 1049,
+        "punoIme": "Weissnat-Aufderhar",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 684,
+        "sifra": 1633,
+        "punoIme": "Padberg, Kuhlman and Romaguera",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 685,
+        "sifra": 1640,
+        "punoIme": "Bergstrom Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 686,
+        "sifra": 1660,
+        "punoIme": "Wilkinson, Franecki and Dare",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 687,
+        "sifra": 1501,
+        "punoIme": "Sawayn, Rosenbaum and Treutel",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 688,
+        "sifra": 1156,
+        "punoIme": "Lowe-Batz",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 689,
+        "sifra": 1636,
+        "punoIme": "Stracke-Sporer",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 690,
+        "sifra": 1604,
+        "punoIme": "Schiller, Bergnaum and Rice",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 691,
+        "sifra": 1133,
+        "punoIme": "Durgan, Gutmann and Harber",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 692,
+        "sifra": 1362,
+        "punoIme": "Dare, Larkin and Casper",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 693,
+        "sifra": 1221,
+        "punoIme": "Klocko, Waelchi and Bode",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 694,
+        "sifra": 1782,
+        "punoIme": "Gibson-Collier",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 695,
+        "sifra": 1340,
+        "punoIme": "Wyman Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 696,
+        "sifra": 1290,
+        "punoIme": "Spinka-Barton",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 697,
+        "sifra": 1151,
+        "punoIme": "Marvin, Hansen and Beier",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 698,
+        "sifra": 1024,
+        "punoIme": "Roberts, O'Keefe and Hettinger",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 699,
+        "sifra": 1690,
+        "punoIme": "Simonis and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 700,
+        "sifra": 1318,
+        "punoIme": "Turcotte Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 701,
+        "sifra": 1783,
+        "punoIme": "Turner-Feeney",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 702,
+        "sifra": 1276,
+        "punoIme": "Hodkiewicz Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 703,
+        "sifra": 1290,
+        "punoIme": "Kertzmann-Mosciski",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 704,
+        "sifra": 1354,
+        "punoIme": "Williamson, Skiles and Paucek",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 705,
+        "sifra": 1319,
+        "punoIme": "O'Keefe-Hamill",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 706,
+        "sifra": 1535,
+        "punoIme": "Collier-Schroeder",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 707,
+        "sifra": 1228,
+        "punoIme": "Mitchell and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 708,
+        "sifra": 1502,
+        "punoIme": "Hodkiewicz, Daugherty and Lowe",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 709,
+        "sifra": 1032,
+        "punoIme": "Dare, Hoeger and Abernathy",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 710,
+        "sifra": 1493,
+        "punoIme": "Orn-Hand",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 711,
+        "sifra": 1423,
+        "punoIme": "Wehner-Boehm",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 712,
+        "sifra": 1305,
+        "punoIme": "Haag, Dietrich and Keeling",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 713,
+        "sifra": 1123,
+        "punoIme": "Leffler-Pagac",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 714,
+        "sifra": 1152,
+        "punoIme": "Lang Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 715,
+        "sifra": 1429,
+        "punoIme": "Stracke Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 716,
+        "sifra": 1691,
+        "punoIme": "Rice Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 717,
+        "sifra": 1636,
+        "punoIme": "Gleason Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 718,
+        "sifra": 1682,
+        "punoIme": "Lesch Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 719,
+        "sifra": 1704,
+        "punoIme": "Schuppe, Quitzon and O'Hara",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 720,
+        "sifra": 1070,
+        "punoIme": "Kunze and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 721,
+        "sifra": 1589,
+        "punoIme": "Ryan, Carroll and Schmidt",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 722,
+        "sifra": 1050,
+        "punoIme": "Lemke and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 723,
+        "sifra": 1354,
+        "punoIme": "Stracke-Yundt",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 724,
+        "sifra": 1275,
+        "punoIme": "Stamm-Heathcote",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 725,
+        "sifra": 1162,
+        "punoIme": "Okuneva-Fadel",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 726,
+        "sifra": 1110,
+        "punoIme": "Sporer-Bashirian",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 727,
+        "sifra": 1005,
+        "punoIme": "Breitenberg-Jacobs",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 728,
+        "sifra": 1690,
+        "punoIme": "Wilderman Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 729,
+        "sifra": 1174,
+        "punoIme": "Boyle LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 730,
+        "sifra": 1516,
+        "punoIme": "Kohler-Rolfson",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 731,
+        "sifra": 1400,
+        "punoIme": "Swaniawski, Dickinson and Prohaska",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 732,
+        "sifra": 1597,
+        "punoIme": "Koelpin LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 733,
+        "sifra": 1422,
+        "punoIme": "Stark-Quigley",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 734,
+        "sifra": 1687,
+        "punoIme": "Wolff, Raynor and Lowe",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 735,
+        "sifra": 1247,
+        "punoIme": "Schiller-Zemlak",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 736,
+        "sifra": 1391,
+        "punoIme": "Erdman-Hartmann",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 737,
+        "sifra": 1009,
+        "punoIme": "Padberg LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 738,
+        "sifra": 1181,
+        "punoIme": "Kerluke, Altenwerth and Dach",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 739,
+        "sifra": 1406,
+        "punoIme": "Fadel-Stehr",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 740,
+        "sifra": 1116,
+        "punoIme": "Denesik and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 741,
+        "sifra": 1101,
+        "punoIme": "Daugherty, Cummings and Kautzer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 742,
+        "sifra": 1243,
+        "punoIme": "Hauck, Kunze and Zieme",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 743,
+        "sifra": 1714,
+        "punoIme": "Kohler Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 744,
+        "sifra": 1166,
+        "punoIme": "Ritchie, Spencer and Boyer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 745,
+        "sifra": 1725,
+        "punoIme": "Hills, Considine and Senger",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 746,
+        "sifra": 1695,
+        "punoIme": "Dietrich and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 747,
+        "sifra": 1762,
+        "punoIme": "Durgan, Heller and Langosh",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 748,
+        "sifra": 1206,
+        "punoIme": "Senger, Thiel and VonRueden",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 749,
+        "sifra": 1006,
+        "punoIme": "Prosacco, Runolfsson and Bernhard",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 750,
+        "sifra": 1497,
+        "punoIme": "Stoltenberg-Mosciski",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 751,
+        "sifra": 1788,
+        "punoIme": "Daniel and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 752,
+        "sifra": 1634,
+        "punoIme": "Conroy-Koss",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 753,
+        "sifra": 1800,
+        "punoIme": "Tremblay-Feeney",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 754,
+        "sifra": 1391,
+        "punoIme": "Gutmann, Bartell and Cummings",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 755,
+        "sifra": 1027,
+        "punoIme": "Gislason, Thiel and Bailey",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 756,
+        "sifra": 1194,
+        "punoIme": "Dibbert Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 757,
+        "sifra": 1189,
+        "punoIme": "Goodwin-Paucek",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 758,
+        "sifra": 1741,
+        "punoIme": "Beatty and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 759,
+        "sifra": 1703,
+        "punoIme": "Hessel, Kris and Cronin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 760,
+        "sifra": 1032,
+        "punoIme": "Mueller-Farrell",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 761,
+        "sifra": 1644,
+        "punoIme": "Franecki LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 762,
+        "sifra": 1706,
+        "punoIme": "Cartwright Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 763,
+        "sifra": 1679,
+        "punoIme": "Hintz-Goodwin",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 764,
+        "sifra": 1768,
+        "punoIme": "Gulgowski, Becker and Satterfield",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 765,
+        "sifra": 1187,
+        "punoIme": "Jones, Blanda and Harvey",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 766,
+        "sifra": 1230,
+        "punoIme": "Pagac-Effertz",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 767,
+        "sifra": 1317,
+        "punoIme": "Littel, Mann and Raynor",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 768,
+        "sifra": 1576,
+        "punoIme": "Hintz LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 769,
+        "sifra": 1557,
+        "punoIme": "Ullrich Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 770,
+        "sifra": 1531,
+        "punoIme": "Douglas-Jacobson",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 771,
+        "sifra": 1678,
+        "punoIme": "Cummerata, Quitzon and Beer",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 772,
+        "sifra": 1616,
+        "punoIme": "Lang, Walker and Christiansen",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 773,
+        "sifra": 1719,
+        "punoIme": "Vandervort LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 774,
+        "sifra": 1671,
+        "punoIme": "Abbott, Fadel and Romaguera",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 775,
+        "sifra": 1220,
+        "punoIme": "Brekke, D'Amore and Mertz",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 776,
+        "sifra": 1578,
+        "punoIme": "Harris-Schneider",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 777,
+        "sifra": 1711,
+        "punoIme": "Kutch, Flatley and Farrell",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 778,
+        "sifra": 1487,
+        "punoIme": "Herzog-Bogan",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 779,
+        "sifra": 1454,
+        "punoIme": "Block and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 780,
+        "sifra": 1106,
+        "punoIme": "Schuster-Zemlak",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 781,
+        "sifra": 1310,
+        "punoIme": "Bailey-Bernier",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 782,
+        "sifra": 1328,
+        "punoIme": "Christiansen, Okuneva and Gulgowski",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 783,
+        "sifra": 1709,
+        "punoIme": "Zboncak-Orn",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 784,
+        "sifra": 1308,
+        "punoIme": "Feest LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 785,
+        "sifra": 1359,
+        "punoIme": "Gleichner-Orn",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 786,
+        "sifra": 1659,
+        "punoIme": "Medhurst-Davis",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 787,
+        "sifra": 1408,
+        "punoIme": "Mohr-Buckridge",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 788,
+        "sifra": 1042,
+        "punoIme": "Cassin, Cruickshank and Lang",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 789,
+        "sifra": 1387,
+        "punoIme": "Schuppe Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 790,
+        "sifra": 1352,
+        "punoIme": "Graham, O'Hara and Marks",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 791,
+        "sifra": 1457,
+        "punoIme": "Crooks-Hoppe",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 792,
+        "sifra": 1704,
+        "punoIme": "Kuhn, Hoeger and Jacobson",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 793,
+        "sifra": 1454,
+        "punoIme": "Brown-Berge",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 794,
+        "sifra": 1462,
+        "punoIme": "Wyman and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 795,
+        "sifra": 1220,
+        "punoIme": "Strosin Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 796,
+        "sifra": 1379,
+        "punoIme": "West LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 797,
+        "sifra": 1592,
+        "punoIme": "Douglas Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 798,
+        "sifra": 1076,
+        "punoIme": "DuBuque Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 799,
+        "sifra": 1612,
+        "punoIme": "Murazik, Prosacco and Toy",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 800,
+        "sifra": 1111,
+        "punoIme": "Mann LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 801,
+        "sifra": 1767,
+        "punoIme": "Leuschke, Runolfsdottir and Kunde",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 802,
+        "sifra": 1778,
+        "punoIme": "King, Heathcote and Brown",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 803,
+        "sifra": 1275,
+        "punoIme": "Prosacco, Schoen and Harber",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 804,
+        "sifra": 1707,
+        "punoIme": "Turcotte-Lind",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 805,
+        "sifra": 1614,
+        "punoIme": "Barton-Schaden",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 806,
+        "sifra": 1221,
+        "punoIme": "Towne Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 807,
+        "sifra": 1537,
+        "punoIme": "Mosciski-Batz",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 808,
+        "sifra": 1571,
+        "punoIme": "Cummerata, Doyle and MacGyver",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 809,
+        "sifra": 1632,
+        "punoIme": "Howe-Heller",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 810,
+        "sifra": 1144,
+        "punoIme": "Metz-Dooley",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 811,
+        "sifra": 1742,
+        "punoIme": "Hudson LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 812,
+        "sifra": 1036,
+        "punoIme": "Durgan and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 813,
+        "sifra": 1201,
+        "punoIme": "Labadie LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 814,
+        "sifra": 1260,
+        "punoIme": "Quitzon-Hand",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 815,
+        "sifra": 1424,
+        "punoIme": "Leannon and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 816,
+        "sifra": 1621,
+        "punoIme": "Dickinson and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 817,
+        "sifra": 1350,
+        "punoIme": "Bradtke, Emard and Schaden",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 818,
+        "sifra": 1370,
+        "punoIme": "Gorczany-McGlynn",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 819,
+        "sifra": 1729,
+        "punoIme": "Wisozk-Kris",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 820,
+        "sifra": 1315,
+        "punoIme": "Waelchi, Brakus and Braun",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 821,
+        "sifra": 1272,
+        "punoIme": "Goodwin, Welch and McDermott",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 822,
+        "sifra": 1113,
+        "punoIme": "Grady-Von",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 823,
+        "sifra": 1594,
+        "punoIme": "Schultz Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 824,
+        "sifra": 1120,
+        "punoIme": "Jerde LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 825,
+        "sifra": 1376,
+        "punoIme": "Aufderhar-Gaylord",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 826,
+        "sifra": 1693,
+        "punoIme": "Oberbrunner, Davis and Lockman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 827,
+        "sifra": 1117,
+        "punoIme": "Grimes-Heidenreich",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 828,
+        "sifra": 1632,
+        "punoIme": "Mosciski, Heller and McGlynn",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 829,
+        "sifra": 1197,
+        "punoIme": "Bosco-Rau",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 830,
+        "sifra": 1742,
+        "punoIme": "Dietrich, Conn and Prohaska",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 831,
+        "sifra": 1394,
+        "punoIme": "Schmitt, Hoppe and Koelpin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 832,
+        "sifra": 1769,
+        "punoIme": "Kub LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 833,
+        "sifra": 1561,
+        "punoIme": "Pollich, Halvorson and Wilderman",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 834,
+        "sifra": 1800,
+        "punoIme": "Padberg and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 835,
+        "sifra": 1509,
+        "punoIme": "Collins Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 836,
+        "sifra": 1435,
+        "punoIme": "Ferry, Russel and Streich",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 837,
+        "sifra": 1309,
+        "punoIme": "Kiehn-Bradtke",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 838,
+        "sifra": 1683,
+        "punoIme": "Doyle-Ullrich",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 839,
+        "sifra": 1525,
+        "punoIme": "Hettinger-Koelpin",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 840,
+        "sifra": 1482,
+        "punoIme": "Eichmann Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 841,
+        "sifra": 1055,
+        "punoIme": "Schmidt-Ledner",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 842,
+        "sifra": 1190,
+        "punoIme": "Langworth, Dickinson and Kub",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 843,
+        "sifra": 1265,
+        "punoIme": "DuBuque-Prohaska",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 844,
+        "sifra": 1532,
+        "punoIme": "Friesen Inc",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 845,
+        "sifra": 1343,
+        "punoIme": "Gutmann-Mertz",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 846,
+        "sifra": 1069,
+        "punoIme": "Homenick, Kling and Schultz",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 847,
+        "sifra": 1239,
+        "punoIme": "Morar-Moore",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 848,
+        "sifra": 1282,
+        "punoIme": "Deckow-Corkery",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 849,
+        "sifra": 1487,
+        "punoIme": "Nolan, DuBuque and Beier",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 850,
+        "sifra": 1433,
+        "punoIme": "Stamm Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 851,
+        "sifra": 1515,
+        "punoIme": "Harvey-Brakus",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 852,
+        "sifra": 1115,
+        "punoIme": "Gusikowski, Ratke and Murazik",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 853,
+        "sifra": 1246,
+        "punoIme": "Armstrong and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 854,
+        "sifra": 1791,
+        "punoIme": "Jones-Crooks",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 855,
+        "sifra": 1121,
+        "punoIme": "Tremblay-Hilll",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 856,
+        "sifra": 1019,
+        "punoIme": "Shields-Trantow",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 857,
+        "sifra": 1478,
+        "punoIme": "Grimes Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 858,
+        "sifra": 1510,
+        "punoIme": "Leannon, Conn and Roob",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 859,
+        "sifra": 1647,
+        "punoIme": "Kuvalis-Glover",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 860,
+        "sifra": 1475,
+        "punoIme": "Mills LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 861,
+        "sifra": 1082,
+        "punoIme": "Champlin, Bahringer and Rempel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 862,
+        "sifra": 1644,
+        "punoIme": "Huels, Streich and Wilkinson",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 863,
+        "sifra": 1296,
+        "punoIme": "Nikolaus-Toy",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 864,
+        "sifra": 1298,
+        "punoIme": "Pacocha-Simonis",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 865,
+        "sifra": 1457,
+        "punoIme": "Doyle-Hackett",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 866,
+        "sifra": 1024,
+        "punoIme": "Marks-Stracke",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 867,
+        "sifra": 1172,
+        "punoIme": "Wolf, Sauer and Wuckert",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 868,
+        "sifra": 1780,
+        "punoIme": "Dickens LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 869,
+        "sifra": 1575,
+        "punoIme": "Rempel LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 870,
+        "sifra": 1410,
+        "punoIme": "Nikolaus LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 871,
+        "sifra": 1154,
+        "punoIme": "Beer Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 872,
+        "sifra": 1059,
+        "punoIme": "Franecki, Kohler and Reinger",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 873,
+        "sifra": 1219,
+        "punoIme": "Kilback, Cole and Barton",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 874,
+        "sifra": 1677,
+        "punoIme": "Mraz-Legros",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 875,
+        "sifra": 1148,
+        "punoIme": "Hand-Heaney",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 876,
+        "sifra": 1384,
+        "punoIme": "Schiller-Altenwerth",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 877,
+        "sifra": 1087,
+        "punoIme": "Kutch-Jenkins",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 878,
+        "sifra": 1574,
+        "punoIme": "Wyman-Murphy",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 879,
+        "sifra": 1086,
+        "punoIme": "Sauer, Lindgren and Nitzsche",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 880,
+        "sifra": 1373,
+        "punoIme": "Ruecker, Beer and Bergnaum",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 881,
+        "sifra": 1655,
+        "punoIme": "Raynor and Sons",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 882,
+        "sifra": 1648,
+        "punoIme": "Mayert Group",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 883,
+        "sifra": 1708,
+        "punoIme": "Funk-Roberts",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 884,
+        "sifra": 1608,
+        "punoIme": "Marvin, Smith and Thiel",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 885,
+        "sifra": 1023,
+        "punoIme": "Sauer-Wunsch",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 886,
+        "sifra": 1074,
+        "punoIme": "Stracke and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 8
+    },
+    {
+        "id": 887,
+        "sifra": 1230,
+        "punoIme": "Jerde Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 888,
+        "sifra": 1560,
+        "punoIme": "Durgan-Gottlieb",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 889,
+        "sifra": 1636,
+        "punoIme": "Kuhn-Ebert",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 890,
+        "sifra": 1445,
+        "punoIme": "Haag, Torphy and Deckow",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 891,
+        "sifra": 1792,
+        "punoIme": "Cormier-Paucek",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 892,
+        "sifra": 1324,
+        "punoIme": "Nicolas Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 893,
+        "sifra": 1006,
+        "punoIme": "Nolan-Schumm",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 894,
+        "sifra": 1665,
+        "punoIme": "Schmidt, Reilly and Collier",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 895,
+        "sifra": 1624,
+        "punoIme": "Hackett-Runte",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 5
+    },
+    {
+        "id": 896,
+        "sifra": 1693,
+        "punoIme": "Ankunding, Kilback and Koss",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 897,
+        "sifra": 1422,
+        "punoIme": "Ward LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 898,
+        "sifra": 1506,
+        "punoIme": "Feeney LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 899,
+        "sifra": 1184,
+        "punoIme": "Christiansen, Schulist and Funk",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 900,
+        "sifra": 1068,
+        "punoIme": "Bins-Greenfelder",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 901,
+        "sifra": 1399,
+        "punoIme": "Treutel, Renner and McGlynn",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 902,
+        "sifra": 1698,
+        "punoIme": "Steuber, DuBuque and Conroy",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 903,
+        "sifra": 1509,
+        "punoIme": "Reichel LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 904,
+        "sifra": 1465,
+        "punoIme": "Wilderman, Muller and Padberg",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 905,
+        "sifra": 1495,
+        "punoIme": "Altenwerth LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 906,
+        "sifra": 1425,
+        "punoIme": "Cremin Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 907,
+        "sifra": 1235,
+        "punoIme": "Kautzer-Okuneva",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 908,
+        "sifra": 1125,
+        "punoIme": "Anderson and Sons",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 909,
+        "sifra": 1233,
+        "punoIme": "Hilpert-Smitham",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 910,
+        "sifra": 1357,
+        "punoIme": "Hilpert Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 911,
+        "sifra": 1042,
+        "punoIme": "Gibson, Ledner and Little",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 1
+    },
+    {
+        "id": 912,
+        "sifra": 1593,
+        "punoIme": "Grant, McKenzie and Jacobson",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 913,
+        "sifra": 1495,
+        "punoIme": "Wisoky LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 914,
+        "sifra": 1687,
+        "punoIme": "Bruen, Considine and Becker",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 915,
+        "sifra": 1442,
+        "punoIme": "Johnston, Von and Smitham",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 916,
+        "sifra": 1498,
+        "punoIme": "Cummings LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 2
+    },
+    {
+        "id": 917,
+        "sifra": 1387,
+        "punoIme": "Swaniawski, Prosacco and Bayer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 918,
+        "sifra": 1329,
+        "punoIme": "Rempel LLC",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 919,
+        "sifra": 1046,
+        "punoIme": "Jacobs-Robel",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 920,
+        "sifra": 1674,
+        "punoIme": "Dickinson and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 921,
+        "sifra": 1698,
+        "punoIme": "Ankunding, Bins and Smitham",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 922,
+        "sifra": 1008,
+        "punoIme": "Johns, Schmitt and Bradtke",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 3
+    },
+    {
+        "id": 923,
+        "sifra": 1700,
+        "punoIme": "Schoen, Welch and Mills",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 924,
+        "sifra": 1774,
+        "punoIme": "Aufderhar, O'Conner and Erdman",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 7
+    },
+    {
+        "id": 925,
+        "sifra": 1596,
+        "punoIme": "Champlin-Halvorson",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 3
+    },
+    {
+        "id": 926,
+        "sifra": 1570,
+        "punoIme": "Lueilwitz, Rolfson and Weber",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 6
+    },
+    {
+        "id": 927,
+        "sifra": 1701,
+        "punoIme": "Mertz-Hansen",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 928,
+        "sifra": 1629,
+        "punoIme": "Kerluke, Mraz and Cassin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 929,
+        "sifra": 1079,
+        "punoIme": "Mann-Wiegand",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 930,
+        "sifra": 1135,
+        "punoIme": "Schmeler, Haag and Jakubowski",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 931,
+        "sifra": 1531,
+        "punoIme": "Stark, Stoltenberg and Smitham",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 932,
+        "sifra": 1312,
+        "punoIme": "Tromp Group",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 933,
+        "sifra": 1673,
+        "punoIme": "Lehner-Schimmel",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 934,
+        "sifra": 1428,
+        "punoIme": "Smitham-Schmidt",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 935,
+        "sifra": 1425,
+        "punoIme": "Pacocha, King and Jacobi",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 936,
+        "sifra": 1786,
+        "punoIme": "Robel, Donnelly and Stoltenberg",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 4
+    },
+    {
+        "id": 937,
+        "sifra": 1454,
+        "punoIme": "Weber, Lynch and Bailey",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 2
+    },
+    {
+        "id": 938,
+        "sifra": 1758,
+        "punoIme": "Abbott LLC",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 939,
+        "sifra": 1001,
+        "punoIme": "Hackett Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 5
+    },
+    {
+        "id": 940,
+        "sifra": 1747,
+        "punoIme": "Franecki-Rohan",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 941,
+        "sifra": 1560,
+        "punoIme": "Wilkinson, Towne and Gerhold",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 942,
+        "sifra": 1524,
+        "punoIme": "Satterfield, MacGyver and Satterfield",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 943,
+        "sifra": 1045,
+        "punoIme": "Funk-McGlynn",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 7
+    },
+    {
+        "id": 944,
+        "sifra": 1048,
+        "punoIme": "Hermann and Sons",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 1
+    },
+    {
+        "id": 945,
+        "sifra": 1077,
+        "punoIme": "Bogisich, Hessel and Mayert",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 946,
+        "sifra": 1313,
+        "punoIme": "Kris, Volkman and Bernier",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 947,
+        "sifra": 1215,
+        "punoIme": "Kiehn and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 948,
+        "sifra": 1272,
+        "punoIme": "Price Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 1
+    },
+    {
+        "id": 949,
+        "sifra": 1370,
+        "punoIme": "Abernathy Inc",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 8
+    },
+    {
+        "id": 950,
+        "sifra": 1086,
+        "punoIme": "Powlowski-Leuschke",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 951,
+        "sifra": 1073,
+        "punoIme": "Kuhic, Larson and Terry",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 1
+    },
+    {
+        "id": 952,
+        "sifra": 1724,
+        "punoIme": "Wunsch-Simonis",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 953,
+        "sifra": 1268,
+        "punoIme": "Blick, Gulgowski and Koch",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 954,
+        "sifra": 1543,
+        "punoIme": "Kessler Group",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 955,
+        "sifra": 1104,
+        "punoIme": "Marvin Inc",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 956,
+        "sifra": 1010,
+        "punoIme": "Cassin, Smitham and Ratke",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 957,
+        "sifra": 1259,
+        "punoIme": "Brakus-Kirlin",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 958,
+        "sifra": 1287,
+        "punoIme": "Pouros Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 8
+    },
+    {
+        "id": 959,
+        "sifra": 1770,
+        "punoIme": "Franecki-Champlin",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 960,
+        "sifra": 1690,
+        "punoIme": "Buckridge-Hilll",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 961,
+        "sifra": 1242,
+        "punoIme": "Kuhic-Bernier",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 962,
+        "sifra": 1250,
+        "punoIme": "Nikolaus, Sanford and Greenholt",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 963,
+        "sifra": 1769,
+        "punoIme": "Russel and Sons",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 964,
+        "sifra": 1762,
+        "punoIme": "Schiller LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 965,
+        "sifra": 1203,
+        "punoIme": "Bruen Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 966,
+        "sifra": 1755,
+        "punoIme": "Doyle-Weimann",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 5
+    },
+    {
+        "id": 967,
+        "sifra": 1585,
+        "punoIme": "Lowe, Murazik and Schumm",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    },
+    {
+        "id": 968,
+        "sifra": 1536,
+        "punoIme": "Hoppe-Schamberger",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 969,
+        "sifra": 1001,
+        "punoIme": "Hills Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 6
+    },
+    {
+        "id": 970,
+        "sifra": 1498,
+        "punoIme": "Kiehn-Hane",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 3
+    },
+    {
+        "id": 971,
+        "sifra": 1675,
+        "punoIme": "Corwin LLC",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 8
+    },
+    {
+        "id": 972,
+        "sifra": 1705,
+        "punoIme": "Roberts LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 4
+    },
+    {
+        "id": 973,
+        "sifra": 1305,
+        "punoIme": "Wisoky Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 7
+    },
+    {
+        "id": 974,
+        "sifra": 1394,
+        "punoIme": "Connelly LLC",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 975,
+        "sifra": 1402,
+        "punoIme": "Crist-Sawayn",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 7
+    },
+    {
+        "id": 976,
+        "sifra": 1670,
+        "punoIme": "Collins, Braun and Emard",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 977,
+        "sifra": 1699,
+        "punoIme": "Sanford-Crona",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 5
+    },
+    {
+        "id": 978,
+        "sifra": 1596,
+        "punoIme": "Wehner, Mante and Beer",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 979,
+        "sifra": 1711,
+        "punoIme": "Moore, Lowe and Schaden",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 3
+    },
+    {
+        "id": 980,
+        "sifra": 1673,
+        "punoIme": "Robel, Rice and Jaskolski",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 4
+    },
+    {
+        "id": 981,
+        "sifra": 1794,
+        "punoIme": "Muller, Kihn and White",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 6
+    },
+    {
+        "id": 982,
+        "sifra": 1375,
+        "punoIme": "Keeling, Yundt and Hilll",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 4
+    },
+    {
+        "id": 983,
+        "sifra": 1574,
+        "punoIme": "Muller Inc",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 984,
+        "sifra": 1051,
+        "punoIme": "Nicolas LLC",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 985,
+        "sifra": 1684,
+        "punoIme": "Dicki, Schulist and Schinner",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 986,
+        "sifra": 1325,
+        "punoIme": "Keebler-Bartell",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 5
+    },
+    {
+        "id": 987,
+        "sifra": 1454,
+        "punoIme": "Bartell-Torphy",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 6
+    },
+    {
+        "id": 988,
+        "sifra": 1055,
+        "punoIme": "Littel, Metz and Stanton",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 4
+    },
+    {
+        "id": 989,
+        "sifra": 1299,
+        "punoIme": "Homenick-Blick",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 990,
+        "sifra": 1669,
+        "punoIme": "Lebsack-Schamberger",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 6
+    },
+    {
+        "id": 991,
+        "sifra": 1613,
+        "punoIme": "Hermiston Inc",
+        "ekvivalent": 0,
+        "espb": 9,
+        "semestar": 8
+    },
+    {
+        "id": 992,
+        "sifra": 1113,
+        "punoIme": "Wisoky Group",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 993,
+        "sifra": 1676,
+        "punoIme": "Gutmann-Donnelly",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 994,
+        "sifra": 1436,
+        "punoIme": "Shanahan-Marks",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 995,
+        "sifra": 1444,
+        "punoIme": "Kassulke-Herman",
+        "ekvivalent": 0,
+        "espb": 8,
+        "semestar": 2
+    },
+    {
+        "id": 996,
+        "sifra": 1535,
+        "punoIme": "Collier Group",
+        "ekvivalent": 0,
+        "espb": 10,
+        "semestar": 1
+    },
+    {
+        "id": 997,
+        "sifra": 1485,
+        "punoIme": "McDermott, Barrows and O'Kon",
+        "ekvivalent": 0,
+        "espb": 7,
+        "semestar": 2
+    },
+    {
+        "id": 998,
+        "sifra": 1715,
+        "punoIme": "Hamill-Schumm",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 3
+    },
+    {
+        "id": 999,
+        "sifra": 1068,
+        "punoIme": "Wintheiser-Mante",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 2
+    },
+    {
+        "id": 1000,
+        "sifra": 1304,
+        "punoIme": "Glover and Sons",
+        "ekvivalent": 0,
+        "espb": 6,
+        "semestar": 7
+    }
+]
