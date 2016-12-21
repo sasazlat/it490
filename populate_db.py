@@ -16,9 +16,6 @@ DBSession = sessionmaker(bind=engine)
 sess = DBSession() 
 
 
-#def main():
-#    populateDB()
-#    print 'Baza napunjena'
 
 
 def populateDB():

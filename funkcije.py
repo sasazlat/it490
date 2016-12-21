@@ -15,16 +15,13 @@ def getListaPredmeta(predmeti):
     response, content = h.request(url,'GET')
     if response[ 'status' ] == '200': 
         results = json.loads(content)
-        return results
-
-             
+        return results            
 
 
 def getListaPredmetaFromJSONfile():
     with open('MOCK_DATA.json', 'r') as isum:
         results = json.load(isum)
         return results
-
 
 
 def randomPredmeti():

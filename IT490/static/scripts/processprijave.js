@@ -130,7 +130,6 @@
                 , 'espb': $(tr).find('td:eq(3)').text()
                 , 'semestar': $(tr).find('td:eq(4)').text()
             }
-
         });
         return tableData;
     }
