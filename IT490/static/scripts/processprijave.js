@@ -132,9 +132,6 @@
             }
 
         });
-        // first row will be empty - so remove
-        //tableData.shift();
-        //tableData.pop();
         return tableData;
     }
 
