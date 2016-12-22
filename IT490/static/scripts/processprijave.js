@@ -3,7 +3,7 @@
     $('#pr').show();
     $("button#prosledi").on('click', function (e)
     {
-
+        //promena za git
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             $.ajax({
                 data: {
