@@ -28,5 +28,5 @@ def randomPredmeti():
     from random import randint
     predmeti = getListaPredmetaFromJSONfile()
     lenfile = len(predmeti)
-    index_predmeta = sorted([randint(1,lenfile-1) for p in range(1,16)])
+    index_predmeta = sorted([randint(1,lenfile-1) for p in range(1,11)])
     return [predmeti[ip] for ip in index_predmeta]
