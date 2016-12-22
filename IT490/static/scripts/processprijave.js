@@ -4,6 +4,8 @@
     $("button#prosledi").on('click', function (e)
     {
         //promena za git
+
+        //promena druga
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             $.ajax({
                 data: {
