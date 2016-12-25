@@ -1,12 +1,13 @@
 ﻿$(document).ready(function ()
 {
+    //prikazuje div element 'pr'
     $('#pr').show();
+    //posle klika prosledi sledi
     $("button#prosledi").on('click', function (e)
     {
-        //promena za git
-
-        //promena druga
+        //provera polja upisprograma i steceniESPB koji su obavezni
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
+            //ako je u redu onda ajax do view funkcije _process_projava()
             $.ajax({
                 data: {
                     ime: $('#ime').val(),
@@ -21,7 +22,7 @@
                 type: 'POST',
                 url: $SCRIPT_ROOT + '/_process_prijava',
                 dataType: 'json'
-            })
+            })//od servera se dobija..
                 .done(function (data)
                 {
                     var trHTML = '';
@@ -38,6 +39,7 @@
                            '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
                            '</td></tr>';
                     });
+                    //..i kreira tabela sa id=target_table_id
                     $('#target_table_id tbody').append(trHTML);
                     //$('#pr').hide();
                     $("button#prosledi").attr("disabled", true);
@@ -52,6 +54,7 @@
                     $('#target_table_id tbody input[type="checkbox"]').on('change', function ()
                     {
                         calculatePriznati();
+                        //proveriti kako radi bez when funkcije
                         $.when(calculatePriznati()).done(function ()
                         {
                             createKonacna();

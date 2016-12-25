@@ -27,29 +27,14 @@ def index():
         semestar = request.form['diploma']
 
 
-@app.route('/proba', methods = ['GET', 'POST'])
-def proba():
-    predmeti = randomPredmeti() #list of predmeti
-    predmeti_json = jsonify(predmeti)
-    if request.method == 'GET':
-        return predmeti_json
-    else:
-        ime = request.json['ime']
-        email = request.json['email']
-        telefon = request.json['telefon']
-        vsu = request.json['vsu']
-        psp = request.json['psp']
-        steceniESPB = request.json['steceniESPB']
-        diploma = request.json['diploma']
-        upisPrograma = request.json['upisPrograma']
-        return jsonify({'Upis Programa': upisPrograma})
-
 @app.route('/_process_prijava', methods = ['POST'])
 def process_table():
     """Prima podatke sa klijent strane index.html
        i vraca json podatke fakulteta. Zavisi od izabranog polja - 
        FIT, FDU ili FM 
     """
+    #ovde ce umesto randomPredmeti() biti 
+    #json dobijen rest-om
     predmeti = randomPredmeti() #list of predmeti
     a = []
     for p in predmeti:
@@ -64,8 +49,7 @@ def process_table():
         d['priznat'] = ''
         a.append(d)
 
-
-    predmeti_json = jsonify(d)
+    #za bazu podataka studenta
     ime = request.form['ime']
     email = request.form['email']
     telefon = request.form['telefon']
@@ -74,10 +58,8 @@ def process_table():
     steceniESPB = request.form['steceniESPB']
     diploma = request.form['diploma']
     upisPrograma = request.form['upisPrograma']
-    print upisPrograma
-
-
-
+    
+      
     if upisPrograma == 'fit':
         return jsonify(a)
     elif upisPrograma == 'fdu':

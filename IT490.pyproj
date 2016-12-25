@@ -36,6 +36,7 @@
     <Content Include="IT490\static\css\bootstrap.css.map" />
     <Content Include="IT490\static\css\bootstrap.min.css" />
     <Content Include="IT490\static\css\bootstrap.min.css.map" />
+    <Content Include="IT490\static\css\processprijave.css" />
     <Content Include="IT490\static\css\tabpanels.css" />
     <Content Include="IT490\static\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="IT490\static\fonts\glyphicons-halflings-regular.svg" />

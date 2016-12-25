@@ -9,17 +9,7 @@
 {% block head %}
 {{super()}}
 <link href="../static/css/bootstrap.css" rel="stylesheet" />
-<style>
-    td > input[type='text'], html > body input[type='email'] {
-        width: 99%; 
-        /*this will set the width of the textbox equal to its container td*/
-    }
 
-    caption {
-        display: table-caption;
-        text-align: center;
-    }
-</style>
 {% endblock head %}
 
 {% block content %}
@@ -221,8 +211,7 @@
                                 </tbody>
                             </table>
                         </div>
-                        {#<div class="tab-pane fade" id="tab5default">Default 5</div>#}
-                    </div>
+                </div>
                 </div>
             </div>
         </div>
