@@ -49,7 +49,7 @@
 
                     calculatePriznati();
                     createKonacna();
-                   
+
                     //obelezavanje cekboksa
                     $('#target_table_id tbody input[type="checkbox"]').on('change', function ()
                     {
@@ -118,7 +118,7 @@
             $("#3").text($("#sum6").text());
             $("#4").text(parseInt($("#0").text()) + parseInt($("#1").text()) + parseInt($("#3").text()));
             $("#5").text(parseInt(240 - $("#4").text()));
-           
+
         });
     }
 
@@ -162,37 +162,37 @@
     }
 
 
-    //function createOstalih()
-    //{
-    //    //uslov za kreiiranje tabeleOstalih
-    //    if (parseInt($("#4").text()) > 0) {
-    //        $.ajax({
-    //            data: {
-    //                upisPrograma: $('#upisPrograma').val()
-    //            },
-    //            type: 'POST',
-    //            url: $SCRIPT_ROOT + '/_process_cetiri',
-    //            contentType: 'application/json',
-    //            dataType: 'json'
-    //        }).done(function (data)
-    //        {
-    //            var trHTML = '';
-    //            $.each(data, function (key, value)
-    //            {
-    //                trHTML +=
-    //                   '<tr><td>' + value.id +
-    //                   '</td><td>' + value.sifra +
-    //                   '</td><td>' + value.punoIme +
-    //                   '</td><td>' + value.espb +
-    //                   '</td><td>' + value.semestar +
-    //                   '</td><td>' + value.priznatESPB +
-    //                   '</td><td>' + value.espb +
-    //                   '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
-    //                   '</td></tr>';
-    //            });
-    //            //..i kreira tabela sa id=tabelaOstalih
-    //            $('#tabelaOstalih tbody').append(trHTML);
-    //        });
-    //    }
-    //}
+    function createOstalih()
+    {
+        //uslov za kreiiranje tabeleOstalih
+        if (parseInt($("#4").text()) > 0) {
+            $.ajax({
+                data: {
+                    upisPrograma: $('#upisPrograma').val()
+                },
+                type: 'POST',
+                url: $SCRIPT_ROOT + '/_process_cetiri',
+                contentType: 'application/json',
+                dataType: 'json'
+            }).done(function (data)
+            {
+                var trHTML = '';
+                $.each(data, function (key, value)
+                {
+                    trHTML +=
+                       '<tr><td>' + value.id +
+                       '</td><td>' + value.sifra +
+                       '</td><td>' + value.punoIme +
+                       '</td><td>' + value.espb +
+                       '</td><td>' + value.semestar +
+                       '</td><td>' + value.priznatESPB +
+                       '</td><td>' + value.espb +
+                       '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
+                       '</td></tr>';
+                });
+                //..i kreira tabela sa id=tabelaOstalih
+                $('#tabelaOstalih tbody').append(trHTML);
+            });
+        }
+    }
 });
