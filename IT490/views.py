@@ -66,8 +66,10 @@ def process_table():
 
 @app.route("/_process_cetiri", methods = ["POST"])
 def process_cetiri():
-    upisPrograma = request.json['upisPrograma']
 
+
+    upisPrograma = request.json['upisPrograma']
+    print upisPrograma
     predmeti = randomPredmeti(upisPrograma) #list of predmeti
     a = []
     for p in predmeti:
