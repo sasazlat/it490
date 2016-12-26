@@ -14,10 +14,10 @@ sys.stderr = codecs.getwriter('utf-8')(sys.stderr)
 @app.route('/index', methods = ["GET","POST"])
 def index():
     """Renderuje index stranu - pocetnu."""
-    predmeti = randomPredmeti() #list of predmeti
-    predmeti_json = jsonify(predmeti)
+    #predmeti = randomPredmeti() #list of predmeti
+    #predmeti_json = jsonify(predmeti)
     if request.method == "GET":
-        return render_template('index.html', predmeti = predmeti)
+        return render_template('index.html')
     else:
         id = request.form['ime']
         sifra = request.form['email']
@@ -33,21 +33,6 @@ def process_table():
        i vraca json podatke fakulteta. Zavisi od izabranog polja - 
        FIT, FDU ili FM 
     """
-    #ovde ce umesto randomPredmeti() biti 
-    #json dobijen rest-om
-    predmeti = randomPredmeti() #list of predmeti
-    a = []
-    for p in predmeti:
-        d = {}
-        d["id"]    = p['id']
-        d['sifra'] = p['sifra']
-        d['punoIme'] = p['punoIme']
-        d['espb'] = p['espb']
-        d['semestar'] = p['semestar']
-        d['priznatESPB'] = ''
-        d['dodatiESPB'] = ''
-        d['priznat'] = ''
-        a.append(d)
 
     #za bazu podataka studenta
     ime = request.form['ime']
@@ -58,6 +43,24 @@ def process_table():
     steceniESPB = request.form['steceniESPB']
     diploma = request.form['diploma']
     upisPrograma = request.form['upisPrograma']
+
+    #ovde ce umesto randomPredmeti() biti 
+    #json dobijen rest-om
+    predmeti = randomPredmeti(upisPrograma) #list of predmeti
+    a = []
+    for p in predmeti:
+        d = {}
+        d["id"]    = p['id']
+        d['sifra'] = p['sifra']
+        d['punoIme'] = p['punoIme']
+        d['espb'] = p['ects']
+        d['semestar'] = p['ekvivalent']
+        d['priznatESPB'] = ''
+        d['dodatiESPB'] = ''
+        d['priznat'] = ''
+        a.append(d)
+
+
     
       
     if upisPrograma == 'fit':

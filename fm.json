@@ -1,0 +1,758 @@
+[
+    {
+        "id": 321,
+        "sifra": "OM495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 16
+    },
+    {
+        "id": 711,
+        "sifra": "MK692",
+        "punoIme": "Istraživački projekat 2",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 164,
+        "sifra": "MK100",
+        "punoIme": "Principi marketinga",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 174,
+        "sifra": "MK230",
+        "punoIme": "Brend menadžment",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 541,
+        "sifra": "MK425",
+        "punoIme": "Strateški menadžment",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 225,
+        "sifra": "MK410",
+        "punoIme": "Marketing menadžment",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 103,
+        "sifra": "OM110",
+        "punoIme": "Analiza i projektovanje poslovnih procesa",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 117,
+        "sifra": "OM350",
+        "punoIme": "Preduzetništvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 337,
+        "sifra": "MK175",
+        "punoIme": "Istorija sporta",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 390,
+        "sifra": "IS205",
+        "punoIme": "Osnove informacionih sistema",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 189,
+        "sifra": "NT214",
+        "punoIme": "Engleski za menadžere",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 412,
+        "sifra": "MK455",
+        "punoIme": "Projekat marketing kampanje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 252,
+        "sifra": "MK265",
+        "punoIme": "Menadžment sportskih objekata",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 109,
+        "sifra": "OM230",
+        "punoIme": "Upravljanje ljudskim resursima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 847,
+        "sifra": "MG690",
+        "punoIme": "Izrada i odbrana doktorske disertacije",
+        "ekvivalent": 0,
+        "ects": 60
+    },
+    {
+        "id": 211,
+        "sifra": "MK340",
+        "punoIme": "Marketing menadžment",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 189,
+        "sifra": "NT214",
+        "punoIme": "Engleski za menadžere",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 460,
+        "sifra": "OM131",
+        "punoIme": "Razvoj novih proizvoda",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 224,
+        "sifra": "MK310",
+        "punoIme": "Međunarodno poslovanje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 309,
+        "sifra": "MK170",
+        "punoIme": "Marketing u sportu",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 102,
+        "sifra": "OM100",
+        "punoIme": "Uvod u operacioni menadžment",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 350,
+        "sifra": "MA100",
+        "punoIme": "Matematika za menadžere",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 395,
+        "sifra": "OM491",
+        "punoIme": "Stručna praksa",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 169,
+        "sifra": "MK110",
+        "punoIme": "Poslovna ekonomija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 173,
+        "sifra": "MK220",
+        "punoIme": "Ponašanje potrošača",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 626,
+        "sifra": "MK485",
+        "punoIme": "Menadžment specijalnih i medijskih događaja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 331,
+        "sifra": "MK595",
+        "punoIme": "Master rad",
+        "ekvivalent": 0,
+        "ects": 12
+    },
+    {
+        "id": 821,
+        "sifra": "MG491",
+        "punoIme": "Stručna praksa (BIM)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 175,
+        "sifra": "MK240",
+        "punoIme": "Oglašavanje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 288,
+        "sifra": "MG150",
+        "punoIme": "Poslovne finansije sa računovodstvom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 144,
+        "sifra": "MK375",
+        "punoIme": "Poslovno pravo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 144,
+        "sifra": "MK375",
+        "punoIme": "Poslovno pravo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 848,
+        "sifra": "MG687",
+        "punoIme": "Studijski istraživački rad na izradi doktorske disertacija",
+        "ekvivalent": 0,
+        "ects": 0
+    },
+    {
+        "id": 626,
+        "sifra": "MK485",
+        "punoIme": "Menadžment specijalnih i medijskih događaja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 288,
+        "sifra": "MG150",
+        "punoIme": "Poslovne finansije sa računovodstvom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 287,
+        "sifra": "MK235",
+        "punoIme": "Menadžment prodaje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 236,
+        "sifra": "MK165",
+        "punoIme": "Uvod u menadžment u sportu",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 112,
+        "sifra": "OM250",
+        "punoIme": "Modeliranje i projektovanje preduzeca",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 543,
+        "sifra": "MG585",
+        "punoIme": "Upravljanje inovacijama i preduzetništvo",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 146,
+        "sifra": "MK150",
+        "punoIme": "Osnove menadžmenta",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 641,
+        "sifra": "MG495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 539,
+        "sifra": "MK251",
+        "punoIme": "Digitalni marketing",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 224,
+        "sifra": "MK310",
+        "punoIme": "Međunarodno poslovanje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 542,
+        "sifra": "MK585",
+        "punoIme": "Projekat istraživanja tržišta",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 420,
+        "sifra": "MA272",
+        "punoIme": "Poslovna statistika sa verovatnoćom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 107,
+        "sifra": "OM210",
+        "punoIme": "Planiranje i upravljanje proizvodnjom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 117,
+        "sifra": "OM350",
+        "punoIme": "Preduzetništvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 116,
+        "sifra": "OM330",
+        "punoIme": "Strategija operacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 109,
+        "sifra": "OM230",
+        "punoIme": "Upravljanje ljudskim resursima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 262,
+        "sifra": "NT600",
+        "punoIme": "Metodologija naučnoistraživačkog rada",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 106,
+        "sifra": "OM140",
+        "punoIme": "Logistika i upravljanje lancem snabdevanja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 126,
+        "sifra": "OM323",
+        "punoIme": "Upravljanje projektima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 288,
+        "sifra": "MG150",
+        "punoIme": "Poslovne finansije sa računovodstvom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 710,
+        "sifra": "MK691",
+        "punoIme": "Istraživački projekat 1",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 173,
+        "sifra": "MK220",
+        "punoIme": "Ponašanje potrošača",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 541,
+        "sifra": "MK425",
+        "punoIme": "Strateški menadžment",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 164,
+        "sifra": "MK100",
+        "punoIme": "Principi marketinga",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 115,
+        "sifra": "OM320",
+        "punoIme": "Modeliranje i optimizacija sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 149,
+        "sifra": "MK420",
+        "punoIme": "Strateški marketing",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 111,
+        "sifra": "OM240",
+        "punoIme": "Upravljanje kvalitetom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 117,
+        "sifra": "OM350",
+        "punoIme": "Preduzetništvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 113,
+        "sifra": "OM260",
+        "punoIme": "Upravljanje uslužnim procesima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 338,
+        "sifra": "MK275",
+        "punoIme": "Principi treninga u sportu",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 126,
+        "sifra": "OM323",
+        "punoIme": "Upravljanje projektima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 390,
+        "sifra": "IS205",
+        "punoIme": "Osnove informacionih sistema",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 102,
+        "sifra": "OM100",
+        "punoIme": "Uvod u operacioni menadžment",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 420,
+        "sifra": "MA272",
+        "punoIme": "Poslovna statistika sa verovatnoćom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 169,
+        "sifra": "MK110",
+        "punoIme": "Poslovna ekonomija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 390,
+        "sifra": "IS205",
+        "punoIme": "Osnove informacionih sistema",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 821,
+        "sifra": "MG491",
+        "punoIme": "Stručna praksa (BIM)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 484,
+        "sifra": "OM410",
+        "punoIme": "Upravljanje poslovnim procesima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 147,
+        "sifra": "NT210",
+        "punoIme": "Poslovna etika i komunikacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 126,
+        "sifra": "OM323",
+        "punoIme": "Upravljanje projektima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 481,
+        "sifra": "MK280",
+        "punoIme": "Biznis u sportu",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 420,
+        "sifra": "MA272",
+        "punoIme": "Poslovna statistika sa verovatnoćom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 170,
+        "sifra": "MK120",
+        "punoIme": "Integrisane marketinške komunikacije",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 460,
+        "sifra": "OM131",
+        "punoIme": "Razvoj novih proizvoda",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 480,
+        "sifra": "MK270",
+        "punoIme": "Menadžment sportskih organizacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 539,
+        "sifra": "MK251",
+        "punoIme": "Digitalni marketing",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 298,
+        "sifra": "MK360",
+        "punoIme": "Odnosi sa javnošću",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 845,
+        "sifra": "MG685",
+        "punoIme": "Laboratorijski istraživački rad na Pristupnom radu za doktorsku disertaciju",
+        "ekvivalent": 0,
+        "ects": 0
+    },
+    {
+        "id": 109,
+        "sifra": "OM230",
+        "punoIme": "Upravljanje ljudskim resursima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 172,
+        "sifra": "MK210",
+        "punoIme": "Marketing istraživanja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 846,
+        "sifra": "MG686",
+        "punoIme": "Izrada i odbrana Pristupnog rada za doktorsku disertaciju",
+        "ekvivalent": 0,
+        "ects": 30
+    },
+    {
+        "id": 100,
+        "sifra": "MK130",
+        "punoIme": "Principi prodaje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 169,
+        "sifra": "MK110",
+        "punoIme": "Poslovna ekonomija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 102,
+        "sifra": "OM100",
+        "punoIme": "Uvod u operacioni menadžment",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 641,
+        "sifra": "MG495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 146,
+        "sifra": "MK150",
+        "punoIme": "Osnove menadžmenta",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 287,
+        "sifra": "MK235",
+        "punoIme": "Menadžment prodaje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 144,
+        "sifra": "MK375",
+        "punoIme": "Poslovno pravo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 108,
+        "sifra": "OM220",
+        "punoIme": "Projektovanje pogona i rasporeda",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 189,
+        "sifra": "NT214",
+        "punoIme": "Engleski za menadžere",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 144,
+        "sifra": "MK375",
+        "punoIme": "Poslovno pravo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 114,
+        "sifra": "OM310",
+        "punoIme": "Poboljšanje operacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 164,
+        "sifra": "MK100",
+        "punoIme": "Principi marketinga",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 551,
+        "sifra": "MG675",
+        "punoIme": "Politika i strategija razvoja",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 848,
+        "sifra": "MG687",
+        "punoIme": "Studijski istraživački rad na izradi doktorske disertacija",
+        "ekvivalent": 0,
+        "ects": 0
+    },
+    {
+        "id": 146,
+        "sifra": "MK150",
+        "punoIme": "Osnove menadžmenta",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 432,
+        "sifra": "MK531",
+        "punoIme": "Komunikacije i odnosi s javnošću",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 104,
+        "sifra": "MK370",
+        "punoIme": "Menadžment sportskih događaja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 298,
+        "sifra": "MK360",
+        "punoIme": "Odnosi sa javnošću",
+        "ekvivalent": 0,
+        "ects": 6
+    }
+]

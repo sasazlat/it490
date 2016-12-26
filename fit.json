@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 75,
+        "sifra": "IT101",
+        "punoIme": "Osnove informacionih tehnologija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 288,
+        "sifra": "MG150",
+        "punoIme": "Poslovne finansije sa računovodstvom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 501,
+        "sifra": "IS280",
+        "punoIme": "Analiza i projektovanje sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 27,
+        "sifra": "CS323",
+        "punoIme": "C/C++ programski jezik",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 511,
+        "sifra": "SE436",
+        "punoIme": "Ocenjivanje i merenje softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 2,
+        "sifra": "IT395",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 479,
+        "sifra": "IS510",
+        "punoIme": "Poslovna inteligencija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 377,
+        "sifra": "CS101",
+        "punoIme": "Uvod u u objektno-orijentisano programiranje",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 537,
+        "sifra": "IS530",
+        "punoIme": "Modeli poslovanja organizacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 853,
+        "sifra": "IS591",
+        "punoIme": "Stručna praksa",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 125,
+        "sifra": "AD110",
+        "punoIme": "Osnove grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 378,
+        "sifra": "MA103",
+        "punoIme": "Matematika za IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 27,
+        "sifra": "CS323",
+        "punoIme": "C/C++ programski jezik",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 90,
+        "sifra": "CS230",
+        "punoIme": "Distribuirani sistemi",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 94,
+        "sifra": "SE201",
+        "punoIme": "Uvod u softversko inženjerstvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 817,
+        "sifra": "CS490",
+        "punoIme": "Stručna praksa (4 meseca)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 508,
+        "sifra": "SE595",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 547,
+        "sifra": "CS385",
+        "punoIme": "Razvoj softvera za ugrađene računarske sisteme",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 153,
+        "sifra": "SE321",
+        "punoIme": "Obezbedjenje kvaliteta i testiranje softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 262,
+        "sifra": "NT600",
+        "punoIme": "Metodologija naučnoistraživačkog rada",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 80,
+        "sifra": "IT210",
+        "punoIme": "Sistemi IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 420,
+        "sifra": "MA272",
+        "punoIme": "Poslovna statistika sa verovatnoćom",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 379,
+        "sifra": "CS102",
+        "punoIme": "Objekti i apstrakcija podataka",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 489,
+        "sifra": "MG340",
+        "punoIme": "Menadžment bezbednosti u sportu",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 382,
+        "sifra": "SE325",
+        "punoIme": "Upravljanje projektima razvoja softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 1,
+        "sifra": "IT390",
+        "punoIme": "Profesionalna praksa i etika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 102,
+        "sifra": "OM100",
+        "punoIme": "Uvod u operacioni menadžment",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 155,
+        "sifra": "IT331",
+        "punoIme": "Računarske mreže i komunikacije",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 89,
+        "sifra": "IT370",
+        "punoIme": "Interakcija čovek-računar",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 840,
+        "sifra": "IT375",
+        "punoIme": "Upravljanje objektima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 554,
+        "sifra": "CS520",
+        "punoIme": "Analiza naprednih sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 342,
+        "sifra": "CS430",
+        "punoIme": "Veštačka inteligencija u igrama",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 409,
+        "sifra": "IT120",
+        "punoIme": "Razvoj aplikacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 14,
+        "sifra": "CS367",
+        "punoIme": "Razvoj igara 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 197,
+        "sifra": "CS324",
+        "punoIme": "Skripting jezici",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 126,
+        "sifra": "OM323",
+        "punoIme": "Upravljanje projektima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 96,
+        "sifra": "IT490",
+        "punoIme": "Stručna praksa (četiri meseca)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 169,
+        "sifra": "MK110",
+        "punoIme": "Poslovna ekonomija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 86,
+        "sifra": "IT350",
+        "punoIme": "Baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 207,
+        "sifra": "AD360",
+        "punoIme": "Uvod u računarske igre",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 507,
+        "sifra": "IS595",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 510,
+        "sifra": "SE440",
+        "punoIme": "Razvoj velikih softverskih sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 145,
+        "sifra": "SE211",
+        "punoIme": "Konstruisanje softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 93,
+        "sifra": "NT310",
+        "punoIme": "Profesionalna komunikacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 341,
+        "sifra": "AD361",
+        "punoIme": "Izrada video igara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 154,
+        "sifra": "SE322",
+        "punoIme": "Inžinjering zahteva",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 385,
+        "sifra": "IS360",
+        "punoIme": "Revizija i kontrola IT sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 379,
+        "sifra": "CS102",
+        "punoIme": "Objekti i apstrakcija podataka",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 381,
+        "sifra": "IT335",
+        "punoIme": "Administracija računarskih sistema i mreža",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 378,
+        "sifra": "MA103",
+        "punoIme": "Matematika za IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 96,
+        "sifra": "IT490",
+        "punoIme": "Stručna praksa (četiri meseca)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 387,
+        "sifra": "IS250",
+        "punoIme": "Arhitektura IT sistema organizacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 94,
+        "sifra": "SE201",
+        "punoIme": "Uvod u softversko inženjerstvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 88,
+        "sifra": "NT213",
+        "punoIme": "Engleski za informatičare",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 391,
+        "sifra": "IT270",
+        "punoIme": "IT infrastruktura",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 289,
+        "sifra": "CS330",
+        "punoIme": "Razvoj mobilnih aplikacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 383,
+        "sifra": "IS310",
+        "punoIme": "Informacioni sistemi organizacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 446,
+        "sifra": "IT495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 146,
+        "sifra": "MK150",
+        "punoIme": "Osnove menadžmenta",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 493,
+        "sifra": "IS491",
+        "punoIme": "Stručna praksa (2 meseca)",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 208,
+        "sifra": "AD365",
+        "punoIme": "Projektovanje i mehanika igara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 382,
+        "sifra": "SE325",
+        "punoIme": "Upravljanje projektima razvoja softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 155,
+        "sifra": "IT331",
+        "punoIme": "Računarske mreže i komunikacije",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 76,
+        "sifra": "CS115",
+        "punoIme": "Diskretne strukture",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 512,
+        "sifra": "SE445",
+        "punoIme": "Agilne metode razvoja softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 474,
+        "sifra": "IS540",
+        "punoIme": "Napredne IT infrastrukture",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 816,
+        "sifra": "SE490",
+        "punoIme": "Stručna praksa (4 meseca)",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 152,
+        "sifra": "SE311",
+        "punoIme": "Projektovanje i arhitektura softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 852,
+        "sifra": "IS565",
+        "punoIme": "Napredne baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 86,
+        "sifra": "IT350",
+        "punoIme": "Baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 625,
+        "sifra": "IT255",
+        "punoIme": "Veb sistemi 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 89,
+        "sifra": "IT370",
+        "punoIme": "Interakcija čovek-računar",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 93,
+        "sifra": "NT310",
+        "punoIme": "Profesionalna komunikacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 303,
+        "sifra": "CS471",
+        "punoIme": "Bezbednost operativnih sistema",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 390,
+        "sifra": "IS205",
+        "punoIme": "Osnove informacionih sistema",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 289,
+        "sifra": "CS330",
+        "punoIme": "Razvoj mobilnih aplikacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 302,
+        "sifra": "CS470",
+        "punoIme": "Kriptografija i kripto tehnologija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 815,
+        "sifra": "IT355",
+        "punoIme": "Veb sistemi 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 35,
+        "sifra": "CS369",
+        "punoIme": "Softverska okruženja za razvoj računarskih igara",
+        "ekvivalent": 523,
+        "ects": 8
+    },
+    {
+        "id": 88,
+        "sifra": "NT213",
+        "punoIme": "Engleski za informatičare",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 484,
+        "sifra": "OM410",
+        "punoIme": "Upravljanje poslovnim procesima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 549,
+        "sifra": "SE455",
+        "punoIme": "Inteligentni softverski sistemi",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 516,
+        "sifra": "CS225",
+        "punoIme": "Operativni sistemi",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 88,
+        "sifra": "NT213",
+        "punoIme": "Engleski za informatičare",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 552,
+        "sifra": "SE691",
+        "punoIme": "Istraživački projekat 1",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 389,
+        "sifra": "CS220",
+        "punoIme": "Arhitektura računara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 18,
+        "sifra": "IT320",
+        "punoIme": "Savremene tehnološke platforme",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 350,
+        "sifra": "MA100",
+        "punoIme": "Matematika za menadžere",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 1,
+        "sifra": "IT390",
+        "punoIme": "Profesionalna praksa i etika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 80,
+        "sifra": "IT210",
+        "punoIme": "Sistemi IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 849,
+        "sifra": "IT376",
+        "punoIme": "Robotika",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 379,
+        "sifra": "CS102",
+        "punoIme": "Objekti i apstrakcija podataka",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 75,
+        "sifra": "IT101",
+        "punoIme": "Osnove informacionih tehnologija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 833,
+        "sifra": "SE693",
+        "punoIme": "Istraživački projekat 3",
+        "ekvivalent": 0,
+        "ects": 30
+    },
+    {
+        "id": 89,
+        "sifra": "IT370",
+        "punoIme": "Interakcija čovek-računar",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 76,
+        "sifra": "CS115",
+        "punoIme": "Diskretne strukture",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 625,
+        "sifra": "IT255",
+        "punoIme": "Veb sistemi 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 382,
+        "sifra": "SE325",
+        "punoIme": "Upravljanje projektima razvoja softvera",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 834,
+        "sifra": "SE695",
+        "punoIme": "Izrada i odbrana doktorske disertacije",
+        "ekvivalent": 0,
+        "ects": 60
+    },
+    {
+        "id": 388,
+        "sifra": "IS330",
+        "punoIme": "Strategija i upravljanje informacionim sistemima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 815,
+        "sifra": "IT355",
+        "punoIme": "Veb sistemi 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 386,
+        "sifra": "IS345",
+        "punoIme": "Upravljanje digitalnim sadržajima",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 818,
+        "sifra": "CS401",
+        "punoIme": "Timski razvoj računarske igre",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 378,
+        "sifra": "MA103",
+        "punoIme": "Matematika za IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 88,
+        "sifra": "NT213",
+        "punoIme": "Engleski za informatičare",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 377,
+        "sifra": "CS101",
+        "punoIme": "Uvod u u objektno-orijentisano programiranje",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 525,
+        "sifra": "CS365",
+        "punoIme": "Interakcija korisnika i testiranje igara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 625,
+        "sifra": "IT255",
+        "punoIme": "Veb sistemi 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 514,
+        "sifra": "IS335",
+        "punoIme": "Poslovna inteligencija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 89,
+        "sifra": "IT370",
+        "punoIme": "Interakcija čovek-računar",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 815,
+        "sifra": "IT355",
+        "punoIme": "Veb sistemi 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 484,
+        "sifra": "OM410",
+        "punoIme": "Upravljanje poslovnim procesima",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 389,
+        "sifra": "CS220",
+        "punoIme": "Arhitektura računara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 75,
+        "sifra": "IT101",
+        "punoIme": "Osnove informacionih tehnologija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 103,
+        "sifra": "OM110",
+        "punoIme": "Analiza i projektovanje poslovnih procesa",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 86,
+        "sifra": "IT350",
+        "punoIme": "Baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 392,
+        "sifra": "IS495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 26,
+        "sifra": "CS322",
+        "punoIme": "C# programski jezik",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 393,
+        "sifra": "IT381",
+        "punoIme": "Zaštita i bezbednost informacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 557,
+        "sifra": "SE630",
+        "punoIme": "Modeli softverskih sistema",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 819,
+        "sifra": "IS485",
+        "punoIme": "Projekat razvoja informacionog sistema ",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 1,
+        "sifra": "IT390",
+        "punoIme": "Profesionalna praksa i etika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 197,
+        "sifra": "CS324",
+        "punoIme": "Skripting jezici",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 377,
+        "sifra": "CS101",
+        "punoIme": "Uvod u u objektno-orijentisano programiranje",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 389,
+        "sifra": "CS220",
+        "punoIme": "Arhitektura računara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 559,
+        "sifra": "SE692",
+        "punoIme": "Istraživački projekat 2",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 519,
+        "sifra": "CS103",
+        "punoIme": "Algoritmi i stukture podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 522,
+        "sifra": "SE401",
+        "punoIme": "Timski razvoj softvera",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 820,
+        "sifra": "CS495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 464,
+        "sifra": "CS571",
+        "punoIme": "Računarska forenzika",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 832,
+        "sifra": "SE694",
+        "punoIme": "Samostalan istraživački rad na izradi doktorske disertacije",
+        "ekvivalent": 0,
+        "ects": 30
+    },
+    {
+        "id": 555,
+        "sifra": "CS595 ",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 12
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 77,
+        "sifra": "MA101",
+        "punoIme": "Matematika 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 815,
+        "sifra": "IT355",
+        "punoIme": "Veb sistemi 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 519,
+        "sifra": "CS103",
+        "punoIme": "Algoritmi i stukture podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 393,
+        "sifra": "IT381",
+        "punoIme": "Zaštita i bezbednost informacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 93,
+        "sifra": "NT310",
+        "punoIme": "Profesionalna komunikacija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 377,
+        "sifra": "CS101",
+        "punoIme": "Uvod u u objektno-orijentisano programiranje",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 379,
+        "sifra": "CS102",
+        "punoIme": "Objekti i apstrakcija podataka",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 850,
+        "sifra": "SE591",
+        "punoIme": "Stručna praksa",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 447,
+        "sifra": "SE495",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 389,
+        "sifra": "CS220",
+        "punoIme": "Arhitektura računara",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 393,
+        "sifra": "IT381",
+        "punoIme": "Zaštita i bezbednost informacija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 110,
+        "sifra": "MA202",
+        "punoIme": "Matematika 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 80,
+        "sifra": "IT210",
+        "punoIme": "Sistemi IT",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 27,
+        "sifra": "CS323",
+        "punoIme": "C/C++ programski jezik",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 516,
+        "sifra": "CS225",
+        "punoIme": "Operativni sistemi",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 384,
+        "sifra": "IT333",
+        "punoIme": "Bežične i mobilne komunikacije",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 94,
+        "sifra": "SE201",
+        "punoIme": "Uvod u softversko inženjerstvo",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 86,
+        "sifra": "IT350",
+        "punoIme": "Baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 523,
+        "sifra": "CS368",
+        "punoIme": "Razvoj igara 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 98,
+        "sifra": "OM340",
+        "punoIme": "Upravljanje održavanjem",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 27,
+        "sifra": "CS323",
+        "punoIme": "C/C++ programski jezik",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 558,
+        "sifra": "SE640",
+        "punoIme": "Arhitekture softverskih sistema",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 516,
+        "sifra": "CS225",
+        "punoIme": "Operativni sistemi",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 89,
+        "sifra": "IT370",
+        "punoIme": "Interakcija čovek-računar",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 304,
+        "sifra": "CS472",
+        "punoIme": "Bezbednost računarskih mreža",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 293,
+        "sifra": "IS535",
+        "punoIme": " Analiza, modelovanje i projektovanje IS",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 86,
+        "sifra": "IT350",
+        "punoIme": "Baze podataka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 88,
+        "sifra": "NT213",
+        "punoIme": "Engleski za informatičare",
+        "ekvivalent": 0,
+        "ects": 4
+    }
+]

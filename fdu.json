@@ -1,0 +1,863 @@
+[
+    {
+        "id": 49,
+        "sifra": "AD125",
+        "punoIme": "Tipografija 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 187,
+        "sifra": "AD250",
+        "punoIme": "Digitalna fotografija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 51,
+        "sifra": "AD201",
+        "punoIme": "Istorija moderne i savremene umetnosti",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 56,
+        "sifra": "NT215",
+        "punoIme": "Engleski za dizajnere",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 837,
+        "sifra": "AD434",
+        "punoIme": "Snimanje i dizajn zvuka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 186,
+        "sifra": "AD240",
+        "punoIme": "Vizuelni identitet",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 367,
+        "sifra": "AD535",
+        "punoIme": "Dizajniranje jedinstvenog korisničkog iskustva",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 178,
+        "sifra": "AD101",
+        "punoIme": "Crtanje 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 363,
+        "sifra": "AD415",
+        "punoIme": "Teorija vizuelne kulture",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 823,
+        "sifra": "AD130",
+        "punoIme": "Anatomsko crtanje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 134,
+        "sifra": "AD112",
+        "punoIme": "Istorija umetnosti novog veka",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 838,
+        "sifra": "AD497",
+        "punoIme": "Završni rad-modni dizajn",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 134,
+        "sifra": "AD112",
+        "punoIme": "Istorija umetnosti novog veka",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 136,
+        "sifra": "AD322",
+        "punoIme": "Dizajn publikacija 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 133,
+        "sifra": "AD111",
+        "punoIme": "Istorija umetnosti starog i srednjeg veka",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 351,
+        "sifra": "AD206",
+        "punoIme": "Likovna forma",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 352,
+        "sifra": "AD204",
+        "punoIme": "Crtanje i stilizacija oblika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 61,
+        "sifra": "AD262",
+        "punoIme": "Interaktivni mediji 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 427,
+        "sifra": "AD343",
+        "punoIme": "Modni dizajn 3",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 411,
+        "sifra": "AD695",
+        "punoIme": "Doktorska disertacija",
+        "ekvivalent": 0,
+        "ects": 90
+    },
+    {
+        "id": 240,
+        "sifra": "AD460",
+        "punoIme": "Uvod u teoriju medija ",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 862,
+        "sifra": "AD496",
+        "punoIme": "Završni rad",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 495,
+        "sifra": "IT645",
+        "punoIme": "Interakcija i vizuelizacija-mogucnosti savremenih IT",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 122,
+        "sifra": "AD115",
+        "punoIme": "Vizuelna kultura",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 411,
+        "sifra": "AD695",
+        "punoIme": "Doktorska disertacija",
+        "ekvivalent": 0,
+        "ects": 90
+    },
+    {
+        "id": 451,
+        "sifra": "AD156",
+        "punoIme": "Animirana grafika",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 180,
+        "sifra": "AD102",
+        "punoIme": "Crtanje 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 188,
+        "sifra": "AD385",
+        "punoIme": "Portfolio",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 422,
+        "sifra": "AD281",
+        "punoIme": "Dramaturgija zvuka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 357,
+        "sifra": "AD426",
+        "punoIme": "Interaktivne instalacije i vizuelne intervencije u prostoru",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 178,
+        "sifra": "AD101",
+        "punoIme": "Crtanje 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 51,
+        "sifra": "AD201",
+        "punoIme": "Istorija moderne i savremene umetnosti",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 216,
+        "sifra": "AD255",
+        "punoIme": "Digitalni video",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 122,
+        "sifra": "AD115",
+        "punoIme": "Vizuelna kultura",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 206,
+        "sifra": "AD355",
+        "punoIme": "3D modelovanje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 826,
+        "sifra": "AD235",
+        "punoIme": "Dizajn tekstila 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 179,
+        "sifra": "AD170",
+        "punoIme": "Digitalne komunikacije (Interaktivni dizajn)",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 823,
+        "sifra": "AD130",
+        "punoIme": "Anatomsko crtanje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 237,
+        "sifra": "AD595",
+        "punoIme": "Završni (Master) rad",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 257,
+        "sifra": "AD495",
+        "punoIme": "Završni rаd",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 78,
+        "sifra": "NT111",
+        "punoIme": "Engleski 1",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 55,
+        "sifra": "AD311",
+        "punoIme": "Grafički dizajn 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 133,
+        "sifra": "AD111",
+        "punoIme": "Istorija umetnosti starog i srednjeg veka",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 51,
+        "sifra": "AD201",
+        "punoIme": "Istorija moderne i savremene umetnosti",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 56,
+        "sifra": "NT215",
+        "punoIme": "Engleski za dizajnere",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 827,
+        "sifra": "AD234",
+        "punoIme": "Dizajn tekstila 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 496,
+        "sifra": "AD625",
+        "punoIme": "Istraživanje i razvoj u oblasti novih medija",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 454,
+        "sifra": "AD492",
+        "punoIme": "Stručna praksa za DIM",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 403,
+        "sifra": "AD241",
+        "punoIme": "Modni dizajn 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 192,
+        "sifra": "AD310",
+        "punoIme": "Dizajn pakovanja",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 352,
+        "sifra": "AD204",
+        "punoIme": "Crtanje i stilizacija oblika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 180,
+        "sifra": "AD102",
+        "punoIme": "Crtanje 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 59,
+        "sifra": "AD251",
+        "punoIme": "Veb dizajn 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 532,
+        "sifra": "AD491",
+        "punoIme": "Stručna praksa za GD",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 423,
+        "sifra": "AD245",
+        "punoIme": "Krojenje i šivenje",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 188,
+        "sifra": "AD385",
+        "punoIme": "Portfolio",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 54,
+        "sifra": "AD103",
+        "punoIme": "Crtanje i slikanje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 411,
+        "sifra": "AD695",
+        "punoIme": "Doktorska disertacija",
+        "ekvivalent": 0,
+        "ects": 90
+    },
+    {
+        "id": 361,
+        "sifra": "AD521",
+        "punoIme": "Programiranje vizuelnih umetnosti (Quartz Composer)",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 127,
+        "sifra": "AD260",
+        "punoIme": "Ilustracija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 64,
+        "sifra": "AD331",
+        "punoIme": "Animacija 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 255,
+        "sifra": "AD405",
+        "punoIme": "Modna ilustracija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 125,
+        "sifra": "AD110",
+        "punoIme": "Osnove grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 127,
+        "sifra": "AD260",
+        "punoIme": "Ilustracija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 83,
+        "sifra": "NT112",
+        "punoIme": "Engleski 2",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 180,
+        "sifra": "AD102",
+        "punoIme": "Crtanje 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 62,
+        "sifra": "AD352",
+        "punoIme": "Veb dizajn 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 494,
+        "sifra": "AD615",
+        "punoIme": "Umetnost i tehnologija",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 837,
+        "sifra": "AD434",
+        "punoIme": "Snimanje i dizajn zvuka",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 824,
+        "sifra": "AD427",
+        "punoIme": "Projektovanje i modelovanje odeće 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 129,
+        "sifra": "AD161",
+        "punoIme": "Procesi i tehnike grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 449,
+        "sifra": "AD108",
+        "punoIme": "Istorija dizajna",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 487,
+        "sifra": "AD374",
+        "punoIme": "Tehnologija video produkcije",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 59,
+        "sifra": "AD251",
+        "punoIme": "Veb dizajn 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 50,
+        "sifra": "AD120",
+        "punoIme": "Pismo",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 187,
+        "sifra": "AD250",
+        "punoIme": "Digitalna fotografija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 836,
+        "sifra": "AD372",
+        "punoIme": "Kompoziting u grafičkom dizajnu",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 498,
+        "sifra": "AD645",
+        "punoIme": "Savremeni veb koncepti",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 406,
+        "sifra": "AD630",
+        "punoIme": "Dizajn i savremena umetnost",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 404,
+        "sifra": "AD312",
+        "punoIme": "Dizajn pakovanja 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 203,
+        "sifra": "AD340",
+        "punoIme": "Digitalna ilustracija",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 822,
+        "sifra": "AD214",
+        "punoIme": "Kostimografija 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 187,
+        "sifra": "AD250",
+        "punoIme": "Digitalna fotografija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 825,
+        "sifra": "AD114",
+        "punoIme": "Kostimografija 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 453,
+        "sifra": "AD246",
+        "punoIme": "Krojenje i šivenje 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 351,
+        "sifra": "AD206",
+        "punoIme": "Likovna forma",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 205,
+        "sifra": "AD350",
+        "punoIme": "Dramaturgija",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 352,
+        "sifra": "AD204",
+        "punoIme": "Crtanje i stilizacija oblika",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 824,
+        "sifra": "AD427",
+        "punoIme": "Projektovanje i modelovanje odeće 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 132,
+        "sifra": "AD321",
+        "punoIme": "Dizajn publikacija 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 359,
+        "sifra": "AD441",
+        "punoIme": "Filmski i video kompoziting",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 179,
+        "sifra": "AD170",
+        "punoIme": "Digitalne komunikacije (Interaktivni dizajn)",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 129,
+        "sifra": "AD161",
+        "punoIme": "Procesi i tehnike grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 449,
+        "sifra": "AD108",
+        "punoIme": "Istorija dizajna",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 52,
+        "sifra": "AD211",
+        "punoIme": "Grafički dizajn 1",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 335,
+        "sifra": "AD132",
+        "punoIme": "Osnove savremenog odevanja 2",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 60,
+        "sifra": "AD261",
+        "punoIme": "Interaktivni mediji 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 428,
+        "sifra": "AD371",
+        "punoIme": "3D modni dizajn",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 373,
+        "sifra": "AD446",
+        "punoIme": "Kreativnost na mobilnim platformama",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 536,
+        "sifra": "AD327",
+        "punoIme": "Projektovanje i modelovanje odeće",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 425,
+        "sifra": "AD342",
+        "punoIme": "Modni dizajn 2",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 497,
+        "sifra": "AD635",
+        "punoIme": "Napredna animacija",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 125,
+        "sifra": "AD110",
+        "punoIme": "Osnove grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 188,
+        "sifra": "AD385",
+        "punoIme": "Portfolio",
+        "ekvivalent": 0,
+        "ects": 2
+    },
+    {
+        "id": 51,
+        "sifra": "AD201",
+        "punoIme": "Istorija moderne i savremene umetnosti",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 199,
+        "sifra": "AD270",
+        "punoIme": "Izrada računarske animacije",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 426,
+        "sifra": "AD351",
+        "punoIme": "Modne tehnike",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 209,
+        "sifra": "AD370",
+        "punoIme": "Vizuelni efekti",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 63,
+        "sifra": "AD165",
+        "punoIme": "Uvod u animaciju",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 333,
+        "sifra": "AD131",
+        "punoIme": "Osnove savremenog odevanja 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 823,
+        "sifra": "AD130",
+        "punoIme": "Anatomsko crtanje",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 499,
+        "sifra": "AD640",
+        "punoIme": "Seminar doktorskog rada",
+        "ekvivalent": 0,
+        "ects": 10
+    },
+    {
+        "id": 125,
+        "sifra": "AD110",
+        "punoIme": "Osnove grafičkog dizajna",
+        "ekvivalent": 0,
+        "ects": 8
+    },
+    {
+        "id": 633,
+        "sifra": "AD493",
+        "punoIme": "Stručnа prаksа za MD",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 533,
+        "sifra": "NT216",
+        "punoIme": "Engleski za modni dizajn",
+        "ekvivalent": 0,
+        "ects": 4
+    },
+    {
+        "id": 49,
+        "sifra": "AD125",
+        "punoIme": "Tipografija 1",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 449,
+        "sifra": "AD108",
+        "punoIme": "Istorija dizajna",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 135,
+        "sifra": "AD325",
+        "punoIme": "Korporativni identitet",
+        "ekvivalent": 0,
+        "ects": 6
+    },
+    {
+        "id": 627,
+        "sifra": "AD345",
+        "punoIme": "Modni dizajn 4",
+        "ekvivalent": 0,
+        "ects": 8
+    }
+]
