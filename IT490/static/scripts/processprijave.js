@@ -44,11 +44,13 @@
                     //$('#pr').hide();
                     $("button#prosledi").attr("disabled", true);
                     $('#tabelaPrograma').show();
+                    $("#tabelaOstalih").show();
                     $("#kontrolnaTabela").show();
                     $("#tabelaObaveznih").show();
 
                     calculatePriznati();
                     createKonacna();
+                    createOstalih();
 
                     //obelezavanje cekboksa
                     $('#target_table_id tbody input[type="checkbox"]').on('change', function ()
@@ -168,14 +170,15 @@
         if (parseInt($("#4").text()) > 0) {
             $.ajax({
                 data: {
-                    upisPrograma: $('#upisPrograma').val()
+                    'upisPrograma': $('#upisPrograma').val()
                 },
                 type: 'POST',
                 url: $SCRIPT_ROOT + '/_process_cetiri',
-                contentType: 'application/json',
+                //contentType: 'application/json',
                 dataType: 'json'
             }).done(function (data)
             {
+                console.log(data);
                 var trHTML = '';
                 $.each(data, function (key, value)
                 {
@@ -187,7 +190,7 @@
                        '</td><td>' + value.semestar +
                        '</td><td>' + value.priznatESPB +
                        '</td><td>' + value.espb +
-                       '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
+                       '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idostalih">Додати</input>' +
                        '</td></tr>';
                 });
                 //..i kreira tabela sa id=tabelaOstalih

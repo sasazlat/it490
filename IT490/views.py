@@ -3,6 +3,7 @@
 from IT490 import app
 from flask import render_template, jsonify, request, json
 from funkcije import randomPredmeti
+
 import sys
 import codecs
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
@@ -66,9 +67,7 @@ def process_table():
 
 @app.route("/_process_cetiri", methods = ["POST"])
 def process_cetiri():
-
-
-    upisPrograma = request.json['upisPrograma']
+    upisPrograma = request.form['upisPrograma']
     print upisPrograma
     predmeti = randomPredmeti(upisPrograma) #list of predmeti
     a = []
@@ -84,5 +83,5 @@ def process_cetiri():
         d['priznat'] = ''
         a.append(d)
 
-    if a: return jsonify(a)
-    else: return jsonify({'message':'error'})
+    return jsonify(a)
+    #else: return jsonify({'message':'error'})
