@@ -18,6 +18,7 @@
     <RootNamespace>IT490</RootNamespace>
     <InterpreterId>{72362d51-2f60-4d8e-bc3c-4999bf014232}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
+    <NameOfLastUsedPublishProfile>it490praksa - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -28,6 +29,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="it490praksa - Web Deploy.pubxml" />
     <Content Include="IT490\static\css\bootstrap-theme.css" />
     <Content Include="IT490\static\css\bootstrap-theme.css.map" />
     <Content Include="IT490\static\css\bootstrap-theme.min.css" />
