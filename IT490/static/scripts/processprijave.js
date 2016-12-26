@@ -83,6 +83,7 @@
         else {
             alert("Проверите да ли сте унели број ЕСП бодова или изабрали Програм УМ");
         }
+        createOstalih();
         e.preventDefault();
 
     });
@@ -163,7 +164,7 @@
     function createOstalih()
     {
         //uslov za kreiiranje tabeleOstalih
-        if ($("#4" > 0)) {
+        if (parseInt($("#4").text()) > 0) {
             $.ajax({
                 data: {
                     upisPrograma: $('#upisPrograma').val()

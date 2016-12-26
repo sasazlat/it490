@@ -30,6 +30,9 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="it490praksa - Web Deploy.pubxml" />
+    <Content Include="fdu.json" />
+    <Content Include="fit.json" />
+    <Content Include="fm.json" />
     <Content Include="IT490\static\css\bootstrap-theme.css" />
     <Content Include="IT490\static\css\bootstrap-theme.css.map" />
     <Content Include="IT490\static\css\bootstrap-theme.min.css" />

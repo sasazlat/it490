@@ -60,8 +60,7 @@ def process_table():
         d['priznat'] = ''
         a.append(d)
       
-    if a: return jsonify(a)
-    else: return jsonify({'message':'error'})
+    return jsonify(a)
 
 
 
