@@ -23,11 +23,29 @@ def getListaPredmetaFromJSONfile():
         results = json.load(isum)
         return results
 
+def getListaFaksJSON(faks):
+    if faks == 'fit':
+        with open('fit.json', 'r') as isum:
+            results = json.load(isum)
+            return results
+    elif faks == 'fdu':
+        with open('fdu.json', 'r') as isum:
+            results = json.load(isum)
+            return results
+    elif faks == 'fm':
+        with open('fm.json', 'r') as isum:
+            results = json.load(isum)
+            return results
+
+    else:
+        return json.loads({'greska':'Nema vez'})
+
 
 def randomPredmeti(faks):
     from random import randint
     #predmeti = getListaPredmetaFromJSONfile()
-    predmeti = getListaPredmeta(faks)
+    #predmeti = getListaPredmeta(faks)
+    predmeti = getListaFaksJSON(faks)
     lenfile = len(predmeti)
     index_predmeta = sorted([randint(1,lenfile-1) for p in range(1,11)])
     return [predmeti[ip] for ip in index_predmeta]

@@ -59,14 +59,29 @@ def process_table():
         d['dodatiESPB'] = ''
         d['priznat'] = ''
         a.append(d)
-
-
-    
       
-    if upisPrograma == 'fit':
-        return jsonify(a)
-    elif upisPrograma == 'fdu':
-        return jsonify(a)
-    elif upisPrograma == 'fm':
-        return jsonify(a)
-    return jsonify({'message':'error'})
+    if a: return jsonify(a)
+    else: return jsonify({'message':'error'})
+
+
+
+@app.route("/_process_cetiri", methods = ["POST"])
+def process_cetiri():
+    upisPrograma = request.json['upisPrograma']
+
+    predmeti = randomPredmeti(upisPrograma) #list of predmeti
+    a = []
+    for p in predmeti:
+        d = {}
+        d["id"]    = p['id']
+        d['sifra'] = p['sifra']
+        d['punoIme'] = p['punoIme']
+        d['espb'] = p['ects']
+        d['semestar'] = p['ekvivalent']
+        d['priznatESPB'] = ''
+        d['dodatiESPB'] = ''
+        d['priznat'] = ''
+        a.append(d)
+
+    if a: return jsonify(a)
+    else: return jsonify({'message':'error'})
