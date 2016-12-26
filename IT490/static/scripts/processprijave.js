@@ -51,8 +51,6 @@
                     calculatePriznati();
                     createKonacna();
                     createOstalih();
-
-                    //obelezavanje cekboksa
                     $('#target_table_id tbody input[type="checkbox"]').on('change', function ()
                     {
                         calculatePriznati();
@@ -78,8 +76,6 @@
                             return "ФМ";
                         }
                     });
-
-
                 });
         }
         else {
@@ -88,6 +84,9 @@
         e.preventDefault();
 
     });
+
+    //obelezavanje cekboksa
+
 
     //matematicki roracuni i ispunjavanje tabela
     function calculatePriznati()
@@ -110,8 +109,6 @@
                 $(this).closest('tr').find('td:eq(6)').text(parseInt($(this).val()));
                 var dodati = parseInt($(this).closest('tr').find('td:eq(6)').text());
                 totalDodati += dodati;
-
-
             }
             $("#sum5").text(totalPriznati);
             $("#sum6").text(totalDodati);
@@ -120,7 +117,6 @@
             $("#3").text($("#sum6").text());
             $("#4").text(parseInt($("#0").text()) + parseInt($("#1").text()) + parseInt($("#3").text()));
             $("#5").text(parseInt(240 - $("#4").text()));
-
         });
     }
 
@@ -169,20 +165,19 @@
         //uslov za kreiiranje tabeleOstalih
         if (parseInt($("#4").text()) > 0) {
             $.ajax({
-                data: {
+                d: {
                     'upisPrograma': $('#upisPrograma').val()
                 },
                 type: 'POST',
                 url: $SCRIPT_ROOT + '/_process_cetiri',
                 //contentType: 'application/json',
                 dataType: 'json'
-            }).done(function (data)
+            }).done(function (d)
             {
-                console.log(data);
-                var trHTML = '';
-                $.each(data, function (key, value)
+                var html = '';
+                $.each(d, function (key, value)
                 {
-                    trHTML +=
+                    html +=
                        '<tr><td>' + value.id +
                        '</td><td>' + value.sifra +
                        '</td><td>' + value.punoIme +
@@ -194,7 +189,7 @@
                        '</td></tr>';
                 });
                 //..i kreira tabela sa id=tabelaOstalih
-                $('#tabelaOstalih tbody').append(trHTML);
+                $('#tabelaOstalih tbody').append(html);
             });
         }
     }
