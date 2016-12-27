@@ -78,9 +78,8 @@ def process_cetiri():
         d['punoIme'] = p['punoIme']
         d['espb'] = p['ects']
         d['semestar'] = p['ekvivalent']
-        d['priznatESPB'] = ''
-        d['dodatiESPB'] = ''
-        d['priznat'] = ''
+        d['dodatESPB'] = ''
+        d['dodat'] = ''
         a.append(d)
 
     return jsonify(a)
