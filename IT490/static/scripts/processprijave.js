@@ -165,7 +165,7 @@
         //uslov za kreiiranje tabeleOstalih
         if (parseInt($("#4").text()) > 0) {
             $.ajax({
-                d: {
+                data: {
                     'upisPrograma': $('#upisPrograma').val()
                 },
                 type: 'POST',
