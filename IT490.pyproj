@@ -51,6 +51,7 @@
     <Content Include="IT490\static\scripts\bootstrap.js" />
     <Content Include="IT490\static\scripts\bootstrap.min.js" />
     <Content Include="IT490\static\scripts\jquery-1.12.4.js" />
+    <Content Include="IT490\static\scripts\processnovi.js" />
     <Content Include="IT490\static\scripts\processprijave.js" />
     <Content Include="IT490\templates\index.html" />
     <Content Include="IT490\templates\layout.html" />
