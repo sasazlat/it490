@@ -143,8 +143,8 @@ function calculatePriznati()
 function calculateOstalih()
 {
     var total1 = 0;
-    var total2 = 0;
-    total2 = parseInt($("#5").text());
+    var value5 = parseInt($("#5").text());
+    var total2 = value5;
     $("#vazniostali tbody input[type=checkbox]").each(function (i, val)
     {
         var checkbox_cell_is_checked = $(this).is(':checked');
@@ -152,35 +152,17 @@ function calculateOstalih()
         if (checkbox_cell_is_checked) {
             $(this).closest('tr').find('td:eq(5)').text(parseInt($(this).val()));
             total1 += parseInt($(this).val());
-            total2 = parseInt($("#5").text()) - total1;
-            $(this).parent().parent().addClass('selected').siblings().removeClass('selected');
+            total2 = value5 - total1;
+            $(this).parent().parent().addClass('selected');
         }
         else {
             $(this).closest('tr').find('td:eq(5)').text('');
+            $(this).parent().parent().removeClass('selected');
         }
-        $("#sd5").text(total2);
     });
+    $("#sd5").text(total2);
 }
 
-//iscitava tabelu obaveznih predmeta
-function storeTblValues()
-{
-    console.log("unutar storeTblValues");
-    var tableData = new Array();
-    $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
-    {
-        var tr = $(this).closest('tr');
-        tableData[row] = {
-            'id': $(tr).find('td:eq(0)').text()
-            , 'sifra': $(tr).find('td:eq(1)').text()
-            , 'punoIme': $(tr).find('td:eq(2)').text()
-            , 'espb': $(tr).find('td:eq(3)').text()
-            , 'semestar': $(tr).find('td:eq(4)').text()
-        }
-    });
-    console.log(tableData);
-    return tableData;
-}
 
 
 //kreira novu tabelu na osnovu
@@ -190,8 +172,8 @@ function createKonacna()
     console.log("Unutar createKonacna");
 
     var tableData = storeTblValues();
-    var trh = storeOstalihValues();
-    var newArray = tableData.concat(trh);
+    var sov = storeOstalihValues();
+    var newArray = tableData.concat(sov);
     console.log("Pozvana storeTblValues");
     var trHTML = '';
     $.each(newArray, function (key, value)
@@ -245,14 +227,36 @@ function createOstalih()
                 //..i kreira tabela sa id=tabelaOstalih
                 $('#vazniostali tbody').append(html);
                 console.log("Zavrsena done createostalih Ajax");
+            }).then(function ()
+            {
                 $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
                 {
                     console.log("Pozvana calculateOstalih");
                     calculateOstalih();
                 });
-
             });
     }
+}
+
+
+//iscitava tabelu obaveznih predmeta
+function storeTblValues()
+{
+    console.log("unutar storeTblValues");
+    var tableData = new Array();
+    $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
+    {
+        var tr = $(this).closest('tr');
+        tableData[row] = {
+            'id': $(tr).find('td:eq(0)').text()
+            , 'sifra': $(tr).find('td:eq(1)').text()
+            , 'punoIme': $(tr).find('td:eq(2)').text()
+            , 'espb': $(tr).find('td:eq(3)').text()
+            , 'semestar': $(tr).find('td:eq(4)').text()
+        }
+    });
+    console.log(tableData);
+    return tableData;
 }
 
 function storeOstalihValues()
