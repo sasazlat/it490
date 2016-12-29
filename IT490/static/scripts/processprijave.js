@@ -26,8 +26,6 @@
                 .then(function (data)
                 {
                     var trHTML = '';
-                    console.log("Pozvana done btnProsledi Ajax");
-
                     $.each(data, function (key, value)
                     {
                         trHTML +=
@@ -44,13 +42,10 @@
                     return trHTML;
 
                 })
-                .then(function (dta)
+                .then(function (trHTML)
                 {
                     //..i kreira tabela sa id=target_table_id
-                    $('#target_table_id tbody').append(dta);
-                    //$('#pr').hide();
-                    console.log("Zavrsena done btnProsledi Ajax");
-
+                    $('#target_table_id tbody').append(trHTML);
                     $("button#prosledi").attr("disabled", true);
                     $('#tabelaPrograma').show();
                     $("#tabelaOstalih").show();
@@ -72,13 +67,8 @@
                 })
                 .then(function ()
                 {
-                    calculatePriznati();
-                    createKonacna();
-                    console.log("Pozvana createOstalih");
+                    calculatePriznati();//ostaje tu
 
-                    createOstalih();
-                    console.log("Zavrsena createOstalih");
-                    calculateOstalih();
                 })
                 .then(function ()
                 {
@@ -198,7 +188,7 @@ function createOstalih()
 {
     //uslov za kreiiranje tabeleOstalih
     console.log("Unutar createOstalih");
-    if (parseInt($("#4").text()) > 0) {
+    if (parseInt($("#5").text()) > 0) {
         $.ajax({
             data: {
                 'upisPrograma': $('#upisPrograma').val()
@@ -246,13 +236,13 @@ function storeTblValues()
     var tableData = new Array();
     $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
     {
-        var tr = $(this).closest('tr');
+        var $tr = $(this).closest('tr');
         tableData[row] = {
-            'id': $(tr).find('td:eq(0)').text()
-            , 'sifra': $(tr).find('td:eq(1)').text()
-            , 'punoIme': $(tr).find('td:eq(2)').text()
-            , 'espb': $(tr).find('td:eq(3)').text()
-            , 'semestar': $(tr).find('td:eq(4)').text()
+            'id': $tr.find('td:eq(0)').text()
+            , 'sifra': $tr.find('td:eq(1)').text()
+            , 'punoIme': $tr.find('td:eq(2)').text()
+            , 'espb': $tr.find('td:eq(3)').text()
+            , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
     console.log(tableData);
@@ -266,15 +256,15 @@ function storeOstalihValues()
     $("#vazniostali tbody input[type=checkbox]").each(function (row, tr)
     {
         var checkbox_cell_is_checked = $(this).is(':checked');
-        var tr = $(this).closest('tr');
+        var $tr = $(this).closest('tr');
         if (checkbox_cell_is_checked) {
             console.log("unutar storeOstalihValues");
             tableData[row] = {
-                'id': $(tr).find('td:eq(0)').text()
-                , 'sifra': $(tr).find('td:eq(1)').text()
-                , 'punoIme': $(tr).find('td:eq(2)').text()
-                , 'espb': $(tr).find('td:eq(3)').text()
-                , 'semestar': $(tr).find('td:eq(4)').text()
+                'id': $tr.find('td:eq(0)').text()
+                , 'sifra': $tr.find('td:eq(1)').text()
+                , 'punoIme': $tr.find('td:eq(2)').text()
+                , 'espb': $tr.find('td:eq(3)').text()
+                , 'semestar': $tr.find('td:eq(4)').text()
             }
         }
     });
