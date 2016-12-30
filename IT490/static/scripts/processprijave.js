@@ -1,4 +1,6 @@
-﻿$(document).ready(function ()
+﻿var polje5 = 0;
+
+$(document).ready(function ()
 {
     //prikazuje div element 'pr'
     $('#pr').show();
@@ -8,40 +10,8 @@
         //provera polja upisprograma i steceniESPB koji su obavezni
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             //ako je u redu onda ajax do view funkcije _process_projava()
-            $.ajax({
-                data: {
-                    ime: $('#ime').val(),
-                    email: $('#email').val(),
-                    telefon: $('#telefon').val(),
-                    vsu: $('#vsu').val(),
-                    psp: $('#psp').val(),
-                    steceniESPB: $('#steceniESPB').val(),
-                    diploma: $('#diploma').val(),
-                    upisPrograma: $('#upisPrograma').val()
-                },
-                type: 'POST',
-                url: $SCRIPT_ROOT + '/_process_prijava',
-                dataType: 'json'
-            })//od servera se dobija..
-                .then(function (data)
-                {
-                    var trHTML = '';
-                    $.each(data, function (key, value)
-                    {
-                        trHTML +=
-                           '<tr><td>' + value.id +
-                           '</td><td>' + value.sifra +
-                           '</td><td>' + value.punoIme +
-                           '</td><td>' + value.espb +
-                           '</td><td>' + value.semestar +
-                           '</td><td>' + value.priznatESPB +
-                           '</td><td>' + value.espb +
-                           '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
-                           '</td></tr>';
-                    });
-                    return trHTML;
-
-                })
+            btnAjax()//od servera se dobija..
+                .then(btnSuccessAjaxResp)
                 .then(function (trHTML)
                 {
                     //..i kreira tabela sa id=target_table_id
@@ -64,34 +34,36 @@
                             return "ФМ";
                         }
                     });
-                })
-                .then(function ()
+                    calculatePriznati();
+                }).done(function ()
                 {
-                    calculatePriznati();//ostaje tu
-
-                })
-                .then(function ()
-                {
-                    $('#target_table_id tbody input[type="checkbox"]').on('change', function ()
-                    {
-                        console.log("Pozvana calculatePriznati");
-                        calculatePriznati();
-                        createKonacna();
-                        console.log("Pozvana createKonacna");
-                    });
-                })
-                .then(function ()
-                {
-                    calculateOstalih();
-                })
-                .then(function ()
-                { }).then(function ()
-                { }).then(function ()
-                { });
+                    createOstalih();
+                });
         }
         else {
             alert("Проверите да ли сте унели број ЕСП бодова или изабрали Програм УМ");
         }
+
+        $("#tabelaObaveznih").on("click", function ()
+        {
+            createKonacna();
+        });
+
+        $("#tabelaOstalih").on("click", function ()
+        {
+            calculateOstalih();
+        });
+
+        $("#tabelaPrograma").on("click", function ()
+        {
+            $("#target_table_id tbody input[type=checkbox]").on("change", function ()
+            {
+                calculatePriznati();
+            });
+        });
+
+
+
         e.preventDefault();
 
     });
@@ -125,8 +97,8 @@ function calculatePriznati()
         $("#3").text($("#sum6").text());
         $("#4").text(parseInt($("#0").text()) + parseInt($("#1").text()) + parseInt($("#3").text()));
         $("#5").text(parseInt(240 - $("#4").text()));
+
     });
-    console.log("unutar Zavrsena calculatePriznati()");
 }
 
 //matematicki proracun za dodatne ostale
@@ -153,20 +125,20 @@ function calculateOstalih()
     $("#sd5").text(total2);
 }
 
-
-
 //kreira novu tabelu na osnovu
 //tabele obaveznih
 function createKonacna()
 {
-    console.log("Unutar createKonacna");
-
     var tableData = storeTblValues();
+    console.log(tableData);
     var sov = storeOstalihValues();
-    var newArray = tableData.concat(sov);
-    console.log("Pozvana storeTblValues");
+    console.log(sov);
+    var arrayKonacni = tableData.concat(sov);
+    //arrayKonacni.unique();
+    var kon = $.uniqueSort(arrayKonacni);
+    console.log(kon);
     var trHTML = '';
-    $.each(newArray, function (key, value)
+    $.each(kon, function (key, value)
     {
         trHTML +=
           '<tr><td>' + value.id +
@@ -178,17 +150,13 @@ function createKonacna()
     });
     $("#obavezni tbody tr").remove();
     $('#obavezni tbody').append(trHTML);
-    console.log("Unutar createKonacna, obavezni tabela gotova");
-
-
 }
-
 
 function createOstalih()
 {
     //uslov za kreiiranje tabeleOstalih
     console.log("Unutar createOstalih");
-    if (parseInt($("#5").text()) > 0) {
+    //if (parseInt($("#5").text()) > 0) {
         $.ajax({
             data: {
                 'upisPrograma': $('#upisPrograma').val()
@@ -201,7 +169,6 @@ function createOstalih()
             .then(function (d)
             {
                 var html = '';
-                console.log("Pozvana done createOstalih Ajax");
                 $.each(d, function (key, value)
                 {
                     html +=
@@ -217,22 +184,27 @@ function createOstalih()
                 //..i kreira tabela sa id=tabelaOstalih
                 $('#vazniostali tbody').append(html);
                 console.log("Zavrsena done createostalih Ajax");
-            }).then(function ()
+            })
+            .then(function ()
             {
-                $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
+                $('#tabelaOstalih').on('click', function ()
                 {
                     console.log("Pozvana calculateOstalih");
                     calculateOstalih();
+                    $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
+                    {
+                        console.log("Pozvana calculateOstalih");
+                        calculateOstalih();
+                    });
                 });
             });
-    }
+    //}
 }
-
 
 //iscitava tabelu obaveznih predmeta
 function storeTblValues()
 {
-    console.log("unutar storeTblValues");
+    console.log("Pozvana storeTblValues");
     var tableData = new Array();
     $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
     {
@@ -245,7 +217,6 @@ function storeTblValues()
             , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
-    console.log(tableData);
     return tableData;
 }
 
@@ -268,6 +239,52 @@ function storeOstalihValues()
             }
         }
     });
-    console.log(tableData);
     return tableData;
 }
+
+function btnSuccessAjaxResp(data)
+{
+    var trHTML = '';
+    $.each(data, function (key, value)
+    {
+        trHTML +=
+           '<tr><td>' + value.id +
+           '</td><td>' + value.sifra +
+           '</td><td>' + value.punoIme +
+           '</td><td>' + value.espb +
+           '</td><td>' + value.semestar +
+           '</td><td>' + value.priznatESPB +
+           '</td><td>' + value.espb +
+           '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
+           '</td></tr>';
+    });
+    return trHTML;
+}
+
+function btnAjax()
+{
+    return $.ajax({
+        data: {
+            ime: $('#ime').val(),
+            email: $('#email').val(),
+            telefon: $('#telefon').val(),
+            vsu: $('#vsu').val(),
+            psp: $('#psp').val(),
+            steceniESPB: $('#steceniESPB').val(),
+            diploma: $('#diploma').val(),
+            upisPrograma: $('#upisPrograma').val()
+        },
+        type: 'POST',
+        url: $SCRIPT_ROOT + '/_process_prijava',
+        dataType: 'json'
+    });
+
+}
+
+Array.prototype.unique = function ()
+{
+    var o = {}, i, l = this.length, r = [];
+    for (i = 0; i < l; i += 1) o[this[i]] = this[i];
+    for (i in o) r.push(o[i]);
+    return r;
+};
