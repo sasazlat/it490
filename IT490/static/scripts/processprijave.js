@@ -1,6 +1,4 @@
-﻿var polje5 = 0;
-
-$(document).ready(function ()
+﻿$(document).ready(function ()
 {
     //prikazuje div element 'pr'
     $('#pr').show();
@@ -61,11 +59,7 @@ $(document).ready(function ()
                 calculatePriznati();
             });
         });
-
-
-
         e.preventDefault();
-
     });
 });
 //matematicki roracuni i ispunjavanje tabela
@@ -130,13 +124,10 @@ function calculateOstalih()
 function createKonacna()
 {
     var tableData = storeTblValues();
-    console.log(tableData);
     var sov = storeOstalihValues();
-    console.log(sov);
     var arrayKonacni = tableData.concat(sov);
     //arrayKonacni.unique();
     var kon = $.uniqueSort(arrayKonacni);
-    console.log(kon);
     var trHTML = '';
     $.each(kon, function (key, value)
     {
@@ -154,57 +145,49 @@ function createKonacna()
 
 function createOstalih()
 {
-    //uslov za kreiiranje tabeleOstalih
-    console.log("Unutar createOstalih");
-    //if (parseInt($("#5").text()) > 0) {
-        $.ajax({
-            data: {
-                'upisPrograma': $('#upisPrograma').val()
-            },
-            type: 'POST',
-            url: $SCRIPT_ROOT + '/_process_cetiri',
-            //contentType: 'application/json',
-            dataType: 'json'
+    $.ajax({
+        data: {
+            'upisPrograma': $('#upisPrograma').val()
+        },
+        type: 'POST',
+        url: $SCRIPT_ROOT + '/_process_cetiri',
+        //contentType: 'application/json',
+        dataType: 'json'
+    })
+        .then(function (d)
+        {
+            var html = '';
+            $.each(d, function (key, value)
+            {
+                html +=
+                   '<tr><td>' + value.id +
+                   '</td><td>' + value.sifra +
+                   '</td><td>' + value.punoIme +
+                   '</td><td>' + value.espb +
+                   '</td><td>' + value.semestar +
+                   '</td><td>' + value.dodatESPB +
+                   '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idostalih">Додати</input>' +
+                   '</td></tr>';
+            });
+            //..i kreira tabela sa id=tabelaOstalih
+            $('#vazniostali tbody').append(html);
         })
-            .then(function (d)
+        .then(function ()
+        {
+            $('#tabelaOstalih').on('click', function ()
             {
-                var html = '';
-                $.each(d, function (key, value)
+                calculateOstalih();
+                $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
                 {
-                    html +=
-                       '<tr><td>' + value.id +
-                       '</td><td>' + value.sifra +
-                       '</td><td>' + value.punoIme +
-                       '</td><td>' + value.espb +
-                       '</td><td>' + value.semestar +
-                       '</td><td>' + value.dodatESPB +
-                       '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idostalih">Додати</input>' +
-                       '</td></tr>';
-                });
-                //..i kreira tabela sa id=tabelaOstalih
-                $('#vazniostali tbody').append(html);
-                console.log("Zavrsena done createostalih Ajax");
-            })
-            .then(function ()
-            {
-                $('#tabelaOstalih').on('click', function ()
-                {
-                    console.log("Pozvana calculateOstalih");
                     calculateOstalih();
-                    $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
-                    {
-                        console.log("Pozvana calculateOstalih");
-                        calculateOstalih();
-                    });
                 });
             });
-    //}
+        });
 }
 
 //iscitava tabelu obaveznih predmeta
 function storeTblValues()
 {
-    console.log("Pozvana storeTblValues");
     var tableData = new Array();
     $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
     {
@@ -222,14 +205,12 @@ function storeTblValues()
 
 function storeOstalihValues()
 {
-    console.log("Pozvana storeOstalihValues");
     var tableData = new Array();
     $("#vazniostali tbody input[type=checkbox]").each(function (row, tr)
     {
         var checkbox_cell_is_checked = $(this).is(':checked');
         var $tr = $(this).closest('tr');
         if (checkbox_cell_is_checked) {
-            console.log("unutar storeOstalihValues");
             tableData[row] = {
                 'id': $tr.find('td:eq(0)').text()
                 , 'sifra': $tr.find('td:eq(1)').text()
@@ -280,11 +261,3 @@ function btnAjax()
     });
 
 }
-
-Array.prototype.unique = function ()
-{
-    var o = {}, i, l = this.length, r = [];
-    for (i = 0; i < l; i += 1) o[this[i]] = this[i];
-    for (i in o) r.push(o[i]);
-    return r;
-};
