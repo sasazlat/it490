@@ -1,0 +1,29 @@
+﻿{% extends 'layout.html' %}
+
+
+{% block title %}
+{{super()}}
+    Error page
+{% endblock title %}
+
+{% block head %}
+{{super()}}
+{% endblock head %}
+
+{% block content %}
+{{super()}}
+
+<div class="container">
+  <div class="row">
+    <div class="span12">
+        <div class="hero-unit center">
+          <h1>Page Not Found <small><font face="Tahoma" color="red">Error 404</font></small></h1>
+          <br />
+          <p>Страница коју тражите не може бити нађена <b>Назад</b> до претходне странице</p>
+          <a href="{{ url_for('index') }}" class="btn btn-large btn-info"><i class="icon-home icon-white"></i> Почетна</a>
+        </div>
+    </div>
+  </div>
+</div>
+
+{% endblock content %}
