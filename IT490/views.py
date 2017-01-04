@@ -27,10 +27,6 @@ def index():
         espb = request.form['program'] 
         semestar = request.form['diploma']
 
-@app.errorhandler(404)
-def page_not_found(e):
-    return render_template('error.html'), 404
-
 
 @app.route('/_process_prijava', methods = ['POST'])
 def process_table():
@@ -66,8 +62,7 @@ def process_table():
             d['priznat'] = ''
             a.append(d)      
         return jsonify(a)
-    else:
-        return jsonify({"message":"error"})
+
 
 
 @app.route("/_process_cetiri", methods = ["POST"])
@@ -88,4 +83,4 @@ def process_cetiri():
         a.append(d)
 
     return jsonify(a)
-    #else: return jsonify({'message':'error'})
+  

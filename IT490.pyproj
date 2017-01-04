@@ -33,14 +33,8 @@
     <Content Include="fdu.json" />
     <Content Include="fit.json" />
     <Content Include="fm.json" />
-    <Content Include="IT490\static\css\bootstrap-theme.css" />
-    <Content Include="IT490\static\css\bootstrap-theme.css.map" />
-    <Content Include="IT490\static\css\bootstrap-theme.min.css" />
-    <Content Include="IT490\static\css\bootstrap-theme.min.css.map" />
     <Content Include="IT490\static\css\bootstrap.css" />
-    <Content Include="IT490\static\css\bootstrap.css.map" />
     <Content Include="IT490\static\css\bootstrap.min.css" />
-    <Content Include="IT490\static\css\bootstrap.min.css.map" />
     <Content Include="IT490\static\css\processprijave.css" />
     <Content Include="IT490\static\css\tabpanels.css" />
     <Content Include="IT490\static\fonts\glyphicons-halflings-regular.eot" />
@@ -51,12 +45,9 @@
     <Content Include="IT490\static\scripts\bootstrap.js" />
     <Content Include="IT490\static\scripts\bootstrap.min.js" />
     <Content Include="IT490\static\scripts\jquery-3.1.1.js" />
-    <Content Include="IT490\static\scripts\processnovi.js" />
     <Content Include="IT490\static\scripts\processprijave.js" />
-    <Content Include="IT490\templates\error.html" />
     <Content Include="IT490\templates\index.html" />
     <Content Include="IT490\templates\layout.html" />
-    <Content Include="MOCK_DATA.json" />
     <Content Include="Procfile" />
     <Content Include="requirements.txt" />
   </ItemGroup>

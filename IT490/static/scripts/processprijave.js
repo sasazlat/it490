@@ -68,7 +68,6 @@
                     createKonacna();
                     break;
                 default:
-                    console.log('Default');
             }
         });
         e.preventDefault();
@@ -105,7 +104,6 @@ function calculatePriznati()
         $("#5").text(parseInt(240 - $("#4").text()));
 
     });
-    console.log("zavrsena calculatePriznatih");
 }
 
 //matematicki proracun za dodatne ostale
@@ -139,7 +137,6 @@ function createKonacna()
 {
     var tableData = storeTblValues();
     var sov = storeOstalihValues();
-    console.log(sov.length);
     var arrayKonacni = tableData.concat(sov);
     var kon = $.uniqueSort(arrayKonacni);
     var trHTML = '';
@@ -185,7 +182,6 @@ function createOstalih()
             });
             //..i kreira tabela sa id=tabelaOstalih
             $('#vazniostali tbody').append(html);
-            console.log("zavrsena vazniostali");
         })
         .done(function ()
         {
@@ -209,7 +205,6 @@ function storeTblValues()
             , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
-    console.log("TableData unutar funkcije " + tableData);
     return tableData;
 }
 
@@ -228,8 +223,6 @@ function storeOstalihValues()
             , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
-
-    console.log(tableData.length);
     return tableData;
 }
 
@@ -274,12 +267,3 @@ function btnAjax()
     });
 
 }
-
-// Array Remove - By John Resig (MIT Licensed)
-Array.prototype.remove = function (from, to)
-{
-    var rest = this.slice((to || from) + 1 || this.length);
-    this.length = from < 0 ? this.length + from : from;
-    return this.push.apply(this, rest);
-};
-
