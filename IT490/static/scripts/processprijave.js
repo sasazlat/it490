@@ -8,6 +8,7 @@
         //provera polja upisprograma i steceniESPB koji su obavezni
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             //ako je u redu onda ajax do view funkcije _process_projava()
+            $("#greska").hide();
             btnAjax()//od servera se dobija..
                 .then(btnSuccessAjaxResp)
                 .then(function (trHTML)
@@ -16,6 +17,7 @@
                     $('#target_table_id tbody').append(trHTML);
                     $("button#prosledi").attr("disabled", true);
                     $('#tabelaPrograma').show();
+                    //$('.nav-tabs a[href="#tp"]').tab('show');
                     $("#tabelaOstalih").show();
                     $("#kontrolnaTabela").show();
                     $("#tabelaObaveznih").show();
@@ -33,31 +35,41 @@
                         }
                     });
                     calculatePriznati();
-                }).done(function ()
+                })
+                .done(function ()
                 {
                     createOstalih();
                 });
         }
         else {
-            alert("Проверите да ли сте унели број ЕСП бодова или изабрали Програм УМ");
+            $("#greska").show();
         }
 
-        $("#tabelaObaveznih").on("click", function ()
+        $("ul.nav-tabs li").on('click', function ()
         {
-            createKonacna();
-        });
-
-        $("#tabelaOstalih").on("click", function ()
-        {
-            calculateOstalih();
-        });
-
-        $("#tabelaPrograma").on("click", function ()
-        {
-            $("#target_table_id tbody input[type=checkbox]").on("change", function ()
-            {
-                calculatePriznati();
-            });
+            var idx = $(this).index();
+            switch (idx) {
+                case 1:
+                    $("#target_table_id tbody input[type=checkbox]").on("change", function ()
+                    {
+                        calculatePriznati();
+                    });
+                    break;
+                case 2:
+                    calculateOstalih();
+                    $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
+                    {
+                        calculateOstalih();
+                    });
+                    break;
+                case 3:
+                    break;
+                case 4:
+                    createKonacna();
+                    break;
+                default:
+                    console.log('Default');
+            }
         });
         e.preventDefault();
     });
@@ -93,6 +105,7 @@ function calculatePriznati()
         $("#5").text(parseInt(240 - $("#4").text()));
 
     });
+    console.log("zavrsena calculatePriznatih");
 }
 
 //matematicki proracun za dodatne ostale
@@ -117,6 +130,7 @@ function calculateOstalih()
         }
     });
     $("#sd5").text(total2);
+
 }
 
 //kreira novu tabelu na osnovu
@@ -125,8 +139,8 @@ function createKonacna()
 {
     var tableData = storeTblValues();
     var sov = storeOstalihValues();
+    console.log(sov.length);
     var arrayKonacni = tableData.concat(sov);
-    //arrayKonacni.unique();
     var kon = $.uniqueSort(arrayKonacni);
     var trHTML = '';
     $.each(kon, function (key, value)
@@ -166,22 +180,17 @@ function createOstalih()
                    '</td><td>' + value.espb +
                    '</td><td>' + value.semestar +
                    '</td><td>' + value.dodatESPB +
-                   '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idostalih">Додати</input>' +
+                   '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="ostalih">Додати</input></label>' +
                    '</td></tr>';
             });
             //..i kreira tabela sa id=tabelaOstalih
             $('#vazniostali tbody').append(html);
+            console.log("zavrsena vazniostali");
         })
-        .then(function ()
+        .done(function ()
         {
-            $('#tabelaOstalih').on('click', function ()
-            {
-                calculateOstalih();
-                $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
-                {
-                    calculateOstalih();
-                });
-            });
+            calculateOstalih();
+
         });
 }
 
@@ -200,29 +209,32 @@ function storeTblValues()
             , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
+    console.log("TableData unutar funkcije " + tableData);
     return tableData;
 }
 
+//iscitava tabelu ostalih vaznih predmeta
 function storeOstalihValues()
 {
     var tableData = new Array();
-    $("#vazniostali tbody input[type=checkbox]").each(function (row, tr)
+    $('#vazniostali input:checkbox:checked').each(function (row, tr)
     {
-        var checkbox_cell_is_checked = $(this).is(':checked');
         var $tr = $(this).closest('tr');
-        if (checkbox_cell_is_checked) {
-            tableData[row] = {
-                'id': $tr.find('td:eq(0)').text()
-                , 'sifra': $tr.find('td:eq(1)').text()
-                , 'punoIme': $tr.find('td:eq(2)').text()
-                , 'espb': $tr.find('td:eq(3)').text()
-                , 'semestar': $tr.find('td:eq(4)').text()
-            }
+        tableData[row] = {
+            'id': $tr.find('td:eq(0)').text()
+            , 'sifra': $tr.find('td:eq(1)').text()
+            , 'punoIme': $tr.find('td:eq(2)').text()
+            , 'espb': $tr.find('td:eq(3)').text()
+            , 'semestar': $tr.find('td:eq(4)').text()
         }
     });
+
+    console.log(tableData.length);
     return tableData;
 }
 
+//povratni poaci sa servera - tabela osnovnih
+//predmeta studijske grupe
 function btnSuccessAjaxResp(data)
 {
     var trHTML = '';
@@ -236,12 +248,13 @@ function btnSuccessAjaxResp(data)
            '</td><td>' + value.semestar +
            '</td><td>' + value.priznatESPB +
            '</td><td>' + value.espb +
-           '</td><td><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch"> Признат</input>' +
+           '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch">Признат</input></label>' +
            '</td></tr>';
     });
     return trHTML;
 }
 
+//ajax ka serveru
 function btnAjax()
 {
     return $.ajax({
@@ -261,3 +274,12 @@ function btnAjax()
     });
 
 }
+
+// Array Remove - By John Resig (MIT Licensed)
+Array.prototype.remove = function (from, to)
+{
+    var rest = this.slice((to || from) + 1 || this.length);
+    this.length = from < 0 ? this.length + from : from;
+    return this.push.apply(this, rest);
+};
+

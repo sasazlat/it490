@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from IT490 import app
-from flask import render_template, jsonify, request, json
+from flask import render_template, jsonify, request, json, url_for
 from funkcije import randomPredmeti
 
 import sys
@@ -27,6 +27,10 @@ def index():
         espb = request.form['program'] 
         semestar = request.form['diploma']
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('error.html'), 404
+
 
 @app.route('/_process_prijava', methods = ['POST'])
 def process_table():
@@ -49,20 +53,21 @@ def process_table():
     #json dobijen rest-om
     predmeti = randomPredmeti(upisPrograma) #list of predmeti
     a = []
-    for p in predmeti:
-        d = {}
-        d["id"]    = p['id']
-        d['sifra'] = p['sifra']
-        d['punoIme'] = p['punoIme']
-        d['espb'] = p['ects']
-        d['semestar'] = p['ekvivalent']
-        d['priznatESPB'] = ''
-        d['dodatiESPB'] = ''
-        d['priznat'] = ''
-        a.append(d)
-      
-    return jsonify(a)
-
+    if predmeti:
+        for p in predmeti:
+            d = {}
+            d["id"]    = p['id']
+            d['sifra'] = p['sifra']
+            d['punoIme'] = p['punoIme']
+            d['espb'] = p['ects']
+            d['semestar'] = p['ekvivalent']
+            d['priznatESPB'] = ''
+            d['dodatiESPB'] = ''
+            d['priznat'] = ''
+            a.append(d)      
+        return jsonify(a)
+    else:
+        return jsonify({"message":"error"})
 
 
 @app.route("/_process_cetiri", methods = ["POST"])
