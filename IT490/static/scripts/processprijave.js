@@ -102,7 +102,6 @@ function calculatePriznati()
         $("#3").text($("#sum6").text());
         $("#4").text(parseInt($("#0").text()) + parseInt($("#1").text()) + parseInt($("#3").text()));
         $("#5").text(parseInt(240 - $("#4").text()));
-
     });
 }
 
