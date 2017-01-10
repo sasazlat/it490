@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from IT490 import app
 from flask import render_template, jsonify, request, json, url_for
-from funkcije import randomPredmeti
+from funkcije import randomPredmeti, getListaPredmeta
 
 import sys
 import codecs
@@ -47,6 +47,7 @@ def process_table():
 
     #ovde ce umesto randomPredmeti() biti 
     #json dobijen rest-om
+    #predmeti = getListaPredmeta(upisPrograma)
     predmeti = randomPredmeti(upisPrograma) #list of predmeti
     a = []
     if predmeti:
