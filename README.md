@@ -1,3 +1,3 @@
 # it490
 
-APP deployed to https://it490.herokuapp.com/
+APP deployed to https://sasazlat-it490.herokuapp.com/
