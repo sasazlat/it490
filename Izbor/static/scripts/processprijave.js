@@ -1,18 +1,15 @@
-﻿$(document).ready(function ()
-{
+﻿$(document).ready(function () {
     //prikazuje div element 'pr'
     $('#pr').show();
     //posle klika prosledi sledi
-    $("button#prosledi").on('click', function (e)
-    {
+    $("button#prosledi").on('click', function (e) {
         //provera polja upisprograma i steceniESPB koji su obavezni
         if ($('#upisPrograma').val() != 'none' && $.isNumeric($("#steceniESPB").val())) {
             //ako je u redu onda ajax do view funkcije _process_projava()
             $("#greska").hide();
             btnAjax()//od servera se dobija..
                 .then(btnSuccessAjaxResp)
-                .then(function (trHTML)
-                {
+                .then(function (trHTML) {
                     //..i kreira tabela sa id=target_table_id
                     $('#target_table_id tbody').append(trHTML);
                     $("button#prosledi").attr("disabled", true);
@@ -21,8 +18,7 @@
                     $("#tabelaOstalih").show();
                     $("#kontrolnaTabela").show();
                     $("#tabelaObaveznih").show();
-                    $(".fakultet").text(function ()
-                    {
+                    $(".fakultet").text(function () {
                         var valUpisa = $('#upisPrograma').val();
                         if (valUpisa == 'fit') {
                             return "ФИТ";
@@ -36,8 +32,7 @@
                     });
                     calculatePriznati();
                 })
-                .done(function ()
-                {
+                .done(function () {
                     createOstalih();
                 });
         }
@@ -45,20 +40,17 @@
             $("#greska").show();
         }
 
-        $("ul.nav-tabs li").on('click', function ()
-        {
+        $("ul.nav-tabs li").on('click', function () {
             var idx = $(this).index();
             switch (idx) {
                 case 1:
-                    $("#target_table_id tbody input[type=checkbox]").on("change", function ()
-                    {
+                    $("#target_table_id tbody input[type=checkbox]").on("change", function () {
                         calculatePriznati();
                     });
                     break;
                 case 2:
                     calculateOstalih();
-                    $('table#vazniostali tbody input[type="checkbox"]').on('change', function ()
-                    {
+                    $('table#vazniostali tbody input[type="checkbox"]').on('change', function () {
                         calculateOstalih();
                     });
                     break;
@@ -74,13 +66,11 @@
     });
 });
 //matematicki roracuni i ispunjavanje tabela
-function calculatePriznati()
-{
+function calculatePriznati() {
     var totalPriznati = 0;
     var totalDodati = 0;
     var steceniESPB = parseInt($('#steceniESPB').val());
-    $("#target_table_id tbody input[type=checkbox]").each(function (i, val)
-    {
+    $("#target_table_id tbody input[type=checkbox]").each(function (i, val) {
         var checkbox_cell_is_checked = $(this).is(':checked');
         // Is it checked?
         if (checkbox_cell_is_checked) {
@@ -97,7 +87,7 @@ function calculatePriznati()
         }
         $("#sum5").text(totalPriznati);
         $("#sum6").text(totalDodati);
-        $("#0").text(steceniESPB - parseInt($("#sum5").text()));
+        $("#0").text(steceniESPB - parseInt($("#sum6").text()) + parseInt($("#sum5").text()));
         $("#1").text($("#sum5").text());
         $("#3").text($("#sum6").text());
         $("#4").text(parseInt($("#0").text()) + parseInt($("#1").text()) + parseInt($("#3").text()));
@@ -106,13 +96,11 @@ function calculatePriznati()
 }
 
 //matematicki proracun za dodatne ostale
-function calculateOstalih()
-{
+function calculateOstalih() {
     var total1 = 0;
     var value5 = parseInt($("#5").text());
     var total2 = value5;
-    $("#vazniostali tbody input[type=checkbox]").each(function (i, val)
-    {
+    $("#vazniostali tbody input[type=checkbox]").each(function (i, val) {
         var checkbox_cell_is_checked = $(this).is(':checked');
         // Is it checked?
         if (checkbox_cell_is_checked) {
@@ -132,29 +120,26 @@ function calculateOstalih()
 
 //kreira novu tabelu na osnovu
 //tabele obaveznih
-function createKonacna()
-{
+function createKonacna() {
     var tableData = storeTblValues();
     var sov = storeOstalihValues();
     var arrayKonacni = tableData.concat(sov);
     var kon = $.uniqueSort(arrayKonacni);
     var trHTML = '';
-    $.each(kon, function (key, value)
-    {
+    $.each(kon, function (key, value) {
         trHTML +=
-          '<tr><td>' + value.id +
-          '</td><td>' + value.sifra +
-          '</td><td>' + value.punoIme +
-          '</td><td>' + value.espb +
-          '</td><td>' + value.semestar +
-          '</td></tr>';
+            '<tr><td>' + value.id +
+            '</td><td>' + value.sifra +
+            '</td><td>' + value.punoIme +
+            '</td><td>' + value.espb +
+            '</td><td>' + value.semestar +
+            '</td></tr>';
     });
     $("#obavezni tbody tr").remove();
     $('#obavezni tbody').append(trHTML);
 }
 
-function createOstalih()
-{
+function createOstalih() {
     $.ajax({
         data: {
             'upisPrograma': $('#upisPrograma').val()
@@ -164,37 +149,32 @@ function createOstalih()
         //contentType: 'application/json',
         dataType: 'json'
     })
-        .then(function (d)
-        {
+        .then(function (d) {
             var html = '';
-            $.each(d, function (key, value)
-            {
+            $.each(d, function (key, value) {
                 html +=
-                   '<tr><td>' + value.id +
-                   '</td><td>' + value.sifra +
-                   '</td><td>' + value.punoIme +
-                   '</td><td>' + value.espb +
-                   '</td><td>' + value.semestar +
-                   '</td><td>' + value.dodatESPB +
-                   '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="ostalih">Додати</input></label>' +
-                   '</td></tr>';
+                    '<tr><td>' + value.id +
+                    '</td><td>' + value.sifra +
+                    '</td><td>' + value.punoIme +
+                    '</td><td>' + value.espb +
+                    '</td><td>' + value.semestar +
+                    '</td><td>' + value.dodatESPB +
+                    '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="ostalih">Додати</input></label>' +
+                    '</td></tr>';
             });
             //..i kreira tabela sa id=tabelaOstalih
             $('#vazniostali tbody').append(html);
         })
-        .done(function ()
-        {
+        .done(function () {
             calculateOstalih();
 
         });
 }
 
 //iscitava tabelu obaveznih predmeta
-function storeTblValues()
-{
+function storeTblValues() {
     var tableData = new Array();
-    $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr)
-    {
+    $('#target_table_id input:checkbox:not(:checked)').each(function (row, tr) {
         var $tr = $(this).closest('tr');
         tableData[row] = {
             'id': $tr.find('td:eq(0)').text()
@@ -208,11 +188,9 @@ function storeTblValues()
 }
 
 //iscitava tabelu ostalih vaznih predmeta
-function storeOstalihValues()
-{
+function storeOstalihValues() {
     var tableData = new Array();
-    $('#vazniostali input:checkbox:checked').each(function (row, tr)
-    {
+    $('#vazniostali input:checkbox:checked').each(function (row, tr) {
         var $tr = $(this).closest('tr');
         tableData[row] = {
             'id': $tr.find('td:eq(0)').text()
@@ -227,28 +205,25 @@ function storeOstalihValues()
 
 //povratni poaci sa servera - tabela osnovnih
 //predmeta studijske grupe
-function btnSuccessAjaxResp(data)
-{
+function btnSuccessAjaxResp(data) {
     var trHTML = '';
-    $.each(data, function (key, value)
-    {
+    $.each(data, function (key, value) {
         trHTML +=
-           '<tr><td>' + value.id +
-           '</td><td>' + value.sifra +
-           '</td><td>' + value.punoIme +
-           '</td><td>' + value.espb +
-           '</td><td>' + value.semestar +
-           '</td><td>' + value.priznatESPB +
-           '</td><td>' + value.espb +
-           '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch">Признат</input></label>' +
-           '</td></tr>';
+            '<tr><td>' + value.id +
+            '</td><td>' + value.sifra +
+            '</td><td>' + value.punoIme +
+            '</td><td>' + value.espb +
+            '</td><td>' + value.semestar +
+            '</td><td>' + value.priznatESPB +
+            '</td><td>' + value.espb +
+            '</td><td><label><input ' + 'value= ' + value.espb + ' type="checkbox" id="idch">Признат</input></label>' +
+            '</td></tr>';
     });
     return trHTML;
 }
 
 //ajax ka serveru
-function btnAjax()
-{
+function btnAjax() {
     return $.ajax({
         data: {
             ime: $('#ime').val(),

@@ -1,0 +1,562 @@
+[
+    {
+     "sifra": "sifra 1",
+     "punoIme": "punoIme 1",
+     "ekvivalent": 21,
+     "ects": 98,
+     "id": "1"
+    },
+    {
+     "sifra": "sifra 2",
+     "punoIme": "punoIme 2",
+     "ekvivalent": 55,
+     "ects": 12,
+     "id": "2"
+    },
+    {
+     "sifra": "sifra 3",
+     "punoIme": "punoIme 3",
+     "ekvivalent": 86,
+     "ects": 12,
+     "id": "3"
+    },
+    {
+     "sifra": "sifra 4",
+     "punoIme": "punoIme 4",
+     "ekvivalent": 12,
+     "ects": 20,
+     "id": "4"
+    },
+    {
+     "sifra": "sifra 5",
+     "punoIme": "punoIme 5",
+     "ekvivalent": 5,
+     "ects": 34,
+     "id": "5"
+    },
+    {
+     "sifra": "sifra 6",
+     "punoIme": "punoIme 6",
+     "ekvivalent": 26,
+     "ects": 79,
+     "id": "6"
+    },
+    {
+     "sifra": "sifra 7",
+     "punoIme": "punoIme 7",
+     "ekvivalent": 20,
+     "ects": 98,
+     "id": "7"
+    },
+    {
+     "sifra": "sifra 8",
+     "punoIme": "punoIme 8",
+     "ekvivalent": 47,
+     "ects": 94,
+     "id": "8"
+    },
+    {
+     "sifra": "sifra 9",
+     "punoIme": "punoIme 9",
+     "ekvivalent": 10,
+     "ects": 59,
+     "id": "9"
+    },
+    {
+     "sifra": "sifra 10",
+     "punoIme": "punoIme 10",
+     "ekvivalent": 89,
+     "ects": 27,
+     "id": "10"
+    },
+    {
+     "sifra": "sifra 11",
+     "punoIme": "punoIme 11",
+     "ekvivalent": 62,
+     "ects": 36,
+     "id": "11"
+    },
+    {
+     "sifra": "sifra 12",
+     "punoIme": "punoIme 12",
+     "ekvivalent": 80,
+     "ects": 70,
+     "id": "12"
+    },
+    {
+     "sifra": "sifra 13",
+     "punoIme": "punoIme 13",
+     "ekvivalent": 77,
+     "ects": 62,
+     "id": "13"
+    },
+    {
+     "sifra": "sifra 14",
+     "punoIme": "punoIme 14",
+     "ekvivalent": 64,
+     "ects": 16,
+     "id": "14"
+    },
+    {
+     "sifra": "sifra 15",
+     "punoIme": "punoIme 15",
+     "ekvivalent": 4,
+     "ects": 62,
+     "id": "15"
+    },
+    {
+     "sifra": "sifra 16",
+     "punoIme": "punoIme 16",
+     "ekvivalent": 39,
+     "ects": 87,
+     "id": "16"
+    },
+    {
+     "sifra": "sifra 17",
+     "punoIme": "punoIme 17",
+     "ekvivalent": 29,
+     "ects": 82,
+     "id": "17"
+    },
+    {
+     "sifra": "sifra 18",
+     "punoIme": "punoIme 18",
+     "ekvivalent": 62,
+     "ects": 68,
+     "id": "18"
+    },
+    {
+     "sifra": "sifra 19",
+     "punoIme": "punoIme 19",
+     "ekvivalent": 53,
+     "ects": 48,
+     "id": "19"
+    },
+    {
+     "sifra": "sifra 20",
+     "punoIme": "punoIme 20",
+     "ekvivalent": 75,
+     "ects": 96,
+     "id": "20"
+    },
+    {
+     "sifra": "sifra 21",
+     "punoIme": "punoIme 21",
+     "ekvivalent": 18,
+     "ects": 77,
+     "id": "21"
+    },
+    {
+     "sifra": "sifra 22",
+     "punoIme": "punoIme 22",
+     "ekvivalent": 39,
+     "ects": 36,
+     "id": "22"
+    },
+    {
+     "sifra": "sifra 23",
+     "punoIme": "punoIme 23",
+     "ekvivalent": 90,
+     "ects": 13,
+     "id": "23"
+    },
+    {
+     "sifra": "sifra 24",
+     "punoIme": "punoIme 24",
+     "ekvivalent": 66,
+     "ects": 45,
+     "id": "24"
+    },
+    {
+     "sifra": "sifra 25",
+     "punoIme": "punoIme 25",
+     "ekvivalent": 55,
+     "ects": 86,
+     "id": "25"
+    },
+    {
+     "sifra": "sifra 26",
+     "punoIme": "punoIme 26",
+     "ekvivalent": 76,
+     "ects": 83,
+     "id": "26"
+    },
+    {
+     "sifra": "sifra 27",
+     "punoIme": "punoIme 27",
+     "ekvivalent": 14,
+     "ects": 34,
+     "id": "27"
+    },
+    {
+     "sifra": "sifra 28",
+     "punoIme": "punoIme 28",
+     "ekvivalent": 57,
+     "ects": 59,
+     "id": "28"
+    },
+    {
+     "sifra": "sifra 29",
+     "punoIme": "punoIme 29",
+     "ekvivalent": 95,
+     "ects": 12,
+     "id": "29"
+    },
+    {
+     "sifra": "sifra 30",
+     "punoIme": "punoIme 30",
+     "ekvivalent": 55,
+     "ects": 36,
+     "id": "30"
+    },
+    {
+     "sifra": "sifra 31",
+     "punoIme": "punoIme 31",
+     "ekvivalent": 44,
+     "ects": 87,
+     "id": "31"
+    },
+    {
+     "sifra": "sifra 32",
+     "punoIme": "punoIme 32",
+     "ekvivalent": 82,
+     "ects": 58,
+     "id": "32"
+    },
+    {
+     "sifra": "sifra 33",
+     "punoIme": "punoIme 33",
+     "ekvivalent": 29,
+     "ects": 60,
+     "id": "33"
+    },
+    {
+     "sifra": "sifra 34",
+     "punoIme": "punoIme 34",
+     "ekvivalent": 73,
+     "ects": 28,
+     "id": "34"
+    },
+    {
+     "sifra": "sifra 35",
+     "punoIme": "punoIme 35",
+     "ekvivalent": 93,
+     "ects": 93,
+     "id": "35"
+    },
+    {
+     "sifra": "sifra 36",
+     "punoIme": "punoIme 36",
+     "ekvivalent": 76,
+     "ects": 7,
+     "id": "36"
+    },
+    {
+     "sifra": "sifra 37",
+     "punoIme": "punoIme 37",
+     "ekvivalent": 55,
+     "ects": 39,
+     "id": "37"
+    },
+    {
+     "sifra": "sifra 38",
+     "punoIme": "punoIme 38",
+     "ekvivalent": 33,
+     "ects": 20,
+     "id": "38"
+    },
+    {
+     "sifra": "sifra 39",
+     "punoIme": "punoIme 39",
+     "ekvivalent": 91,
+     "ects": 50,
+     "id": "39"
+    },
+    {
+     "sifra": "sifra 40",
+     "punoIme": "punoIme 40",
+     "ekvivalent": 12,
+     "ects": 63,
+     "id": "40"
+    },
+    {
+     "sifra": "sifra 41",
+     "punoIme": "punoIme 41",
+     "ekvivalent": 74,
+     "ects": 36,
+     "id": "41"
+    },
+    {
+     "sifra": "sifra 42",
+     "punoIme": "punoIme 42",
+     "ekvivalent": 96,
+     "ects": 63,
+     "id": "42"
+    },
+    {
+     "sifra": "sifra 43",
+     "punoIme": "punoIme 43",
+     "ekvivalent": 56,
+     "ects": 35,
+     "id": "43"
+    },
+    {
+     "sifra": "sifra 44",
+     "punoIme": "punoIme 44",
+     "ekvivalent": 8,
+     "ects": 11,
+     "id": "44"
+    },
+    {
+     "sifra": "sifra 45",
+     "punoIme": "punoIme 45",
+     "ekvivalent": 88,
+     "ects": 30,
+     "id": "45"
+    },
+    {
+     "sifra": "sifra 46",
+     "punoIme": "punoIme 46",
+     "ekvivalent": 39,
+     "ects": 55,
+     "id": "46"
+    },
+    {
+     "sifra": "sifra 47",
+     "punoIme": "punoIme 47",
+     "ekvivalent": 84,
+     "ects": 70,
+     "id": "47"
+    },
+    {
+     "sifra": "sifra 48",
+     "punoIme": "punoIme 48",
+     "ekvivalent": 64,
+     "ects": 20,
+     "id": "48"
+    },
+    {
+     "sifra": "sifra 49",
+     "punoIme": "punoIme 49",
+     "ekvivalent": 86,
+     "ects": 37,
+     "id": "49"
+    },
+    {
+     "sifra": "sifra 50",
+     "punoIme": "punoIme 50",
+     "ekvivalent": 61,
+     "ects": 87,
+     "id": "50"
+    },
+    {
+     "sifra": "sifra 51",
+     "punoIme": "punoIme 51",
+     "ekvivalent": 12,
+     "ects": 89,
+     "id": "51"
+    },
+    {
+     "sifra": "sifra 52",
+     "punoIme": "punoIme 52",
+     "ekvivalent": 79,
+     "ects": 6,
+     "id": "52"
+    },
+    {
+     "sifra": "sifra 53",
+     "punoIme": "punoIme 53",
+     "ekvivalent": 40,
+     "ects": 39,
+     "id": "53"
+    },
+    {
+     "sifra": "sifra 54",
+     "punoIme": "punoIme 54",
+     "ekvivalent": 93,
+     "ects": 72,
+     "id": "54"
+    },
+    {
+     "sifra": "sifra 55",
+     "punoIme": "punoIme 55",
+     "ekvivalent": 77,
+     "ects": 18,
+     "id": "55"
+    },
+    {
+     "sifra": "sifra 56",
+     "punoIme": "punoIme 56",
+     "ekvivalent": 60,
+     "ects": 77,
+     "id": "56"
+    },
+    {
+     "sifra": "sifra 57",
+     "punoIme": "punoIme 57",
+     "ekvivalent": 51,
+     "ects": 71,
+     "id": "57"
+    },
+    {
+     "sifra": "sifra 58",
+     "punoIme": "punoIme 58",
+     "ekvivalent": 20,
+     "ects": 9,
+     "id": "58"
+    },
+    {
+     "sifra": "sifra 59",
+     "punoIme": "punoIme 59",
+     "ekvivalent": 88,
+     "ects": 8,
+     "id": "59"
+    },
+    {
+     "sifra": "sifra 60",
+     "punoIme": "punoIme 60",
+     "ekvivalent": 94,
+     "ects": 32,
+     "id": "60"
+    },
+    {
+     "sifra": "sifra 61",
+     "punoIme": "punoIme 61",
+     "ekvivalent": 14,
+     "ects": 58,
+     "id": "61"
+    },
+    {
+     "sifra": "sifra 62",
+     "punoIme": "punoIme 62",
+     "ekvivalent": 21,
+     "ects": 20,
+     "id": "62"
+    },
+    {
+     "sifra": "sifra 63",
+     "punoIme": "punoIme 63",
+     "ekvivalent": 71,
+     "ects": 28,
+     "id": "63"
+    },
+    {
+     "sifra": "sifra 64",
+     "punoIme": "punoIme 64",
+     "ekvivalent": 87,
+     "ects": 32,
+     "id": "64"
+    },
+    {
+     "sifra": "sifra 65",
+     "punoIme": "punoIme 65",
+     "ekvivalent": 71,
+     "ects": 68,
+     "id": "65"
+    },
+    {
+     "sifra": "sifra 66",
+     "punoIme": "punoIme 66",
+     "ekvivalent": 46,
+     "ects": 49,
+     "id": "66"
+    },
+    {
+     "sifra": "sifra 67",
+     "punoIme": "punoIme 67",
+     "ekvivalent": 43,
+     "ects": 59,
+     "id": "67"
+    },
+    {
+     "sifra": "sifra 68",
+     "punoIme": "punoIme 68",
+     "ekvivalent": 74,
+     "ects": 15,
+     "id": "68"
+    },
+    {
+     "sifra": "sifra 69",
+     "punoIme": "punoIme 69",
+     "ekvivalent": 42,
+     "ects": 23,
+     "id": "69"
+    },
+    {
+     "sifra": "sifra 70",
+     "punoIme": "punoIme 70",
+     "ekvivalent": 55,
+     "ects": 94,
+     "id": "70"
+    },
+    {
+     "sifra": "sifra 71",
+     "punoIme": "punoIme 71",
+     "ekvivalent": 80,
+     "ects": 21,
+     "id": "71"
+    },
+    {
+     "sifra": "sifra 72",
+     "punoIme": "punoIme 72",
+     "ekvivalent": 68,
+     "ects": 51,
+     "id": "72"
+    },
+    {
+     "sifra": "sifra 73",
+     "punoIme": "punoIme 73",
+     "ekvivalent": 47,
+     "ects": 67,
+     "id": "73"
+    },
+    {
+     "sifra": "sifra 74",
+     "punoIme": "punoIme 74",
+     "ekvivalent": 4,
+     "ects": 50,
+     "id": "74"
+    },
+    {
+     "sifra": "sifra 75",
+     "punoIme": "punoIme 75",
+     "ekvivalent": 5,
+     "ects": 85,
+     "id": "75"
+    },
+    {
+     "sifra": "sifra 76",
+     "punoIme": "punoIme 76",
+     "ekvivalent": 47,
+     "ects": 17,
+     "id": "76"
+    },
+    {
+     "sifra": "sifra 77",
+     "punoIme": "punoIme 77",
+     "ekvivalent": 21,
+     "ects": 54,
+     "id": "77"
+    },
+    {
+     "sifra": "sifra 78",
+     "punoIme": "punoIme 78",
+     "ekvivalent": 35,
+     "ects": 63,
+     "id": "78"
+    },
+    {
+     "sifra": "sifra 79",
+     "punoIme": "punoIme 79",
+     "ekvivalent": 45,
+     "ects": 78,
+     "id": "79"
+    },
+    {
+     "sifra": "sifra 80",
+     "punoIme": "punoIme 80",
+     "ekvivalent": 66,
+     "ects": 56,
+     "id": "80"
+    }
+   ]
