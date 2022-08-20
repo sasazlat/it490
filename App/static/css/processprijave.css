@@ -1,0 +1,9 @@
+﻿    td > input[type='text'], html > body input[type='email'] {
+        width: 99%; 
+        /*this will set the width of the textbox equal to its container td*/
+    }
+
+    caption {
+        display: table-caption;
+        text-align: center;
+    }
