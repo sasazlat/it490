@@ -11,8 +11,8 @@ def getListaPredmeta(faks):
     # response, content = h.request(url, 'GET')
     # if response['status'] == '200':
     return response.json()
-        # results = json.loads(content)
-        # return results
+    # results = json.loads(content)
+    # return results
 
 
 # def getListaPredmetaFromJSONfile():
@@ -33,7 +33,7 @@ def getListaFaksJSON(faks):
 def randomPredmeti(faks):
     from random import randint
     #predmeti = getListaPredmetaFromJSONfile()
-    # predmeti = getListaPredmeta(faks)
+    #predmeti = getListaPredmeta(faks)
     predmeti = getListaFaksJSON(faks)
     lenfile = len(predmeti)
     index_predmeta = sorted([randint(1, lenfile-1) for p in range(1, 11)])
