@@ -1,1 +1,1 @@
-web: gunicorn — bind 0.0.0.0:$PORT runserver:Izbor.app
+web: gunicorn — bind 0.0.0.0:$PORT Izbor runserver:app
